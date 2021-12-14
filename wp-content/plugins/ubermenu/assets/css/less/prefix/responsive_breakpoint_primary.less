@@ -1,0 +1,231 @@
+PREFIX  {
+  /* Tab Layering */
+  /* Tabs on Mobile with mouse (but not click) - leave space to hover off */
+  /* Sub indicator close visibility */
+}
+PREFIX  .ubermenu-responsive-toggle,
+PREFIX  .ubermenu-sticky-toggle-wrapper {
+  display: block;
+}
+PREFIX .ubermenu-responsive {
+  width: 100%;
+  max-height: 500px;
+  visibility: visible;
+  overflow: visible;
+  -webkit-transition: max-height 1s ease-in;
+  transition: max-height 0.3s ease-in;
+}
+PREFIX .ubermenu-responsive.ubermenu-items-align-center {
+  text-align: left;
+}
+PREFIX .ubermenu-responsive.ubermenu {
+  margin: 0;
+}
+PREFIX .ubermenu-responsive.ubermenu .ubermenu-nav {
+  display: block;
+}
+PREFIX .ubermenu-responsive.ubermenu-responsive-nocollapse,
+PREFIX .ubermenu-repsonsive.ubermenu-no-transitions {
+  display: block;
+  max-height: none;
+}
+PREFIX .ubermenu-responsive.ubermenu-responsive-collapse {
+  max-height: none;
+  visibility: visible;
+  overflow: visible;
+}
+PREFIX .ubermenu-responsive.ubermenu-responsive-collapse {
+  max-height: 0;
+  overflow: hidden !important;
+  visibility: hidden;
+}
+PREFIX .ubermenu-responsive.ubermenu-in-transition,
+PREFIX .ubermenu-responsive.ubermenu-in-transition .ubermenu-nav {
+  overflow: hidden !important;
+  visibility: visible;
+}
+PREFIX .ubermenu-responsive.ubermenu-responsive-collapse:not(.ubermenu-in-transition) {
+  border-top-width: 0;
+  border-bottom-width: 0;
+}
+PREFIX .ubermenu-responsive.ubermenu-responsive-collapse .ubermenu-item .ubermenu-submenu {
+  display: none;
+}
+PREFIX .ubermenu-responsive .ubermenu-item-level-0 {
+  width: 50%;
+}
+PREFIX .ubermenu-responsive.ubermenu-responsive-single-column .ubermenu-item-level-0 {
+  float: none;
+  clear: both;
+  width: 100%;
+}
+PREFIX .ubermenu-responsive .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target {
+  border: none;
+  box-shadow: none;
+}
+PREFIX .ubermenu-responsive .ubermenu-item.ubermenu-has-submenu-flyout {
+  position: static;
+}
+PREFIX .ubermenu-responsive.ubermenu-sub-indicators .ubermenu-submenu-type-flyout .ubermenu-has-submenu-drop > .ubermenu-target > .ubermenu-sub-indicator {
+  transform: rotate(0);
+  right: 10px;
+  left: auto;
+}
+PREFIX .ubermenu-responsive .ubermenu-nav .ubermenu-item .ubermenu-submenu.ubermenu-submenu-drop {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  top: auto;
+  left: 0 !important;
+}
+PREFIX .ubermenu-responsive.ubermenu-has-border .ubermenu-nav .ubermenu-item .ubermenu-submenu.ubermenu-submenu-drop {
+  left: -1px !important;
+  /* For borders */
+}
+PREFIX .ubermenu-responsive .ubermenu-submenu.ubermenu-submenu-type-mega > .ubermenu-item.ubermenu-column {
+  min-height: 0;
+  border-left: none;
+  float: left;
+  /* override left/center/right content alignment */
+  display: block;
+}
+PREFIX .ubermenu-responsive .ubermenu-item.ubermenu-active > .ubermenu-submenu.ubermenu-submenu-type-mega {
+  max-height: none;
+  height: auto;
+  /*prevent overflow scrolling since android is still finicky*/
+  overflow: visible;
+}
+PREFIX .ubermenu-responsive.ubermenu-transition-slide .ubermenu-item.ubermenu-in-transition > .ubermenu-submenu-drop {
+  max-height: 1000px;
+  /* because of slide transition */
+}
+PREFIX .ubermenu .ubermenu-submenu-type-flyout .ubermenu-submenu-type-mega {
+  min-height: 0;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-column,
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-column-auto {
+  min-width: 50%;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-autoclear > .ubermenu-column {
+  clear: none;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-column:nth-of-type(2n+1) {
+  clear: both;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-submenu-retractor-top:not(.ubermenu-submenu-retractor-top-2) .ubermenu-column:nth-of-type(2n+1) {
+  clear: none;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-submenu-retractor-top:not(.ubermenu-submenu-retractor-top-2) .ubermenu-column:nth-of-type(2n+2) {
+  clear: both;
+}
+PREFIX .ubermenu-responsive-single-column-subs .ubermenu-submenu .ubermenu-item {
+  float: none;
+  clear: both;
+  width: 100%;
+  min-width: 100%;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tabs,
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tabs-group,
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tab,
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tab-content-panel {
+  /** TABS SHOULD BE 100% && ACCORDION */
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  left: 0;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tabs,
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tab-content-panel {
+  min-height: 0 !important;
+  /* Override Inline Style from JS */
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tabs {
+  z-index: 15;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tab-content-panel {
+  z-index: 20;
+}
+PREFIX .ubermenu-responsive .ubermenu-tab {
+  position: relative;
+}
+PREFIX .ubermenu-responsive .ubermenu-tab.ubermenu-active {
+  position: relative;
+  z-index: 20;
+}
+PREFIX .ubermenu-responsive .ubermenu-tab > .ubermenu-target {
+  border-width: 0 0 1px 0;
+}
+PREFIX .ubermenu-responsive.ubermenu-sub-indicators .ubermenu-tabs > .ubermenu-tabs-group > .ubermenu-tab.ubermenu-has-submenu-drop > .ubermenu-target > .ubermenu-sub-indicator {
+  transform: rotate(0);
+  right: 10px;
+  left: auto;
+}
+PREFIX .ubermenu-responsive .ubermenu-tabs > .ubermenu-tabs-group > .ubermenu-tab > .ubermenu-tab-content-panel {
+  top: auto;
+  border-width: 1px;
+}
+PREFIX .ubermenu-responsive .ubermenu-tab-layout-bottom > .ubermenu-tabs-group {
+  /*position:relative;*/
+}
+PREFIX .ubermenu-reponsive .ubermenu-item-level-0 > .ubermenu-submenu-type-stack {
+  /* Top Level Stack Columns */
+  position: relative;
+}
+PREFIX .ubermenu-responsive .ubermenu-submenu-type-stack .ubermenu-column,
+PREFIX .ubermenu-responsive .ubermenu-submenu-type-stack .ubermenu-column-auto {
+  /* Stack Columns */
+  width: 100%;
+  max-width: 100%;
+}
+PREFIX .ubermenu-responsive .ubermenu-item-mini {
+  /* Mini items */
+  min-width: 0;
+  width: auto;
+  float: left;
+  clear: none !important;
+}
+PREFIX .ubermenu-responsive .ubermenu-item.ubermenu-item-mini > a.ubermenu-target {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+PREFIX .ubermenu-responsive .ubermenu-item.ubermenu-hide-mobile {
+  /* Hiding items */
+  display: none !important;
+}
+PREFIX .ubermenu-responsive.ubermenu-hide-bkgs .ubermenu-submenu.ubermenu-submenu-bkg-img {
+  /** Hide Background Images in Submenu */
+  background-image: none;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-item-level-0.ubermenu-item-mini {
+  min-width: 0;
+  width: auto;
+}
+PREFIX .ubermenu-vertical .ubermenu-item.ubermenu-item-level-0 {
+  width: 100%;
+}
+PREFIX .ubermenu-vertical.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-item-has-children > .ubermenu-target > .ubermenu-sub-indicator {
+  right: 10px;
+  left: auto;
+  transform: rotate(0);
+}
+PREFIX .ubermenu-vertical .ubermenu-item.ubermenu-item-level-0.ubermenu-relative.ubermenu-active > .ubermenu-submenu-drop.ubermenu-submenu-align-vertical_parent_item {
+  top: auto;
+}
+PREFIX .ubermenu.ubermenu-responsive .ubermenu-tabs {
+  position: static;
+}
+PREFIX .ubermenu:not(.ubermenu-is-mobile):not(.ubermenu-submenu-indicator-closes) .ubermenu-submenu .ubermenu-tab[data-ubermenu-trigger="mouseover"] .ubermenu-tab-content-panel,
+PREFIX .ubermenu:not(.ubermenu-is-mobile):not(.ubermenu-submenu-indicator-closes) .ubermenu-submenu .ubermenu-tab[data-ubermenu-trigger="hover_intent"] .ubermenu-tab-content-panel {
+  margin-left: 6%;
+  width: 94%;
+  min-width: 94%;
+}
+PREFIX .ubermenu.ubermenu-submenu-indicator-closes .ubermenu-active > .ubermenu-target > .ubermenu-sub-indicator-close {
+  display: block;
+}
+PREFIX .ubermenu.ubermenu-submenu-indicator-closes .ubermenu-active > .ubermenu-target > .ubermenu-sub-indicator {
+  display: none;
+}
+PREFIX .ubermenu .ubermenu-tabs .ubermenu-tab-content-panel {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.075);
+}

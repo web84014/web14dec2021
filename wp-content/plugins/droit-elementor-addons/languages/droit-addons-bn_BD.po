@@ -1,0 +1,4585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Droit Elementor Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-17 06:54+0000\n"
+"PO-Revision-Date: 2021-11-17 09:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: droit-addons"
+
+#: core.php:114
+msgid ""
+" requires Elementor</strong> plugin to be installed and activated. Please "
+"install Elementor to continue."
+msgstr ""
+
+#: modules/widgets/contact-form-7/contact-form-7.php:167
+#: modules/widgets/twitter-feed/twitter-feed.php:253
+msgid " Width"
+msgstr " প্রস্থ"
+
+#: modules/widgets/testimonial/testimonial.php:185
+#: modules/widgets/testimonial/testimonial.php:192
+#: modules/widgets/testimonial/testimonial.php:199
+msgid ""
+" “ The best support in the planet! I was having problems with the plug-in, "
+"Droitadons presents your services with flexible, convenient and multipurpose "
+"layouts. “"
+msgstr ""
+" \"শ্রেষ্ঠ সমর্থন গ্রহের! আমি সমস্যা হচ্ছে, সঙ্গে, প্লাগ-ইন, Droitadons "
+"উপস্থাপন সঙ্গে আপনার সেবা, নমনীয় সুবিধাজনক এবং বহুমুখী বিন্যাস. \""
+
+#: modules/widgets/caldera-form/caldera-form.php:542
+#: modules/widgets/contact-form-7/contact-form-7.php:122
+#: modules/widgets/ninjaform/ninjaform.php:520
+#: modules/widgets/weform/weform.php:601 modules/widgets/wpform/wpform.php:414
+#, php-format
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: modules/widgets/google-map/google-map.php:127
+msgid "-180 to 360"
+msgstr "-180 360"
+
+#: modules/widgets/google-map/google-map.php:140
+msgid "-90 to 90"
+msgstr "-90 থেকে 90"
+
+#: modules/widgets/pricing/pricing.php:874
+msgid "/ Monthly"
+msgstr "/ মাসিক"
+
+#: modules/widgets/google-map/google-map.php:209
+msgid "10"
+msgstr "10"
+
+#: modules/widgets/google-map/google-map.php:152
+msgid "10-100"
+msgstr "10-100"
+
+#: modules/widgets/google-map/google-map.php:200
+msgid "10.013988"
+msgstr "10.013988"
+
+#: modules/widgets/timeline/timeline.php:138
+#: modules/widgets/timeline/timeline.php:352
+msgid "2020 - 2021"
+msgstr "2020 - 2021"
+
+#: modules/widgets/google-map/google-map.php:190
+msgid "46.414382"
+msgstr "46.414382"
+
+#: modules/widgets/caldera-form/caldera-form.php:526
+msgid ""
+"</strong> please activate caldera form. You can activate caldera form from "
+"here"
+msgstr ""
+
+#: modules/widgets/contact-form-7/contact-form-7.php:106
+msgid ""
+"</strong> please activate Contact Form 7. You can activate Contact Form 7 "
+"from here"
+msgstr ""
+
+#: modules/widgets/ninjaform/ninjaform.php:504
+msgid ""
+"</strong> please activate Ninja Form. You can activate ninja form from here"
+msgstr ""
+
+#: modules/widgets/weform/weform.php:585
+msgid "</strong> please activate weform. You can activate weform from here"
+msgstr ""
+
+#: modules/widgets/wpform/wpform.php:398
+msgid "</strong> please activate WPform. You can activate WPform from here"
+msgstr ""
+
+#: modules/widgets/caldera-form/caldera-form.php:532
+msgid ""
+"</strong> please install and activate caldera form. You can install and "
+"activate caldera form from here"
+msgstr ""
+
+#: modules/widgets/contact-form-7/contact-form-7.php:112
+msgid ""
+"</strong> please install and activate Contact Form 7. You can install and "
+"activate Contact Form 7 from here"
+msgstr ""
+
+#: modules/widgets/ninjaform/ninjaform.php:510
+msgid ""
+"</strong> please install and activate Ninja Forms. You can install and "
+"activate Ninja Forms from here"
+msgstr ""
+
+#: modules/widgets/weform/weform.php:591
+msgid ""
+"</strong> please install and activate weForms. You can install and activate "
+"weForms from here"
+msgstr ""
+
+#: modules/widgets/wpform/wpform.php:404
+msgid ""
+"</strong> please install and activate WPForms. You can install and activate "
+"WPForms from here"
+msgstr ""
+
+#: core.php:107
+msgid ""
+"</strong> requires <strong>Elementor</strong> plugin to be active. Please "
+"activate Elementor to continue."
+msgstr ""
+
+#: core.php:40
+#, php-format
+msgid ""
+"<b>Droit Addons</b> requires PHP version %1$s+, which is currently NOT "
+"RUNNING on this server."
+msgstr ""
+
+#: modules/widgets/tab/tab.php:191
+msgid ""
+"<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. "
+"Velit officia consequat duis enim velit mollit. Exercitation veniam "
+"consequat sunt nostrud amet. Minim mollit non deserunt ullamco est sit "
+"aliqua dolor do amet sint.</p>"
+msgstr ""
+
+#: modules/widgets/iconbox/iconbox.php:64
+msgid "Absolute"
+msgstr "পরম"
+
+#: includes/widgets.php:44 modules/widgets/accordion/accordion.php:24
+msgid "Accordion"
+msgstr "অ্যাকর্ডিয়ন"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:74
+msgid "Account Name"
+msgstr "অ্যাকাউন্ট নাম"
+
+#: modules/widgets/countdown/countdown.php:216
+msgid "Action Type"
+msgstr "কর্ম টাইপ"
+
+#: modules/widgets/countdown/countdown.php:208
+msgid "Actions After Expire"
+msgstr "কর্ম পরে মেয়াদ শেষ"
+
+#: modules/widgets/caldera-form/caldera-form.php:528
+msgid "Activate caldera form"
+msgstr "সক্রিয় caldera ফর্ম"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:108
+msgid "Activate Contact Form 7"
+msgstr "সক্রিয় ফরম যোগাযোগ করুন 7"
+
+#: core.php:105
+msgid "Activate Elementor"
+msgstr "সক্রিয় Elementor"
+
+#: modules/widgets/ninjaform/ninjaform.php:506
+msgid "Activate Ninja Form"
+msgstr "সক্রিয় নিনজা ফরম"
+
+#: modules/widgets/weform/weform.php:587
+msgid "Activate weform"
+msgstr "সক্রিয় weform"
+
+#: modules/widgets/wpform/wpform.php:400
+msgid "Activate WPform"
+msgstr "সক্রিয় WPform"
+
+#: modules/widgets/faq/faq.php:670 modules/widgets/tab/tab.php:646
+msgid "Active"
+msgstr "সক্রিয়"
+
+#: modules/widgets/image-carousel/image-carousel.php:717
+msgid "Active Color"
+msgstr "সক্রিয় রঙ"
+
+#: includes/admin.php:69
+msgid "Active Droit Elementor Addons PRO"
+msgstr "সক্রিয় Droit Elementor অ্যাডঅনস প্রো"
+
+#: includes/admin.php:70
+msgid "Active License"
+msgstr "সক্রিয় লাইসেন্স"
+
+#: includes/admin.php:129
+msgid "Active PRO"
+msgstr "সক্রিয় প্রো"
+
+#: modules/widgets/image-carousel/image-carousel.php:1425
+msgid "Add Images"
+msgstr "ছবি যোগ করুন"
+
+#: templates/admin/dashboard.php:61
+msgid "Added Api here"
+msgstr "যোগ করা হয়েছে Api-টি এখানে"
+
+#: includes/widgets.php:59 modules/widgets/alert/alert.php:14
+#: modules/widgets/contact-form-7/contact-form-7.php:858
+msgid "Alert"
+msgstr "সতর্কতা"
+
+#: modules/widgets/alert/alert.php:41
+msgid "Alert Content"
+msgstr "সতর্কতা কন্টেন্ট"
+
+#: modules/widgets/alert/alert.php:144 modules/widgets/alert/alert.php:156
+msgid "Alert Cross Icon"
+msgstr "সতর্কতা ক্রস আইকন"
+
+#: modules/widgets/alert/alert.php:48
+msgid "Alert Design"
+msgstr "সতর্কতা ডিজাইন"
+
+#: modules/widgets/alert/alert.php:119 modules/widgets/alert/alert.php:131
+#: modules/widgets/alert/alert.php:314
+msgid "Alert Icon"
+msgstr "সতর্কতা আইকন"
+
+#: modules/widgets/alert/alert.php:66 modules/widgets/alert/alert.php:254
+msgid "Alert Title"
+msgstr "সতর্কতা শিরোনাম"
+
+#: modules/widgets/testimonial/testimonial.php:1719
+msgid "Align Items"
+msgstr "সারিবদ্ধ আইটেম"
+
+#: modules/widgets/bloglist/bloglist.php:599
+#: modules/widgets/iconbox/iconbox.php:620
+#: modules/widgets/pricing/pricing.php:98
+#: modules/widgets/testimonial/testimonial.php:1051
+#: modules/widgets/testimonial/testimonial.php:1708
+msgid "Alignment"
+msgstr "প্রান্তিককরণ"
+
+#: templates/admin/elements.php:15
+msgid "all"
+msgstr "সব"
+
+#: includes/widgets.php:74 modules/widgets/animated-text/animated-text.php:14
+msgid "Animated Text"
+msgstr "অ্যানিমেটেড টেক্সট"
+
+#: modules/widgets/animated-text/animated-text.php:211
+msgid "Animated Text Style"
+msgstr "অ্যানিমেটেড টেক্সট শৈলী"
+
+#: modules/widgets/infobox/infobox.php:895
+#: modules/widgets/pricing/pricing.php:1625
+msgid "Animation"
+msgstr "অ্যানিমেশন"
+
+#: modules/widgets/animated-text/animated-text.php:102
+msgid "Animation Type"
+msgstr "অ্যানিমেশন টাইপ"
+
+#: templates/admin/dashboard.php:60
+msgid "Api"
+msgstr "এপিআই"
+
+#: templates/admin/api.php:7
+msgid "Api Data"
+msgstr "Api-টি তথ্য"
+
+#: modules/widgets/image-carousel/image-carousel.php:464
+msgid "Arrow"
+msgstr "তীর"
+
+#: modules/widgets/blog/blog.php:219 modules/widgets/bloglist/bloglist.php:519
+#: modules/widgets/product-list/product-list.php:98
+msgid "Ascending Order"
+msgstr "ক্রম আরোহী"
+
+#: modules/widgets/blog/blog.php:204 modules/widgets/blog/blog.php:1246
+#: modules/widgets/bloglist/bloglist.php:501
+#: modules/widgets/bloglist/bloglist.php:885
+#: modules/widgets/product-list/product-list.php:84
+msgid "Author"
+msgstr "লেখক"
+
+#: modules/widgets/image-carousel/image-carousel.php:270
+#: modules/widgets/testimonial/testimonial.php:363
+msgid "Autoplay"
+msgstr "অটোপ্লে"
+
+#: modules/widgets/image-carousel/image-carousel.php:282
+#: modules/widgets/testimonial/testimonial.php:375
+msgid "Autoplay Speed"
+msgstr "অটোপ্লে গতি"
+
+#: modules/widgets/team/team.php:110
+msgid "Avatar"
+msgstr "অবতার"
+
+#: modules/widgets/google-map/google-map.php:96
+msgid "Avoid"
+msgstr "চলুন"
+
+#: modules/templates/views/template-library-header.php:11
+msgid "Back to Library"
+msgstr "ফিরে লাইব্রেরি"
+
+#: modules/widgets/bloglist/bloglist.php:590
+#: modules/widgets/contact-form-7/contact-form-7.php:159
+#: modules/widgets/contact-form-7/contact-form-7.php:1039
+#: modules/widgets/countdown/countdown.php:310
+#: modules/widgets/countdown/countdown.php:339
+#: modules/widgets/infobox/infobox.php:928
+#: modules/widgets/newstricker/newstricker.php:74
+#: modules/widgets/pricing/pricing.php:140
+#: modules/widgets/pricing/pricing.php:188
+#: modules/widgets/process/process.php:575 modules/widgets/table/table.php:339
+#: modules/widgets/table/table.php:440
+#: modules/widgets/timeline/timeline.php:1017
+#: modules/widgets/twitter-feed/twitter-feed.php:244
+msgid "Background"
+msgstr "ব্যাকগ্রাউন্ড"
+
+#: modules/widgets/blog/blog.php:1126
+msgid "Background After Color"
+msgstr "পরে ব্যাকগ্রাউন্ড রং"
+
+#: modules/widgets/alert/alert.php:184 modules/widgets/blog/blog.php:661
+#: modules/widgets/blog/blog.php:1140
+#: modules/widgets/bloglist/bloglist.php:1115
+#: modules/widgets/bloglist/bloglist.php:1165
+#: modules/widgets/caldera-form/caldera-form.php:176
+#: modules/widgets/caldera-form/caldera-form.php:215
+#: modules/widgets/caldera-form/caldera-form.php:445
+#: modules/widgets/caldera-form/caldera-form.php:476
+#: modules/widgets/card/card.php:418 modules/widgets/card/card.php:468
+#: modules/widgets/card/card.php:1056 modules/widgets/card/card.php:1129
+#: modules/widgets/contact-form-7/contact-form-7.php:472
+#: modules/widgets/contact-form-7/contact-form-7.php:534
+#: modules/widgets/contact-form-7/contact-form-7.php:561
+#: modules/widgets/contact-form-7/contact-form-7.php:752
+#: modules/widgets/contact-form-7/contact-form-7.php:794
+#: modules/widgets/contact-form-7/contact-form-7.php:909
+#: modules/widgets/contact-form-7/contact-form-7.php:962
+#: modules/widgets/faq/faq.php:410 modules/widgets/faq/faq.php:470
+#: modules/widgets/faq/faq.php:816 modules/widgets/faq/faq.php:910
+#: modules/widgets/image-carousel/image-carousel.php:597
+#: modules/widgets/image-carousel/image-carousel.php:615
+#: modules/widgets/image-carousel/image-carousel.php:754
+#: modules/widgets/infobox/infobox.php:548
+#: modules/widgets/infobox/infobox.php:742
+#: modules/widgets/infobox/infobox.php:840
+#: modules/widgets/newstricker/newstricker.php:251
+#: modules/widgets/newstricker/newstricker.php:305
+#: modules/widgets/ninjaform/ninjaform.php:176
+#: modules/widgets/ninjaform/ninjaform.php:215
+#: modules/widgets/ninjaform/ninjaform.php:437
+#: modules/widgets/ninjaform/ninjaform.php:468
+#: modules/widgets/pricing/pricing.php:656
+#: modules/widgets/pricing/pricing.php:720
+#: modules/widgets/pricing/pricing.php:1232
+#: modules/widgets/pricing/pricing.php:1530
+#: modules/widgets/pricing/pricing.php:1603
+#: modules/widgets/process/process.php:335
+#: modules/widgets/share-buttons/share-buttons.php:187
+#: modules/widgets/share-buttons/share-buttons.php:257
+#: modules/widgets/share-buttons/share-buttons.php:446
+#: modules/widgets/share-buttons/share-buttons.php:506
+#: modules/widgets/tab/tab.php:1091 modules/widgets/tab/tab.php:1179
+#: modules/widgets/table/table.php:503 modules/widgets/table/table.php:572
+#: modules/widgets/table/table.php:709 modules/widgets/title/title.php:335
+#: modules/widgets/title/title.php:444 modules/widgets/title/title.php:492
+#: modules/widgets/title/title.php:589 modules/widgets/weform/weform.php:204
+#: modules/widgets/weform/weform.php:243 modules/widgets/weform/weform.php:519
+#: modules/widgets/weform/weform.php:550 modules/widgets/wpform/wpform.php:177
+#: modules/widgets/wpform/wpform.php:216
+msgid "Background Color"
+msgstr "পটভূমির রঙ"
+
+#: modules/widgets/infobox/infobox.php:282
+msgid "Background Spacing"
+msgstr "পটভূমি, ফাঁকা স্থান"
+
+#: modules/widgets/pricing/pricing.php:779
+msgid "Baht"
+msgstr "বাত"
+
+#: modules/widgets/share-buttons/share-buttons.php:110
+#: modules/widgets/share-buttons/share-buttons.php:382
+msgid "Baidu"
+msgstr "বাইডু"
+
+#: modules/widgets/pricing/pricing.php:233
+msgid "Basic Package"
+msgstr "বেসিক প্যাকেজ"
+
+#: modules/widgets/animated-text/animated-text.php:124
+#: modules/widgets/animated-text/animated-text.php:127
+msgid "Before Text"
+msgstr "আগে টেক্সট"
+
+#: modules/widgets/pricing/pricing.php:889
+msgid "Below"
+msgstr "নিচে"
+
+#: modules/widgets/pricing/pricing.php:888
+msgid "Beside"
+msgstr "পাশে"
+
+#: modules/widgets/tab/tab.php:179
+msgid "Best for the web developers"
+msgstr "সেরা জন্য ওয়েব ডেভেলপারদের"
+
+#: includes/widgets.php:89 modules/widgets/blog/blog.php:23
+msgid "Blog"
+msgstr "ব্লগ"
+
+#: includes/widgets.php:103 modules/widgets/bloglist/bloglist.php:14
+msgid "Blog List"
+msgstr "ব্লগ তালিকা"
+
+#: modules/widgets/share-buttons/share-buttons.php:95
+#: modules/widgets/share-buttons/share-buttons.php:367
+msgid "Blogger"
+msgstr "ব্লগার"
+
+#: modules/widgets/blog/blog.php:1220 modules/widgets/bloglist/bloglist.php:658
+#: modules/widgets/bloglist/bloglist.php:1128
+#: modules/widgets/bloglist/bloglist.php:1178 modules/widgets/card/card.php:431
+#: modules/widgets/card/card.php:749 modules/widgets/card/card.php:767
+#: modules/widgets/contact-form-7/contact-form-7.php:497
+#: modules/widgets/contact-form-7/contact-form-7.php:574
+#: modules/widgets/contact-form-7/contact-form-7.php:683
+#: modules/widgets/contact-form-7/contact-form-7.php:936
+#: modules/widgets/contact-form-7/contact-form-7.php:1000
+#: modules/widgets/contact-form-7/contact-form-7.php:1071
+#: modules/widgets/countdown/countdown.php:388 modules/widgets/faq/faq.php:506
+#: modules/widgets/faq/faq.php:650 modules/widgets/faq/faq.php:717
+#: modules/widgets/faq/faq.php:866 modules/widgets/faq/faq.php:923
+#: modules/widgets/iconbox/iconbox.php:495
+#: modules/widgets/image-carousel/image-carousel.php:632
+#: modules/widgets/infobox/infobox.php:597
+#: modules/widgets/infobox/infobox.php:784
+#: modules/widgets/pricing/pricing.php:253
+#: modules/widgets/pricing/pricing.php:1552
+#: modules/widgets/process/process.php:705
+#: modules/widgets/process/process.php:877
+#: modules/widgets/share-buttons/share-buttons.php:209
+#: modules/widgets/share-buttons/share-buttons.php:459
+#: modules/widgets/tab/tab.php:352 modules/widgets/tab/tab.php:562
+#: modules/widgets/tab/tab.php:626 modules/widgets/tab/tab.php:693
+#: modules/widgets/tab/tab.php:927 modules/widgets/tab/tab.php:1138
+#: modules/widgets/tab/tab.php:1192 modules/widgets/table/table.php:516
+#: modules/widgets/table/table.php:653 modules/widgets/team/team.php:330
+#: modules/widgets/testimonial/testimonial.php:1002
+#: modules/widgets/timeline/timeline.php:907
+#: modules/widgets/timeline/timeline.php:944
+msgid "Border"
+msgstr "সীমান্ত"
+
+#: modules/widgets/caldera-form/caldera-form.php:487
+#: modules/widgets/contact-form-7/contact-form-7.php:818
+#: modules/widgets/infobox/infobox.php:854
+#: modules/widgets/ninjaform/ninjaform.php:479
+#: modules/widgets/pricing/pricing.php:1614
+#: modules/widgets/weform/weform.php:561
+msgid "Border Color"
+msgstr "সীমানা রং"
+
+#: modules/widgets/timeline/timeline.php:930
+msgid "Border line"
+msgstr "সীমানা রেখা"
+
+#: modules/widgets/alert/alert.php:202 modules/widgets/blog/blog.php:886
+#: modules/widgets/blog/blog.php:1228 modules/widgets/blog/blog.php:1349
+#: modules/widgets/blog/blog.php:1494 modules/widgets/bloglist/bloglist.php:666
+#: modules/widgets/bloglist/bloglist.php:1135
+#: modules/widgets/bloglist/bloglist.php:1186
+#: modules/widgets/caldera-form/caldera-form.php:106
+#: modules/widgets/caldera-form/caldera-form.php:410
+#: modules/widgets/card/card.php:439 modules/widgets/card/card.php:488
+#: modules/widgets/card/card.php:775 modules/widgets/card/card.php:805
+#: modules/widgets/card/card.php:1077 modules/widgets/card/card.php:1141
+#: modules/widgets/contact-form-7/contact-form-7.php:227
+#: modules/widgets/contact-form-7/contact-form-7.php:484
+#: modules/widgets/contact-form-7/contact-form-7.php:692
+#: modules/widgets/countdown/countdown.php:396 modules/widgets/faq/faq.php:434
+#: modules/widgets/faq/faq.php:522 modules/widgets/faq/faq.php:658
+#: modules/widgets/faq/faq.php:725 modules/widgets/faq/faq.php:874
+#: modules/widgets/faq/faq.php:931 modules/widgets/iconbox/iconbox.php:503
+#: modules/widgets/image-carousel/image-carousel.php:644
+#: modules/widgets/infobox/infobox.php:295
+#: modules/widgets/infobox/infobox.php:605
+#: modules/widgets/infobox/infobox.php:792
+#: modules/widgets/infobox/infobox.php:1007
+#: modules/widgets/ninjaform/ninjaform.php:106
+#: modules/widgets/ninjaform/ninjaform.php:395
+#: modules/widgets/pricing/pricing.php:1559
+#: modules/widgets/process/process.php:612
+#: modules/widgets/share-buttons/share-buttons.php:217
+#: modules/widgets/share-buttons/share-buttons.php:467
+#: modules/widgets/tab/tab.php:360 modules/widgets/tab/tab.php:570
+#: modules/widgets/tab/tab.php:634 modules/widgets/tab/tab.php:701
+#: modules/widgets/tab/tab.php:935 modules/widgets/tab/tab.php:1146
+#: modules/widgets/table/table.php:411 modules/widgets/table/table.php:524
+#: modules/widgets/table/table.php:661
+#: modules/widgets/testimonial/testimonial.php:1013
+#: modules/widgets/timeline/timeline.php:915
+#: modules/widgets/twitter-feed/twitter-feed.php:283
+#: modules/widgets/weform/weform.php:134 modules/widgets/weform/weform.php:469
+#: modules/widgets/wpform/wpform.php:106
+msgid "Border Radius"
+msgstr "সীমানা ব্যাসার্ধ"
+
+#: modules/widgets/timeline/timeline.php:978
+msgid "Border Width"
+msgstr "সীমানা প্রস্থ"
+
+#: modules/sticky/sticky.php:204
+#: modules/widgets/image-carousel/image-carousel.php:511
+#: modules/widgets/testimonial/testimonial.php:986
+#: modules/widgets/timeline/timeline.php:599
+msgid "Bottom"
+msgstr "নীচে"
+
+#: modules/widgets/tab/tab.php:730
+msgid "Bottom Shape"
+msgstr "নীচে আকৃতি"
+
+#: modules/widgets/tab/tab.php:480 modules/widgets/tab/tab.php:988
+#: modules/widgets/tab/tab.php:1041
+msgid "Bottom Spacing"
+msgstr "নীচে ফাঁক"
+
+#: modules/widgets/process/process.php:731
+#: modules/widgets/timeline/timeline.php:777
+msgid "Box Height"
+msgstr "বক্স উচ্চতা"
+
+#: modules/widgets/alert/alert.php:214
+msgid "Box Margin"
+msgstr "বক্স মার্জিন"
+
+#: modules/widgets/alert/alert.php:237
+msgid "Box Padding"
+msgstr "বক্স প্যাডিং"
+
+#: modules/widgets/iconbox/iconbox.php:517
+#: modules/widgets/pricing/pricing.php:150
+#: modules/widgets/pricing/pricing.php:198
+#: modules/widgets/process/process.php:315
+msgid "Box Shadow"
+msgstr "বক্স ছায়া"
+
+#: modules/widgets/process/process.php:754
+#: modules/widgets/timeline/timeline.php:753
+msgid "Box Width"
+msgstr "বক্স প্রস্থ"
+
+#: modules/widgets/newstricker/newstricker.php:121
+msgid "Breaking News"
+msgstr "ব্রেকিং নিউজ"
+
+#: modules/widgets/share-buttons/share-buttons.php:106
+#: modules/widgets/share-buttons/share-buttons.php:378
+msgid "Buffer"
+msgstr "বাফার"
+
+#: modules/widgets/animated-text/animated-text.php:126
+msgid "Build project with <br> Droit Elementor"
+msgstr ""
+
+#: modules/widgets/caldera-form/caldera-form.php:321
+#: modules/widgets/card/card.php:1024 modules/widgets/faq/faq.php:352
+#: modules/widgets/faq/faq.php:788 modules/widgets/infobox/infobox.php:724
+#: modules/widgets/ninjaform/ninjaform.php:321
+#: modules/widgets/pricing/pricing.php:1433 modules/widgets/tab/tab.php:211
+#: modules/widgets/tab/tab.php:1061 modules/widgets/weform/weform.php:350
+#: modules/widgets/wpform/wpform.php:369
+msgid "Button"
+msgstr "বাটন"
+
+#: modules/widgets/infobox/infobox.php:472
+msgid "Button Link"
+msgstr "বাটন লিঙ্ক"
+
+#: modules/widgets/ninjaform/ninjaform.php:329
+#: modules/widgets/weform/weform.php:399
+msgid "Button Position"
+msgstr "বাটন অবস্থান"
+
+#: modules/widgets/newstricker/newstricker.php:231
+msgid "Button style"
+msgstr "বাটন শৈলী"
+
+#: modules/widgets/card/card.php:139 modules/widgets/infobox/infobox.php:458
+#: modules/widgets/pricing/pricing.php:1487
+msgid "Button Text"
+msgstr "বাটন টেক্সট"
+
+#: modules/widgets/newstricker/newstricker.php:119
+msgid "Button Title"
+msgstr "বোতাম শিরোনাম"
+
+#: modules/widgets/caldera-form/caldera-form.php:341
+#: modules/widgets/weform/weform.php:370
+msgid "Button Width"
+msgstr "বাটন প্রস্থ"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:637
+msgid "Buttons"
+msgstr "বোতাম"
+
+#: modules/widgets/pricing/pricing.php:1489
+msgid "Buy Package"
+msgstr "প্যাকেজ কিনতে"
+
+#: templates/admin/modal.php:22
+#, php-format
+msgid "Buy the %1$s and unlock premium features!"
+msgstr "কিনতে %1$s এবং প্রিমিয়াম বৈশিষ্ট্য আনলক!"
+
+#: includes/widgets.php:418 modules/widgets/caldera-form/caldera-form.php:12
+#: modules/widgets/caldera-form/caldera-form.php:48
+msgid "Caldera Form"
+msgstr "Caldera ফর্ম"
+
+#: modules/widgets/timeline/timeline.php:110
+#: modules/widgets/timeline/timeline.php:121
+#: modules/widgets/timeline/timeline.php:324
+#: modules/widgets/timeline/timeline.php:335
+msgid "Calender"
+msgstr "ইস্ত্রি"
+
+#: core/droit-images.php:259
+#, php-format
+msgid "Cannot get attachment because image key: %s has no both id & url."
+msgstr "পেতে পারে না, সংযুক্তি, কারণ ইমেজ কী: %s has no উভয় আইডি & url টি."
+
+#: core/droit-images.php:245
+#, php-format
+msgid "Cannot get attachment because image key: %s is not exits."
+msgstr "পেতে পারে না, সংযুক্তি, কারণ ইমেজ কী: %s হয় না, প্রস্থান."
+
+#: core/droit-images.php:239
+msgid "Cannot get attachment because missing elementor widget settings."
+msgstr "পেতে পারে না, সংযুক্তি, কারণ অনুপস্থিত elementor উইজেট সেটিংস."
+
+#: modules/widgets/image-carousel/image-carousel.php:1447
+#: modules/widgets/image-carousel/image-carousel.php:1466
+msgid "Caption"
+msgstr "ক্যাপশন"
+
+#: includes/widgets.php:117 modules/widgets/card/card.php:23
+#: modules/widgets/card/card.php:65
+msgid "Card"
+msgstr "কার্ড"
+
+#: modules/widgets/card/card.php:301
+msgid "Card Image"
+msgstr "কার্ড ইমেজ"
+
+#: modules/widgets/image-carousel/image-carousel.php:91
+msgid "Carousel Type"
+msgstr "Carousel টাইপ"
+
+#: core/helper.php:60 modules/widgets/blog/blog.php:347
+#: modules/widgets/blog/blog.php:1094 modules/widgets/bloglist/bloglist.php:552
+msgid "Category"
+msgstr "বিভাগ"
+
+#: modules/widgets/table/table.php:227 modules/widgets/table/table.php:241
+msgid "Cell Text"
+msgstr "সেল টেক্সট"
+
+#: modules/widgets/accordion/accordion.php:392
+#: modules/widgets/bloglist/bloglist.php:607 modules/widgets/card/card.php:377
+#: modules/widgets/countdown/countdown.php:289
+#: modules/widgets/iconbox/iconbox.php:636
+#: modules/widgets/iconbox/iconbox.php:689
+#: modules/widgets/image-carousel/image-carousel.php:324
+#: modules/widgets/image-carousel/image-carousel.php:532
+#: modules/widgets/infobox/infobox.php:508
+#: modules/widgets/infobox/infobox.php:530
+#: modules/widgets/ninjaform/ninjaform.php:337
+#: modules/widgets/pricing/pricing.php:106
+#: modules/widgets/testimonial/testimonial.php:989
+#: modules/widgets/testimonial/testimonial.php:1059
+#: modules/widgets/testimonial/testimonial.php:1727
+#: modules/widgets/testimonial/testimonial.php:1752
+#: modules/widgets/timeline/timeline.php:595
+#: modules/widgets/title/title.php:371 modules/widgets/title/title.php:529
+#: modules/widgets/title/title.php:626 modules/widgets/weform/weform.php:407
+msgid "Center"
+msgstr "কেন্দ্র"
+
+#: modules/widgets/image-carousel/image-carousel.php:1013
+#: modules/widgets/image-carousel/image-carousel.php:1057
+msgid "Change Icon"
+msgstr "পরিবর্তন আইকন"
+
+#: modules/widgets/infobox/infobox.php:241
+msgid "Change Image Background Color"
+msgstr "পরিবর্তন ইমেজ ব্যাকগ্রাউন্ড রং"
+
+#: modules/widgets/image-carousel/image-carousel.php:561
+msgid "Change Style"
+msgstr "পরিবর্তন শৈলী"
+
+#: templates/admin/main.php:20
+msgid "Check Documentation"
+msgstr "পরীক্ষা করে দেখুন ডকুমেন্টেশন"
+
+#: templates/admin/main.php:91
+msgid "Check out these video tutorials & ease your journey. "
+msgstr "পরীক্ষা করে দেখুন এই ভিডিও টিউটোরিয়াল & আরাম আপনার যাত্রা. "
+
+#: modules/widgets/process/process.php:231
+msgid "Cheeky chap hotpot blimey victoria sponge cuppa bonnet oxford squiffy!"
+msgstr ""
+"নির্লজ্জ লোকটা hotpot blimey ভিক্টোরিয়া স্পঞ্জ cuppa bonnet অক্সফোর্ড "
+"squiffy!"
+
+#: modules/widgets/countdown/countdown.php:219
+msgid "Choose type if you want to set a message or a redirect link"
+msgstr ""
+"নির্বাচন টাইপ যদি, আপনি সেট করতে চান একটি বার্তা বা একটি লিঙ্ক পুনর্চালনা "
+"করুন"
+
+#: modules/widgets/faq/faq.php:331
+msgid ""
+"Choose your training and register for free. If you are a freelancer, the "
+"courses are entirely taken care of, you have nothing to pay and no money to "
+"advance."
+msgstr ""
+"বেছে নিন আপনার প্রশিক্ষণ এবং বিনামূল্যে জন্য রেজিস্টার. আপনি একটি freelancer,"
+" কোর্স হয়, সম্পূর্ণরূপে যত্ন নেওয়া, আপনি কিছুই দিতে এবং কোন টাকা আগাম."
+
+#: modules/widgets/card/card.php:269
+msgid "Circle"
+msgstr "বৃত্ত"
+
+#: modules/widgets/google-map/google-map.php:74
+msgid "City Hall, New York, NY"
+msgstr "সিটি হল, নিউ ইয়র্ক, এনওয়াই"
+
+#: modules/widgets/testimonial/testimonial.php:150
+msgid "Client Image"
+msgstr "ক্লায়েন্ট ইমেজ"
+
+#: modules/widgets/animated-text/animated-text.php:109
+msgid "Clip"
+msgstr "ক্লিপ"
+
+#: modules/widgets/table/table.php:175
+msgid "Col Span"
+msgstr "কর্নেল Span"
+
+#: modules/widgets/blog/blog.php:1015 modules/widgets/blog/blog.php:1370
+#: modules/widgets/blog/blog.php:1515 modules/widgets/card/card.php:863
+#: modules/widgets/card/card.php:911 modules/widgets/card/card.php:1044
+#: modules/widgets/card/card.php:1117 modules/widgets/iconbox/iconbox.php:563
+#: modules/widgets/iconbox/iconbox.php:595
+#: modules/widgets/image-carousel/image-carousel.php:577
+#: modules/widgets/image-carousel/image-carousel.php:733
+#: modules/widgets/image-carousel/image-carousel.php:1205
+#: modules/widgets/image-carousel/image-carousel.php:1280
+#: modules/widgets/image-carousel/image-carousel.php:1328
+#: modules/widgets/image-carousel/image-carousel.php:1403
+#: modules/widgets/infobox/infobox.php:630
+#: modules/widgets/infobox/infobox.php:679
+#: modules/widgets/infobox/infobox.php:757
+#: modules/widgets/newstricker/newstricker.php:239
+#: modules/widgets/newstricker/newstricker.php:317
+#: modules/widgets/pricing/pricing.php:1256
+#: modules/widgets/pricing/pricing.php:1331
+#: modules/widgets/pricing/pricing.php:1649
+#: modules/widgets/process/process.php:836
+#: modules/widgets/process/process.php:861
+#: modules/widgets/process/process.php:933
+#: modules/widgets/process/process.php:947
+#: modules/widgets/process/process.php:970
+#: modules/widgets/process/process.php:1023
+#: modules/widgets/process/process.php:1048
+#: modules/widgets/share-buttons/share-buttons.php:169
+#: modules/widgets/share-buttons/share-buttons.php:239
+#: modules/widgets/share-buttons/share-buttons.php:429
+#: modules/widgets/share-buttons/share-buttons.php:488
+#: modules/widgets/testimonial/testimonial.php:531
+#: modules/widgets/testimonial/testimonial.php:568
+#: modules/widgets/testimonial/testimonial.php:675
+#: modules/widgets/testimonial/testimonial.php:779
+#: modules/widgets/timeline/timeline.php:1081
+#: modules/widgets/timeline/timeline.php:1184
+#: modules/widgets/timeline/timeline.php:1282
+#: modules/widgets/twitter-feed/twitter-feed.php:393
+#: modules/widgets/twitter-feed/twitter-feed.php:467
+msgid "Color"
+msgstr "রঙ"
+
+#: modules/widgets/wpform/wpform.php:294
+msgid "Colors"
+msgstr "রং"
+
+#: modules/widgets/table/table.php:167
+msgid "Column"
+msgstr "কলাম"
+
+#: modules/widgets/countdown/countdown.php:445
+msgid "Column Gap"
+msgstr "কলাম ফাঁক"
+
+#: modules/widgets/table/table.php:99
+msgid "Column Name"
+msgstr "কলাম নাম"
+
+#: modules/extention/custom-column.php:34
+msgid "Column Order"
+msgstr "কলাম অর্ডার"
+
+#: modules/extention/custom-column.php:38
+#, php-format
+msgid ""
+"Column ordering for responsive design. You can learn more about CSS order "
+"property from %sMDN%s."
+msgstr ""
+"কলাম ক্রম জন্য প্রতিক্রিয়াশীল নকশা. আপনি করতে পারেন সম্পর্কে আরো জানতে, "
+"সিএসএস, যাতে সম্পত্তি থেকে %sMDN%s."
+
+#: modules/widgets/table/table.php:109
+msgid "Column Span"
+msgstr "কলাম স্প্যান"
+
+#: modules/widgets/blog/blog.php:137 modules/widgets/blog/blog.php:518
+#: modules/widgets/blog/blog.php:630 modules/widgets/bloglist/bloglist.php:223
+#: modules/widgets/process/process.php:103
+#: modules/widgets/twitter-feed/twitter-feed.php:123
+msgid "Columns"
+msgstr "কলাম"
+
+#: includes/modules.php:68
+msgid "Common Section"
+msgstr "সাধারণ বিভাগে"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:85
+msgid "Consumer Key"
+msgstr "উপভোক্তা কী"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:96
+msgid "Consumer Secret"
+msgstr "ভোক্তা গোপন"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:66
+msgid "Contact Form 07"
+msgstr "যোগাযোগ ফর্ম 07"
+
+#: includes/widgets.php:403
+msgid "Contact Form 7"
+msgstr "ফরম যোগাযোগ করুন 7"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:23
+msgid "Contact form 7"
+msgstr "ফরম যোগাযোগ করুন 7"
+
+#: modules/widgets/blog/blog.php:808 modules/widgets/bloglist/bloglist.php:208
+#: modules/widgets/testimonial/testimonial.php:964
+msgid "Contain"
+msgstr "থাকে"
+
+#: modules/widgets/animated-text/animated-text.php:95
+#: modules/widgets/blog/blog.php:1036 modules/widgets/bloglist/bloglist.php:797
+#: modules/widgets/card/card.php:968 modules/widgets/faq/faq.php:257
+#: modules/widgets/faq/faq.php:744 modules/widgets/iconbox/iconbox.php:527
+#: modules/widgets/image-carousel/image-carousel.php:75
+#: modules/widgets/image-carousel/image-carousel.php:397
+#: modules/widgets/image-carousel/image-carousel.php:1177
+#: modules/widgets/image-carousel/image-carousel.php:1310
+#: modules/widgets/infobox/infobox.php:672
+#: modules/widgets/pricing/pricing.php:223
+#: modules/widgets/pricing/pricing.php:507
+#: modules/widgets/pricing/pricing.php:756
+#: modules/widgets/pricing/pricing.php:1127
+#: modules/widgets/pricing/pricing.php:1443
+#: modules/widgets/process/process.php:127
+#: modules/widgets/process/process.php:141
+#: modules/widgets/process/process.php:377
+#: modules/widgets/process/process.php:391
+#: modules/widgets/process/process.php:897
+#: modules/widgets/process/process.php:991
+#: modules/widgets/share-buttons/share-buttons.php:72
+#: modules/widgets/share-buttons/share-buttons.php:344
+#: modules/widgets/tab/tab.php:64 modules/widgets/tab/tab.php:168
+#: modules/widgets/tab/tab.php:885 modules/widgets/table/table.php:82
+#: modules/widgets/table/table.php:230 modules/widgets/table/table.php:244
+#: modules/widgets/team/team.php:102
+#: modules/widgets/testimonial/testimonial.php:140
+#: modules/widgets/testimonial/testimonial.php:478
+#: modules/widgets/testimonial/testimonial.php:667
+#: modules/widgets/timeline/timeline.php:67
+#: modules/widgets/timeline/timeline.php:1005
+#: modules/widgets/timeline/timeline.php:1161
+#: modules/widgets/title/title.php:283 modules/widgets/title/title.php:576
+#: modules/widgets/twitter-feed/twitter-feed.php:487
+msgid "Content"
+msgstr "কন্টেন্ট"
+
+#: modules/widgets/accordion/accordion.php:383
+#: modules/widgets/card/card.php:369
+#: modules/widgets/countdown/countdown.php:281
+msgid "Content Alignment"
+msgstr "কন্টেন্ট প্রান্তিককরণ"
+
+#: modules/widgets/testimonial/testimonial.php:331
+#: modules/widgets/testimonial/testimonial.php:1772
+msgid "Content Gap"
+msgstr "কন্টেন্ট ফাঁক"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:142
+msgid "Content Length"
+msgstr "কন্টেন্ট দৈর্ঘ্য"
+
+#: modules/widgets/team/team.php:621
+msgid "Content Offset"
+msgstr "কন্টেন্ট অফসেট"
+
+#: modules/widgets/card/card.php:127
+msgid "Content Reverse"
+msgstr "কন্টেন্ট বিপরীত"
+
+#: modules/widgets/animated-text/animated-text.php:181
+#: modules/widgets/team/team.php:566
+msgid "Content Style"
+msgstr "কন্টেন্ট শৈলী"
+
+#: modules/widgets/newstricker/newstricker.php:297
+msgid "Content style"
+msgstr "কন্টেন্ট শৈলী"
+
+#: modules/widgets/table/table.php:190
+msgid "Content Type"
+msgstr "কন্টেন্ট টাইপ"
+
+#: modules/widgets/google-map/google-map.php:48
+msgid "Contents"
+msgstr "বিষয়বস্তু"
+
+#: templates/admin/dashboard.php:48
+msgid "Control all the modules"
+msgstr "নিয়ন্ত্রণ সব মডিউল"
+
+#: templates/admin/dashboard.php:35
+msgid "Control all the widgets"
+msgstr "নিয়ন্ত্রণ সমস্ত উইজেট"
+
+#: includes/widgets.php:131 modules/widgets/countdown/countdown.php:23
+msgid "Countdown"
+msgstr "সূচনা"
+
+#: modules/widgets/blog/blog.php:807 modules/widgets/bloglist/bloglist.php:207
+#: modules/widgets/testimonial/testimonial.php:963
+msgid "Cover"
+msgstr "কভার"
+
+#: core/helper.php:91 core/helper.php:110 core/helper.php:137
+#: core/helper.php:156 core/helper.php:185
+msgid "Create a Form First"
+msgstr "একটি ফর্ম তৈরি প্রথম"
+
+#: modules/widgets/blog/blog.php:249
+msgid "Create stunning website effects on your site and blow everyone away."
+msgstr "তৈরি অত্যাশ্চর্য ওয়েবসাইট উপর প্রভাব আপনার সাইট এবং ঘা সবাই দূরে."
+
+#: modules/widgets/alert/alert.php:376
+msgid "Cross Icon"
+msgstr "ক্রস আইকন"
+
+#: modules/widgets/table/table.php:121 modules/widgets/table/table.php:274
+msgid "CSS Class"
+msgstr "সিএসএস ক্লাস"
+
+#: modules/widgets/table/table.php:130 modules/widgets/table/table.php:286
+msgid "CSS ID"
+msgstr "সিএসএস আইডি"
+
+#: modules/widgets/testimonial/testimonial.php:184
+#: modules/widgets/testimonial/testimonial.php:191
+#: modules/widgets/testimonial/testimonial.php:198
+msgid "CTO, Droitthemes"
+msgstr "সিটিও Droitthemes"
+
+#: modules/widgets/pricing/pricing.php:961
+#: modules/widgets/pricing/pricing.php:1056
+msgid "Currency Color"
+msgstr "মুদ্রা রঙ"
+
+#: modules/widgets/pricing/pricing.php:830
+msgid "Currency Format"
+msgstr "মুদ্রা বিন্যাস"
+
+#: modules/widgets/pricing/pricing.php:773
+msgid "Currency Symbol"
+msgstr "মুদ্রা প্রতীক"
+
+#: modules/widgets/blog/blog.php:821 modules/widgets/blog/blog.php:943
+#: modules/widgets/blog/blog.php:1153 modules/widgets/blog/blog.php:1284
+#: modules/widgets/blog/blog.php:1429
+#: modules/widgets/image-carousel/image-carousel.php:96
+#: modules/widgets/image-carousel/image-carousel.php:1219
+#: modules/widgets/image-carousel/image-carousel.php:1343
+#: modules/widgets/infobox/infobox.php:251
+#: modules/widgets/infobox/infobox.php:310
+#: modules/widgets/infobox/infobox.php:950
+#: modules/widgets/pricing/pricing.php:794 modules/widgets/team/team.php:371
+#: modules/widgets/team/team.php:623
+#: modules/widgets/testimonial/testimonial.php:605
+#: modules/widgets/testimonial/testimonial.php:711
+#: modules/widgets/testimonial/testimonial.php:815
+#: modules/widgets/testimonial/testimonial.php:1124
+#: modules/widgets/testimonial/testimonial.php:1243
+#: modules/widgets/testimonial/testimonial.php:1362
+#: modules/widgets/testimonial/testimonial.php:1495
+#: modules/widgets/testimonial/testimonial.php:1601
+#: modules/widgets/timeline/timeline.php:1098
+#: modules/widgets/timeline/timeline.php:1201
+#: modules/widgets/timeline/timeline.php:1299
+#: modules/widgets/wpform/wpform.php:297
+msgid "Custom"
+msgstr "কাস্টম"
+
+#: includes/modules.php:73
+msgid "Custom Column"
+msgstr "কাস্টম কলাম"
+
+#: modules/widgets/countdown/countdown.php:138
+msgid "Custom Label"
+msgstr "কাস্টম লেবেল"
+
+#: modules/widgets/pricing/pricing.php:806
+msgid "Custom Symbol"
+msgstr "কাস্টম প্রতীক"
+
+#: modules/widgets/image-carousel/image-carousel.php:1485
+msgid "Custom URL"
+msgstr "কাস্টম URL"
+
+#: modules/extention/custom-column.php:20
+msgid "Custom Width"
+msgstr "কাস্টম প্রস্থ"
+
+#: templates/admin/dashboard.php:21
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+#: modules/widgets/pricing/pricing.php:1316
+msgid "Dashed"
+msgstr "ড্যাশ"
+
+#: modules/widgets/blog/blog.php:200 modules/widgets/blog/blog.php:1392
+#: modules/widgets/bloglist/bloglist.php:497
+#: modules/widgets/bloglist/bloglist.php:970
+#: modules/widgets/product-list/product-list.php:80
+msgid "Date"
+msgstr "আপলোড"
+
+#: modules/widgets/timeline/timeline.php:522
+msgid "Date Format"
+msgstr "তারিখ বিন্যাস"
+
+#: modules/widgets/timeline/timeline.php:1260
+msgid "Date Time"
+msgstr "তারিখ সময়"
+
+#: modules/widgets/countdown/countdown.php:82
+#: modules/widgets/countdown/countdown.php:147
+#: modules/widgets/countdown/countdown.php:149
+#: modules/widgets/countdown/countdown.php:150
+msgid "Days"
+msgstr "দিন"
+
+#: modules/widgets/countdown/countdown.php:478
+#: modules/widgets/countdown/countdown.php:532
+#: modules/widgets/countdown/countdown.php:619
+#: modules/widgets/countdown/countdown.php:678
+msgid "Days Color"
+msgstr "দিন রঙ"
+
+#: modules/widgets/blog/blog.php:805 modules/widgets/bloglist/bloglist.php:205
+#: modules/widgets/testimonial/testimonial.php:961
+#: modules/widgets/testimonial/testimonial.php:984
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: modules/widgets/bloglist/bloglist.php:365
+msgid "Default Auth"
+msgstr "ডিফল্ট প্রমাণীকরণ"
+
+#: modules/widgets/table/table.php:177 modules/widgets/table/table.php:214
+msgid "Default: 1 (optional)."
+msgstr "ডিফল্ট: 1 (ঐচ্ছিক)."
+
+#: modules/widgets/card/card.php:286
+msgid "Delay"
+msgstr "বিলম্ব"
+
+#: modules/widgets/share-buttons/share-buttons.php:99
+#: modules/widgets/share-buttons/share-buttons.php:371
+msgid "Delicious"
+msgstr "সুস্বাদু"
+
+#: modules/widgets/card/card.php:276
+msgid "Depth"
+msgstr "গভীরতা"
+
+#: modules/widgets/caldera-form/caldera-form.php:306
+#: modules/widgets/weform/weform.php:334
+msgid "Desc Color"
+msgstr "নিম্নক্রমে রঙ"
+
+#: modules/widgets/caldera-form/caldera-form.php:276
+#: modules/widgets/team/team.php:613 modules/widgets/weform/weform.php:304
+#: modules/widgets/wpform/wpform.php:286
+msgid "Desc Typography"
+msgstr "নিম্নক্রমে ছাপাখানার বিদ্যা"
+
+#: modules/widgets/blog/blog.php:220 modules/widgets/bloglist/bloglist.php:520
+#: modules/widgets/product-list/product-list.php:99
+msgid "Descending Order"
+msgstr "ক্রম সাজানো"
+
+#: modules/widgets/iconbox/iconbox.php:585
+#: modules/widgets/image-carousel/image-carousel.php:1448
+#: modules/widgets/image-carousel/image-carousel.php:1467
+#: modules/widgets/infobox/infobox.php:444 modules/widgets/tab/tab.php:1009
+msgid "Description"
+msgstr "বিবরণ:"
+
+#: modules/widgets/pricing/pricing.php:371
+msgid "Description Color"
+msgstr "বিবরণ: রঙ"
+
+#: modules/widgets/ninjaform/ninjaform.php:306
+#: modules/widgets/wpform/wpform.php:349
+msgid "Description Text Color"
+msgstr "বিবরণ: টেক্সট রঙ"
+
+#: modules/widgets/ninjaform/ninjaform.php:276
+msgid "Description Typography"
+msgstr "বিবরণ: ছাপাখানার বিদ্যা"
+
+#: modules/widgets/image-carousel/image-carousel.php:144
+msgid "Design"
+msgstr "নকশা"
+
+#: modules/widgets/testimonial/testimonial.php:78
+msgid "Design 1"
+msgstr "ডিজাইন 1"
+
+#: modules/widgets/testimonial/testimonial.php:79
+msgid "Design 2"
+msgstr "নকশা 2"
+
+#: modules/widgets/testimonial/testimonial.php:80
+msgid "Design 3"
+msgstr "ডিজাইন 3"
+
+#: modules/widgets/blog/blog.php:100 modules/widgets/bloglist/bloglist.php:84
+#: modules/widgets/card/card.php:71 modules/widgets/process/process.php:86
+#: modules/widgets/team/team.php:85
+#: modules/widgets/testimonial/testimonial.php:74
+msgid "Design Format"
+msgstr "নকশা বিন্যাস"
+
+#: modules/widgets/testimonial/testimonial.php:130
+#: modules/widgets/testimonial/testimonial.php:771
+msgid "Designation"
+msgstr "উপাধি"
+
+#: modules/widgets/google-map/google-map.php:153
+msgid "determines the horizontal field of view of the image"
+msgstr "নির্ধারণ করে অনুভূমিক ক্ষেত্র দেখুন ছবিটি"
+
+#: modules/widgets/process/process.php:357
+msgid "Developed App"
+msgstr "উন্নত অ্যাপ্লিকেশন"
+
+#: modules/widgets/share-buttons/share-buttons.php:98
+#: modules/widgets/share-buttons/share-buttons.php:370
+msgid "Digg"
+msgstr "Digg"
+
+#: modules/widgets/countdown/countdown.php:421
+msgid "Digit & Number"
+msgstr "ডাক ও নম্বর"
+
+#: modules/widgets/countdown/countdown.php:429
+msgid "Digits"
+msgstr "সংখ্যা"
+
+#: modules/widgets/google-map/google-map.php:62
+msgid "Directions"
+msgstr "নির্দেশ"
+
+#: templates/admin/elements.php:23
+msgid "Disable All"
+msgstr "সমস্ত অক্ষম"
+
+#: modules/widgets/team/team.php:229
+msgid "Display Social Profiles?"
+msgstr "প্রদর্শন সামাজিক প্রোফাইলের?"
+
+#: modules/widgets/pricing/pricing.php:1299
+msgid "Divider"
+msgstr "বিভাজক"
+
+#: templates/admin/main.php:16
+msgid "Documentation"
+msgstr "ডকুমেন্টেশন"
+
+#: modules/widgets/pricing/pricing.php:777
+msgid "Dollar"
+msgstr "ডলার"
+
+#: modules/widgets/image-carousel/image-carousel.php:468
+msgid "Dot"
+msgstr "ডট"
+
+#: modules/widgets/pricing/pricing.php:1315
+msgid "Dotted"
+msgstr "ডটেড"
+
+#: modules/widgets/pricing/pricing.php:1314
+msgid "Double"
+msgstr "ডবল"
+
+#: modules/widgets/faq/faq.php:131
+msgid "Down Icon"
+msgstr "নিচে আইকন"
+
+#: includes/api.php:86
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: modules/widgets/google-map/google-map.php:239
+msgid "Driving"
+msgstr "ড্রাইভিং"
+
+#: modules/controls/icons/icons.php:20
+msgid "Droit - Icons"
+msgstr "Droit - আইকন"
+
+#: includes/widgets.php:539
+msgid "DROIT ADDONS"
+msgstr "DROIT অ্যাডঅনস"
+
+#: includes/admin.php:43 modules/widgets/animated-text/animated-text.php:141
+#: modules/widgets/animated-text/animated-text.php:157
+msgid "Droit Addons"
+msgstr "Droit অ্যাডঅনস"
+
+#: modules/widgets/title/title.php:250
+msgid "Droit Addons For Elementor"
+msgstr "Droit অ্যাডঅনস জন্য Elementor"
+
+#: modules/templates/api.php:25
+msgid "Droit Addons Library"
+msgstr "Droit অ্যাডঅনস লাইব্রেরি"
+
+#: modules/widgets/title/title.php:150
+msgid "Droit Element Addons"
+msgstr "Droit উপাদান অ্যাডঅনস"
+
+#. Name of the plugin
+#: includes/admin.php:42 templates/admin/dashboard.php:9
+msgid "Droit Elementor Addons"
+msgstr "Droit Elementor অ্যাডঅনস"
+
+#. Description of the plugin
+msgid ""
+"Droit Elementor Addons is a bundle of super useful widgets. Build a "
+"beautiful website using this addon without any hassle. Just plug and play."
+msgstr ""
+"Droit Elementor অ্যাডঅনস একটি বান্ডিল সুপার দরকারী উইজেট. নির্মাণ, একটি "
+"সুন্দর ওয়েবসাইট ব্যবহার করে এই addon কোন অসুবিধা ছাড়াই. শুধু প্লাগ এবং "
+"খেলা."
+
+#: modules/widgets/infobox/infobox.php:397
+msgid "Droit info box Title"
+msgstr "Droit তথ্য বক্স শিরোনাম"
+
+#: modules/widgets/animated-text/animated-text.php:163
+msgid "Droit Plugins"
+msgstr "Droit প্লাগইন"
+
+#: includes/widgets.php:540
+msgid "DROIT PRO"
+msgstr "DROIT প্রো"
+
+#: modules/widgets/animated-text/animated-text.php:160
+msgid "Droit Themes"
+msgstr "Droit থিম"
+
+#. Author of the plugin
+msgid "DroitThemes"
+msgstr "DroitThemes"
+
+#: modules/widgets/countdown/countdown.php:60
+msgid "Due Date"
+msgstr "কারণে তারিখ"
+
+#: modules/widgets/table/table.php:198
+msgid "Editor"
+msgstr "সম্পাদক"
+
+#: templates/admin/dashboard.php:34 templates/admin/elements.php:7
+msgid "Elements"
+msgstr "উপাদান"
+
+#: modules/widgets/infobox/infobox.php:446
+msgid ""
+"Elements blocks from a range of categories to build pages that are rich in "
+"visual style."
+msgstr ""
+"উপাদান ব্লক থেকে একটি পরিসীমা, বিভাগ পেজ নির্মাণ করা হয় যে সমৃদ্ধ চাক্ষুষ "
+"শৈলী."
+
+#: templates/admin/elements.php:21
+msgid "Enable All"
+msgstr "সক্রিয় সব"
+
+#: modules/widgets/pricing/pricing.php:514
+msgid "Enable as Highlited"
+msgstr "সক্রিয় হিসাবে Highlited"
+
+#: modules/widgets/bloglist/bloglist.php:381
+msgid "Enable Author Link"
+msgstr "সক্রিয় লেখক লিঙ্ক"
+
+#: modules/widgets/faq/faq.php:341 modules/widgets/tab/tab.php:200
+msgid "Enable Button"
+msgstr "বাটন সক্রিয়"
+
+#: modules/widgets/faq/faq.php:61 modules/widgets/process/process.php:148
+#: modules/widgets/process/process.php:398
+#: modules/widgets/share-buttons/share-buttons.php:123
+#: modules/widgets/share-buttons/share-buttons.php:395
+#: modules/widgets/timeline/timeline.php:252
+msgid "Enable Icon"
+msgstr "সক্রিয় আইকন"
+
+#: modules/widgets/tab/tab.php:74
+msgid "Enable Media"
+msgstr "সক্রিয় মিডিয়া"
+
+#: modules/widgets/pricing/pricing.php:326
+msgid "Enable Top Header"
+msgstr "সক্রিয়, শীর্ষ হেডার"
+
+#: modules/widgets/newstricker/newstricker.php:189
+msgid "Enable URL"
+msgstr "সক্রিয় URL টি"
+
+#: modules/widgets/countdown/countdown.php:244
+msgid "End Content"
+msgstr "শেষ কন্টেন্ট"
+
+#: modules/widgets/google-map/google-map.php:263
+msgid "End Point"
+msgstr "শেষ বিন্দু"
+
+#: modules/extention/common-section.php:48
+msgid ""
+"Enjoy additional and exclusive features to create a stunning website with "
+"premium Droit Pro"
+msgstr ""
+"উপভোগ করুন অতিরিক্ত এবং একচেটিয়া বৈশিষ্ট্য তৈরি করার জন্য একটি অত্যাশ্চর্য "
+"ওয়েবসাইট সঙ্গে প্রিমিয়াম Droit প্রো"
+
+#: modules/widgets/testimonial/testimonial.php:142
+#: modules/widgets/testimonial/testimonial.php:143
+msgid "Enter Content"
+msgstr "লিখতে কন্টেন্ট"
+
+#: modules/widgets/testimonial/testimonial.php:132
+#: modules/widgets/testimonial/testimonial.php:133
+msgid "Enter Designation"
+msgstr "লিখতে উপাধি"
+
+#: modules/widgets/testimonial/testimonial.php:112
+msgid "Enter Heading"
+msgstr "শিরোনাম লিখুন"
+
+#: modules/widgets/share-buttons/share-buttons.php:152
+msgid "Enter media name"
+msgstr "লিখতে মিডিয়া নাম"
+
+#: modules/widgets/card/card.php:268
+#: modules/widgets/testimonial/testimonial.php:122
+#: modules/widgets/testimonial/testimonial.php:123
+msgid "Enter Name"
+msgstr "নাম লিখুন"
+
+#: modules/widgets/blog/blog.php:180 modules/widgets/bloglist/bloglist.php:475
+#: modules/widgets/product-list/product-list.php:67
+msgid "Enter Number"
+msgstr "প্রবেশ সংখ্যা"
+
+#: modules/widgets/title/title.php:305
+msgid "Enter Your Content"
+msgstr "আপনার বিষয়বস্তু লিখুন"
+
+#: modules/widgets/card/card.php:114 modules/widgets/faq/faq.php:332
+#: modules/widgets/iconbox/iconbox.php:292
+#: modules/widgets/image-carousel/image-carousel.php:145
+#: modules/widgets/pricing/pricing.php:243
+#: modules/widgets/pricing/pricing.php:1638
+#: modules/widgets/process/process.php:232 modules/widgets/tab/tab.php:192
+#: modules/widgets/timeline/timeline.php:98
+#: modules/widgets/timeline/timeline.php:243
+msgid "Enter your description"
+msgstr "আপনার বিবরণ লিখুন"
+
+#: modules/widgets/card/card.php:143 modules/widgets/faq/faq.php:355
+#: modules/widgets/tab/tab.php:214
+msgid "Enter your text"
+msgstr "আপনার টেক্সট লিখুন"
+
+#: modules/widgets/alert/alert.php:69
+#: modules/widgets/animated-text/animated-text.php:142
+#: modules/widgets/card/card.php:102 modules/widgets/faq/faq.php:269
+#: modules/widgets/iconbox/iconbox.php:231
+#: modules/widgets/image-carousel/image-carousel.php:134
+#: modules/widgets/newstricker/newstricker.php:122
+#: modules/widgets/newstricker/newstricker.php:181
+#: modules/widgets/process/process.php:220
+#: modules/widgets/process/process.php:470 modules/widgets/tab/tab.php:88
+#: modules/widgets/tab/tab.php:180 modules/widgets/timeline/timeline.php:87
+#: modules/widgets/timeline/timeline.php:232
+msgid "Enter your title"
+msgstr "আপনার শিরোনাম লিখুন"
+
+#: modules/widgets/title/title.php:151 modules/widgets/title/title.php:251
+msgid "Enter Your Title Text"
+msgstr "লিখুন আপনার শিরোনাম টেক্সট"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:847
+msgid "Error Messages"
+msgstr "ত্রুটি বার্তা"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:839
+msgid "Errors"
+msgstr "ত্রুটি"
+
+#: modules/widgets/pricing/pricing.php:778
+msgid "Euro"
+msgstr "ইউরো"
+
+#: modules/widgets/table/table.php:628
+msgid "Even Row bg Color"
+msgstr "এমনকি সারি বিজি রঙ"
+
+#: modules/widgets/share-buttons/share-buttons.php:96
+#: modules/widgets/share-buttons/share-buttons.php:368
+msgid "Evernote"
+msgstr "Evernote এই ধরনের"
+
+#: modules/widgets/card/card.php:278
+msgid "Example: -0.90, 0.50, 0.40, -0.80, 0.80"
+msgstr "উদাহরণ: -0.90, 0.50, 0.40, -0.80, 0.80"
+
+#: modules/widgets/blog/blog.php:288 modules/widgets/bloglist/bloglist.php:299
+msgid "Excerpt"
+msgstr "হাবিব"
+
+#: modules/widgets/bloglist/bloglist.php:313
+msgid "Excerpt Length"
+msgstr "উদ্ধৃতাংশ দৈর্ঘ্য"
+
+#: templates/admin/extentions.php:7
+msgid "Extentions"
+msgstr "Extentions"
+
+#: includes/admin.php:189 includes/api.php:55
+#: modules/widgets/share-buttons/share-buttons.php:83
+#: modules/widgets/share-buttons/share-buttons.php:151
+#: modules/widgets/share-buttons/share-buttons.php:355
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/widgets/share-buttons/share-buttons.php:278
+#: modules/widgets/share-buttons/share-buttons.php:527
+msgid "facebook"
+msgstr "facebook"
+
+#: templates/admin/main.php:67
+msgid "Facing an Issue or Problem?"
+msgstr "সম্মুখীন একটি সমস্যা বা সমস্যা?"
+
+#: includes/widgets.php:146 modules/widgets/faq/faq.php:23
+#: modules/widgets/faq/faq.php:382
+msgid "Faq"
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন"
+
+#: modules/widgets/faq/faq.php:450
+msgid "Faq Item"
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন আইটেম"
+
+#: modules/widgets/faq/faq.php:386
+msgid "Faq Title 1"
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন শিরোনাম 1"
+
+#: modules/widgets/faq/faq.php:387
+msgid "Faq Title 2"
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন শিরোনাম 2"
+
+#: modules/widgets/faq/faq.php:388
+msgid "Faq Title 3"
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন শিরোনাম 3"
+
+#: modules/widgets/pricing/pricing.php:1116
+msgid "Feature"
+msgstr "বৈশিষ্ট্য"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:1030
+msgid "Feedback"
+msgstr "প্রতিক্রিয়া"
+
+#: modules/widgets/weform/weform.php:81
+msgid "Field Width"
+msgstr "ক্ষেত্রের প্রস্থ"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:338
+#: modules/widgets/contact-form-7/contact-form-7.php:901
+msgid "Fields"
+msgstr "ক্ষেত্র"
+
+#: modules/widgets/testimonial/testimonial.php:183
+msgid "Filip Justić"
+msgstr "Filip Justić"
+
+#: modules/widgets/blog/blog.php:806 modules/widgets/bloglist/bloglist.php:206
+#: modules/widgets/testimonial/testimonial.php:962
+msgid "Fill"
+msgstr "ভরাট"
+
+#: modules/templates/views/template-library-badge.php:15
+msgid "Filter"
+msgstr "ফিল্টার"
+
+#: templates/admin/dashboard.php:22
+msgid "Find all information"
+msgstr "এটি সব তথ্য"
+
+#: modules/widgets/share-buttons/share-buttons.php:93
+#: modules/widgets/share-buttons/share-buttons.php:365
+msgid "Flicker"
+msgstr "মিট্মিট্"
+
+#: modules/widgets/caldera-form/caldera-form.php:189
+#: modules/widgets/contact-form-7/contact-form-7.php:555
+#: modules/widgets/ninjaform/ninjaform.php:189
+#: modules/widgets/weform/weform.php:217 modules/widgets/wpform/wpform.php:190
+msgid "Focus"
+msgstr "ফোকাস"
+
+#: modules/widgets/caldera-form/caldera-form.php:74
+#: modules/widgets/ninjaform/ninjaform.php:74
+#: modules/widgets/weform/weform.php:73 modules/widgets/wpform/wpform.php:73
+msgid "Form Fields"
+msgstr "ফর্ম ক্ষেত্রগুলি"
+
+#: modules/widgets/caldera-form/caldera-form.php:233
+msgid "Form Label"
+msgstr "ফর্ম লেবেল"
+
+#: modules/widgets/ninjaform/ninjaform.php:233
+#: modules/widgets/wpform/wpform.php:234
+msgid "Form Labels"
+msgstr "ফর্ম লেবেল"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:188
+msgid "Form Margin"
+msgstr "ফর্ম মার্জিন"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:200
+msgid "Form Padding"
+msgstr "ফর্ম প্যাডিং"
+
+#: modules/widgets/google-map/google-map.php:150
+msgid "fov"
+msgstr "fov"
+
+#: modules/widgets/pricing/pricing.php:780
+msgid "Franc"
+msgstr "ফ্রাংক"
+
+#: templates/admin/elements.php:16
+msgid "free"
+msgstr "ফ্রি"
+
+#: modules/widgets/caldera-form/caldera-form.php:329
+#: modules/widgets/weform/weform.php:358 modules/widgets/wpform/wpform.php:377
+msgid "Full Width Button?"
+msgstr "সম্পূর্ণ প্রস্থ বোতাম?"
+
+#: modules/widgets/pricing/pricing.php:1385
+msgid "Gap"
+msgstr "ফাঁক"
+
+#: modules/widgets/pricing/pricing.php:1406
+msgid "Gap Between Icon & Texts"
+msgstr "ফাঁক আইকন এবং গ্রন্থে"
+
+#: modules/widgets/alert/alert.php:175
+#: modules/widgets/animated-text/animated-text.php:59
+#: modules/widgets/blog/blog.php:654 modules/widgets/bloglist/bloglist.php:581
+#: modules/widgets/contact-form-7/contact-form-7.php:150
+#: modules/widgets/countdown/countdown.php:273 modules/widgets/faq/faq.php:402
+#: modules/widgets/iconbox/iconbox.php:315
+#: modules/widgets/image-carousel/image-carousel.php:1097
+#: modules/widgets/infobox/infobox.php:492
+#: modules/widgets/newstricker/newstricker.php:65
+#: modules/widgets/pricing/pricing.php:73
+#: modules/widgets/process/process.php:563 modules/widgets/tab/tab.php:294
+#: modules/widgets/table/table.php:321 modules/widgets/team/team.php:306
+#: modules/widgets/timeline/timeline.php:715
+#: modules/widgets/twitter-feed/twitter-feed.php:224
+msgid "General"
+msgstr "সাধারণ"
+
+#: modules/widgets/card/card.php:362
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:319
+msgid "General Style"
+msgstr "সাধারণ শৈলী"
+
+#: modules/widgets/google-map/google-map.php:86
+msgid "Germany|Paris"
+msgstr ""
+
+#: templates/admin/main.php:18
+msgid ""
+"Get detailed and guided instruction to level up your website with the "
+"necessary set up."
+msgstr ""
+"বিস্তারিত এবং নির্দেশিত নির্দেশ স্তর আপ করতে সঙ্গে আপনার ওয়েবসাইট "
+"প্রয়োজনীয় সেট আপ."
+
+#: templates/admin/pro.php:6
+msgid "Get Droit Elementor Addons Pro"
+msgstr "পেতে Droit Elementor অ্যাডঅনস প্রো"
+
+#: templates/admin/dashboard.php:91
+msgid "Get premium features"
+msgstr "পেতে প্রিমিয়াম বৈশিষ্ট্য"
+
+#: modules/extention/common-section.php:49
+msgid "Get Premium Version"
+msgstr "পেতে প্রিমিয়াম সংস্করণ"
+
+#: core.php:165 includes/admin.php:58 includes/admin.php:59
+#: includes/admin.php:114
+msgid "Get PRO"
+msgstr "প্রো পেতে"
+
+#: core.php:165
+msgid "Get Pro"
+msgstr "প্রো পেতে"
+
+#: includes/api.php:45
+msgid "Get Response"
+msgstr "প্রতিক্রিয়া পেতে"
+
+#: core.php:164
+msgid "Get Support"
+msgstr "সমর্থন পেতে"
+
+#: templates/admin/main.php:62
+msgid "Give a Review"
+msgstr "দিতে একটি পর্যালোচনা"
+
+#: modules/extention/common-section.php:47
+msgid "Go Premium with Droit Pro"
+msgstr "গো প্রিমিয়াম সঙ্গে Droit প্রো"
+
+#: core.php:154 templates/admin/dashboard.php:90
+msgid "Go PRO"
+msgstr "প্রো যান"
+
+#: modules/templates/views/template-library-button.php:12
+msgid "Go Pro"
+msgstr "প্রো যান"
+
+#: includes/api.php:33 includes/widgets.php:344
+#: modules/widgets/google-map/google-map.php:13
+msgid "Google Map"
+msgstr "গুগল ম্যাপ"
+
+#: modules/widgets/pricing/pricing.php:781
+msgid "Guilder"
+msgstr "Guilder"
+
+#: modules/widgets/blog/blog.php:529 modules/widgets/blog/blog.php:641
+msgid "Gutter"
+msgstr "নিরাশ্রয়"
+
+#: modules/widgets/alert/alert.php:82 modules/widgets/blog/blog.php:308
+#: modules/widgets/bloglist/bloglist.php:261 modules/widgets/card/card.php:197
+#: modules/widgets/faq/faq.php:282 modules/widgets/iconbox/iconbox.php:248
+#: modules/widgets/image-carousel/image-carousel.php:179
+#: modules/widgets/image-carousel/image-carousel.php:1515
+#: modules/widgets/infobox/infobox.php:413
+#: modules/widgets/newstricker/newstricker.php:135
+#: modules/widgets/pricing/pricing.php:276
+#: modules/widgets/pricing/pricing.php:588
+#: modules/widgets/process/process.php:269
+#: modules/widgets/process/process.php:493 modules/widgets/tab/tab.php:236
+#: modules/widgets/team/team.php:173 modules/widgets/timeline/timeline.php:154
+#: modules/widgets/timeline/timeline.php:368
+#: modules/widgets/title/title.php:108 modules/widgets/title/title.php:208
+msgid "H1"
+msgstr "H1"
+
+#: modules/widgets/alert/alert.php:86 modules/widgets/blog/blog.php:312
+#: modules/widgets/bloglist/bloglist.php:265 modules/widgets/card/card.php:201
+#: modules/widgets/faq/faq.php:286 modules/widgets/iconbox/iconbox.php:252
+#: modules/widgets/image-carousel/image-carousel.php:183
+#: modules/widgets/image-carousel/image-carousel.php:1519
+#: modules/widgets/infobox/infobox.php:417
+#: modules/widgets/newstricker/newstricker.php:139
+#: modules/widgets/pricing/pricing.php:280
+#: modules/widgets/pricing/pricing.php:592
+#: modules/widgets/process/process.php:273
+#: modules/widgets/process/process.php:497 modules/widgets/tab/tab.php:240
+#: modules/widgets/team/team.php:177 modules/widgets/timeline/timeline.php:158
+#: modules/widgets/timeline/timeline.php:372
+#: modules/widgets/title/title.php:112 modules/widgets/title/title.php:212
+msgid "H2"
+msgstr "H2"
+
+#: modules/widgets/alert/alert.php:90 modules/widgets/blog/blog.php:316
+#: modules/widgets/bloglist/bloglist.php:269 modules/widgets/card/card.php:205
+#: modules/widgets/faq/faq.php:290 modules/widgets/iconbox/iconbox.php:256
+#: modules/widgets/image-carousel/image-carousel.php:187
+#: modules/widgets/image-carousel/image-carousel.php:1523
+#: modules/widgets/infobox/infobox.php:421
+#: modules/widgets/newstricker/newstricker.php:143
+#: modules/widgets/pricing/pricing.php:284
+#: modules/widgets/pricing/pricing.php:596
+#: modules/widgets/process/process.php:277
+#: modules/widgets/process/process.php:501 modules/widgets/tab/tab.php:244
+#: modules/widgets/team/team.php:181 modules/widgets/timeline/timeline.php:162
+#: modules/widgets/timeline/timeline.php:376
+#: modules/widgets/title/title.php:116 modules/widgets/title/title.php:216
+msgid "H3"
+msgstr "H3"
+
+#: modules/widgets/alert/alert.php:94 modules/widgets/blog/blog.php:320
+#: modules/widgets/bloglist/bloglist.php:273 modules/widgets/card/card.php:209
+#: modules/widgets/faq/faq.php:294 modules/widgets/iconbox/iconbox.php:260
+#: modules/widgets/image-carousel/image-carousel.php:191
+#: modules/widgets/image-carousel/image-carousel.php:1527
+#: modules/widgets/infobox/infobox.php:425
+#: modules/widgets/newstricker/newstricker.php:147
+#: modules/widgets/pricing/pricing.php:288
+#: modules/widgets/pricing/pricing.php:600
+#: modules/widgets/process/process.php:281
+#: modules/widgets/process/process.php:505 modules/widgets/tab/tab.php:248
+#: modules/widgets/team/team.php:185 modules/widgets/timeline/timeline.php:166
+#: modules/widgets/timeline/timeline.php:380
+#: modules/widgets/title/title.php:120 modules/widgets/title/title.php:220
+msgid "H4"
+msgstr "H4"
+
+#: modules/widgets/alert/alert.php:98 modules/widgets/blog/blog.php:324
+#: modules/widgets/bloglist/bloglist.php:277 modules/widgets/card/card.php:213
+#: modules/widgets/faq/faq.php:298 modules/widgets/iconbox/iconbox.php:264
+#: modules/widgets/image-carousel/image-carousel.php:195
+#: modules/widgets/image-carousel/image-carousel.php:1531
+#: modules/widgets/infobox/infobox.php:429
+#: modules/widgets/newstricker/newstricker.php:151
+#: modules/widgets/pricing/pricing.php:292
+#: modules/widgets/pricing/pricing.php:604
+#: modules/widgets/process/process.php:285
+#: modules/widgets/process/process.php:509 modules/widgets/tab/tab.php:252
+#: modules/widgets/team/team.php:189 modules/widgets/timeline/timeline.php:170
+#: modules/widgets/timeline/timeline.php:384
+#: modules/widgets/title/title.php:124 modules/widgets/title/title.php:224
+msgid "H5"
+msgstr "H5"
+
+#: modules/widgets/alert/alert.php:102 modules/widgets/blog/blog.php:328
+#: modules/widgets/bloglist/bloglist.php:281 modules/widgets/card/card.php:217
+#: modules/widgets/faq/faq.php:302 modules/widgets/iconbox/iconbox.php:268
+#: modules/widgets/image-carousel/image-carousel.php:199
+#: modules/widgets/image-carousel/image-carousel.php:1535
+#: modules/widgets/infobox/infobox.php:433
+#: modules/widgets/newstricker/newstricker.php:155
+#: modules/widgets/pricing/pricing.php:296
+#: modules/widgets/pricing/pricing.php:608
+#: modules/widgets/process/process.php:289
+#: modules/widgets/process/process.php:513 modules/widgets/tab/tab.php:256
+#: modules/widgets/team/team.php:193 modules/widgets/timeline/timeline.php:174
+#: modules/widgets/timeline/timeline.php:388
+#: modules/widgets/title/title.php:128 modules/widgets/title/title.php:228
+msgid "H6"
+msgstr "H6"
+
+#: templates/admin/pro.php:19 templates/admin/pro_page.php:22
+msgid ""
+"Have a look at the premium elements you will get to level up your website. "
+msgstr ""
+"কটাক্ষপাত আছে প্রিমিয়াম উপাদান আপনি পেতে হবে, স্তর আপ আপনার ওয়েবসাইট. "
+
+#: templates/admin/reset_tool.php:19
+msgid ""
+"Having issues? Regenerate all and start from the scratch and create new "
+"elements."
+msgstr "সমস্যা হচ্ছে? পুনর্জীবিত সব শুরু থেকে, স্ক্র্যাচ এবং নতুন উপাদান তৈরি."
+
+#: modules/widgets/pricing/pricing.php:214 modules/widgets/table/table.php:74
+msgid "Header"
+msgstr "হেডার"
+
+#: modules/widgets/google-map/google-map.php:124
+#: modules/widgets/testimonial/testimonial.php:110
+#: modules/widgets/testimonial/testimonial.php:520
+msgid "Heading"
+msgstr "শিরোনাম"
+
+#: modules/widgets/testimonial/testimonial.php:223
+msgid "Heading Tag"
+msgstr "শিরোনাম ট্যাগ"
+
+#: modules/widgets/blog/blog.php:757 modules/widgets/bloglist/bloglist.php:157
+#: modules/widgets/card/card.php:605
+#: modules/widgets/image-carousel/image-carousel.php:1105
+#: modules/widgets/infobox/infobox.php:205
+#: modules/widgets/share-buttons/share-buttons.php:654
+#: modules/widgets/testimonial/testimonial.php:919
+msgid "Height"
+msgstr "উচ্চতা"
+
+#: modules/widgets/blog/blog.php:281 modules/widgets/blog/blog.php:291
+#: modules/widgets/blog/blog.php:350 modules/widgets/blog/blog.php:363
+#: modules/widgets/blog/blog.php:377 modules/widgets/blog/blog.php:387
+#: modules/widgets/blog/blog.php:401 modules/widgets/blog/blog.php:415
+#: modules/widgets/bloglist/bloglist.php:248
+#: modules/widgets/bloglist/bloglist.php:302
+#: modules/widgets/bloglist/bloglist.php:330
+#: modules/widgets/bloglist/bloglist.php:341
+#: modules/widgets/bloglist/bloglist.php:355
+#: modules/widgets/bloglist/bloglist.php:399
+#: modules/widgets/bloglist/bloglist.php:414
+#: modules/widgets/countdown/countdown.php:85
+#: modules/widgets/countdown/countdown.php:99
+#: modules/widgets/countdown/countdown.php:113
+#: modules/widgets/countdown/countdown.php:127
+#: modules/widgets/timeline/timeline.php:459
+#: modules/widgets/timeline/timeline.php:471
+#: modules/widgets/timeline/timeline.php:483
+#: modules/widgets/timeline/timeline.php:495
+#: modules/widgets/timeline/timeline.php:510
+#: modules/widgets/timeline/timeline.php:577 modules/widgets/title/title.php:94
+#: modules/widgets/title/title.php:194 modules/widgets/title/title.php:293
+msgid "Hide"
+msgstr "আড়াল"
+
+#: modules/widgets/title/title.php:415
+msgid "Highlighted Text"
+msgstr "হাইলাইট টেক্সট"
+
+#: modules/widgets/title/title.php:152
+msgid ""
+"Highlighted text must be write in { }. Example : Welcome to { Our Website }"
+msgstr ""
+
+#: modules/sticky/sticky.php:95
+msgid "Horizontal Orientation"
+msgstr "অনুভূমিক স্থিতিবিন্যাস"
+
+#: modules/widgets/countdown/countdown.php:96
+#: modules/widgets/countdown/countdown.php:161
+#: modules/widgets/countdown/countdown.php:163
+#: modules/widgets/countdown/countdown.php:164
+msgid "Hours"
+msgstr "ঘন্টা"
+
+#: modules/widgets/countdown/countdown.php:490
+#: modules/widgets/countdown/countdown.php:544
+#: modules/widgets/countdown/countdown.php:631
+#: modules/widgets/countdown/countdown.php:690
+msgid "Hours Color"
+msgstr "ঘন্টা রঙ"
+
+#: modules/widgets/blog/blog.php:1008 modules/widgets/blog/blog.php:1363
+#: modules/widgets/blog/blog.php:1508 modules/widgets/bloglist/bloglist.php:771
+#: modules/widgets/bloglist/bloglist.php:859
+#: modules/widgets/bloglist/bloglist.php:945
+#: modules/widgets/bloglist/bloglist.php:1030
+#: modules/widgets/bloglist/bloglist.php:1147
+#: modules/widgets/caldera-form/caldera-form.php:458
+#: modules/widgets/card/card.php:461 modules/widgets/card/card.php:713
+#: modules/widgets/card/card.php:790 modules/widgets/card/card.php:904
+#: modules/widgets/card/card.php:1110
+#: modules/widgets/contact-form-7/contact-form-7.php:311
+#: modules/widgets/contact-form-7/contact-form-7.php:516
+#: modules/widgets/contact-form-7/contact-form-7.php:787
+#: modules/widgets/countdown/countdown.php:526
+#: modules/widgets/countdown/countdown.php:668 modules/widgets/faq/faq.php:622
+#: modules/widgets/faq/faq.php:888 modules/widgets/iconbox/iconbox.php:402
+#: modules/widgets/image-carousel/image-carousel.php:706
+#: modules/widgets/image-carousel/image-carousel.php:1274
+#: modules/widgets/image-carousel/image-carousel.php:1395
+#: modules/widgets/infobox/infobox.php:819
+#: modules/widgets/ninjaform/ninjaform.php:450
+#: modules/widgets/pricing/pricing.php:160
+#: modules/widgets/pricing/pricing.php:462
+#: modules/widgets/pricing/pricing.php:696
+#: modules/widgets/pricing/pricing.php:1031
+#: modules/widgets/pricing/pricing.php:1466
+#: modules/widgets/process/process.php:853
+#: modules/widgets/process/process.php:960
+#: modules/widgets/process/process.php:1038
+#: modules/widgets/share-buttons/share-buttons.php:232
+#: modules/widgets/share-buttons/share-buttons.php:481
+#: modules/widgets/tab/tab.php:582 modules/widgets/tab/tab.php:1160
+#: modules/widgets/table/table.php:432 modules/widgets/table/table.php:554
+#: modules/widgets/table/table.php:691 modules/widgets/team/team.php:540
+#: modules/widgets/team/team.php:662
+#: modules/widgets/twitter-feed/twitter-feed.php:452
+#: modules/widgets/twitter-feed/twitter-feed.php:544
+#: modules/widgets/weform/weform.php:532
+msgid "Hover"
+msgstr "উপর কার্সার রেখে দেখুন"
+
+#: modules/widgets/iconbox/iconbox.php:424
+msgid "Hover Animation"
+msgstr "উপর কার্সার রেখে দেখুন অ্যানিমেশন"
+
+#. URI of the plugin
+msgid "https://demos.droitthemes.com/droit-elementor-addons/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://droitthemes.com/"
+msgstr ""
+
+#: modules/widgets/card/card.php:157 modules/widgets/faq/faq.php:368
+#: modules/widgets/iconbox/iconbox.php:305
+#: modules/widgets/image-carousel/image-carousel.php:167
+#: modules/widgets/image-carousel/image-carousel.php:1498
+#: modules/widgets/newstricker/newstricker.php:202
+#: modules/widgets/pricing/pricing.php:264
+#: modules/widgets/pricing/pricing.php:1498
+#: modules/widgets/process/process.php:257
+#: modules/widgets/process/process.php:481 modules/widgets/tab/tab.php:224
+#: modules/widgets/testimonial/testimonial.php:164
+#: modules/widgets/title/title.php:165 modules/widgets/title/title.php:264
+msgid "https://your-link.com"
+msgstr ""
+
+#: modules/widgets/faq/faq.php:112 modules/widgets/iconbox/iconbox.php:202
+#: modules/widgets/iconbox/iconbox.php:346
+#: modules/widgets/infobox/infobox.php:92
+#: modules/widgets/infobox/infobox.php:110
+#: modules/widgets/infobox/infobox.php:916
+#: modules/widgets/pricing/pricing.php:1172
+#: modules/widgets/process/process.php:167
+#: modules/widgets/process/process.php:185
+#: modules/widgets/process/process.php:417
+#: modules/widgets/process/process.php:435
+#: modules/widgets/process/process.php:721
+#: modules/widgets/share-buttons/share-buttons.php:133
+#: modules/widgets/share-buttons/share-buttons.php:405
+#: modules/widgets/share-buttons/share-buttons.php:579
+#: modules/widgets/tab/tab.php:105 modules/widgets/tab/tab.php:123
+#: modules/widgets/team/team.php:240 modules/widgets/team/team.php:458
+#: modules/widgets/timeline/timeline.php:271
+#: modules/widgets/timeline/timeline.php:289
+msgid "Icon"
+msgstr "আইকন"
+
+#: modules/widgets/iconbox/iconbox.php:650
+msgid "Icon Alignment"
+msgstr "আইকন প্রান্তিককরণ"
+
+#: modules/widgets/timeline/timeline.php:892
+msgid "Icon Background"
+msgstr "আইকন ব্যাকগ্রাউন্ড"
+
+#: modules/widgets/alert/alert.php:322 modules/widgets/alert/alert.php:384
+#: modules/widgets/iconbox/iconbox.php:389
+msgid "Icon Background Color"
+msgstr "আইকন পটভূমির রঙ"
+
+#: modules/widgets/tab/tab.php:415
+msgid "Icon Bottom Gap"
+msgstr "আইকন নীচে ফাঁক"
+
+#: includes/widgets.php:174 modules/widgets/iconbox/iconbox.php:23
+#: modules/widgets/iconbox/iconbox.php:51
+#: modules/widgets/timeline/timeline.php:740
+msgid "Icon Box"
+msgstr "আইকন বক্স"
+
+#: modules/widgets/timeline/timeline.php:587
+msgid "Icon Box Alignment"
+msgstr "আইকন বক্স প্রান্তিককরণ"
+
+#: modules/widgets/alert/alert.php:334 modules/widgets/alert/alert.php:396
+#: modules/widgets/faq/faq.php:604 modules/widgets/faq/faq.php:697
+#: modules/widgets/iconbox/iconbox.php:373
+#: modules/widgets/iconbox/iconbox.php:410
+#: modules/widgets/pricing/pricing.php:1182 modules/widgets/tab/tab.php:545
+#: modules/widgets/tab/tab.php:609 modules/widgets/tab/tab.php:674
+#: modules/widgets/team/team.php:521 modules/widgets/timeline/timeline.php:873
+msgid "Icon Color"
+msgstr "আইকন রঙ"
+
+#: modules/widgets/team/team.php:505
+msgid "Icon Distance"
+msgstr "আইকন দূরত্ব"
+
+#: modules/widgets/faq/faq.php:567
+msgid "Icon Gap"
+msgstr "আইকন ফাঁক"
+
+#: modules/widgets/timeline/timeline.php:800
+msgid "Icon Height"
+msgstr "আইকন উচ্চতা"
+
+#: modules/widgets/infobox/infobox.php:994
+msgid "Icon Margin"
+msgstr "আইকন মার্জিন"
+
+#: modules/widgets/infobox/infobox.php:249
+msgid "Icon Offset"
+msgstr "আইকন অফসেট"
+
+#: modules/widgets/infobox/infobox.php:981 modules/widgets/team/team.php:493
+msgid "Icon Padding"
+msgstr "আইকন প্যাডিং"
+
+#: modules/widgets/iconbox/iconbox.php:59
+msgid "Icon Position"
+msgstr "আইকন অবস্থান"
+
+#: modules/widgets/tab/tab.php:382
+msgid "Icon Settings"
+msgstr "আইকন সেটিংস"
+
+#: modules/widgets/alert/alert.php:346 modules/widgets/alert/alert.php:408
+#: modules/widgets/faq/faq.php:224 modules/widgets/iconbox/iconbox.php:459
+#: modules/widgets/image-carousel/image-carousel.php:955
+#: modules/widgets/process/process.php:777
+#: modules/widgets/share-buttons/share-buttons.php:618
+#: modules/widgets/tab/tab.php:390 modules/widgets/team/team.php:469
+msgid "Icon Size"
+msgstr "আইকন সাইজ"
+
+#: modules/widgets/image-carousel/image-carousel.php:676
+msgid "Icon Spacing"
+msgstr "আইকন ফাঁক"
+
+#: modules/widgets/share-buttons/share-buttons.php:596
+msgid "Icon Top Spacing"
+msgstr "আইকন উপরের ফাঁক"
+
+#: modules/widgets/faq/faq.php:103 modules/widgets/process/process.php:158
+#: modules/widgets/process/process.php:408 modules/widgets/tab/tab.php:96
+#: modules/widgets/timeline/timeline.php:262
+msgid "Icon Type"
+msgstr "আইকন টাইপ"
+
+#: modules/widgets/timeline/timeline.php:825
+msgid "Icon Width"
+msgstr "আইকন প্রস্থ"
+
+#: includes/control.php:26 includes/modules.php:63
+#: modules/widgets/faq/faq.php:54
+msgid "Icons"
+msgstr "আইকন"
+
+#: modules/widgets/blog/blog.php:202 modules/widgets/bloglist/bloglist.php:499
+#: modules/widgets/product-list/product-list.php:82
+msgid "ID"
+msgstr "আইডি"
+
+#: templates/admin/main.php:28
+msgid "If you are stuck at anything while using our product? Reach out to us. "
+msgstr ""
+"আপনি যদি আটকে থাকেন তাহলে কিছু সময়ে ব্যবহার করার সময় আমাদের পণ্য? আমাদের "
+"কাছে পৌঁছানো. "
+
+#: templates/admin/main.php:59
+msgid ""
+"If you loved our product and support, leave your two cents to boost us up. "
+msgstr ""
+"যদি আপনি পছন্দ আমাদের পণ্য ও সমর্থন ছেড়ে দিন, আপনার দুটি সেন্ট অনুমোদন "
+"আমাদের. "
+
+#: modules/widgets/accordion/accordion.php:384
+msgid "If you set Content feature images, You can change Content Alignment"
+msgstr ""
+"আপনি যদি সেট কন্টেন্ট, বৈশিষ্ট্য ইমেজ পরিবর্তন করতে পারেন, বিষয়বস্তু "
+"প্রান্তিককরণ"
+
+#: modules/widgets/blog/blog.php:226 modules/widgets/bloglist/bloglist.php:529
+msgid "Ignore Sticky Posts"
+msgstr "উপেক্ষা স্টিকি পোস্ট"
+
+#: modules/widgets/card/card.php:84 modules/widgets/card/card.php:536
+#: modules/widgets/faq/faq.php:116 modules/widgets/faq/faq.php:161
+#: modules/widgets/faq/faq.php:208
+#: modules/widgets/image-carousel/image-carousel.php:154
+#: modules/widgets/infobox/infobox.php:97
+#: modules/widgets/infobox/infobox.php:129
+#: modules/widgets/infobox/infobox.php:1024
+#: modules/widgets/pricing/pricing.php:314
+#: modules/widgets/pricing/pricing.php:547
+#: modules/widgets/process/process.php:171
+#: modules/widgets/process/process.php:202
+#: modules/widgets/process/process.php:421
+#: modules/widgets/process/process.php:452 modules/widgets/tab/tab.php:109
+#: modules/widgets/tab/tab.php:142 modules/widgets/team/team.php:357
+#: modules/widgets/testimonial/testimonial.php:874
+#: modules/widgets/testimonial/testimonial.php:1039
+#: modules/widgets/testimonial/testimonial.php:1107
+#: modules/widgets/testimonial/testimonial.php:1226
+#: modules/widgets/testimonial/testimonial.php:1345
+#: modules/widgets/timeline/timeline.php:275
+#: modules/widgets/timeline/timeline.php:306
+msgid "Image"
+msgstr "ইমেজ"
+
+#: modules/widgets/infobox/infobox.php:236
+msgid "Image Background"
+msgstr "ইমেজ ব্যাকগ্রাউন্ড"
+
+#: includes/widgets.php:188
+#: modules/widgets/image-carousel/image-carousel.php:24
+msgid "Image Carousel"
+msgstr "ইমেজ Carousel"
+
+#: modules/widgets/card/card.php:164
+msgid "Image Position"
+msgstr "ইমেজ অবস্থান"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:345
+msgid "Image Position Left"
+msgstr "ইমেজ অবস্থান বাম"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:365
+msgid "Image Position Top"
+msgstr "ইমেজ অবস্থান শীর্ষ"
+
+#: modules/widgets/blog/blog.php:502 modules/widgets/blog/blog.php:614
+msgid "Image Ratio"
+msgstr "ইমেজ অনুপাত"
+
+#: modules/widgets/blog/blog.php:495 modules/widgets/blog/blog.php:607
+#: modules/widgets/pricing/pricing.php:406
+#: modules/widgets/pricing/pricing.php:673
+#: modules/widgets/twitter-feed/twitter-feed.php:326
+msgid "Image Size"
+msgstr "ইমেজ সাইজ"
+
+#: modules/widgets/infobox/infobox.php:1035
+msgid "Image Spacing"
+msgstr "ইমেজ ফাঁক"
+
+#: modules/widgets/pricing/pricing.php:431
+msgid "Image Top Gap"
+msgstr "ইমেজ উপরের ফাঁক"
+
+#: modules/widgets/blog/blog.php:715 modules/widgets/bloglist/bloglist.php:115
+msgid "Image Width"
+msgstr "চিত্র প্রস্থ"
+
+#: modules/widgets/infobox/infobox.php:500
+msgid "Image/ Icon Alignment"
+msgstr "ইমেজ/ আইকন প্রান্তিককরণ"
+
+#: modules/widgets/infobox/infobox.php:79
+#: modules/widgets/infobox/infobox.php:163
+msgid "Image/Icon"
+msgstr "ইমেজ/আইকন"
+
+#: modules/widgets/google-map/google-map.php:113
+msgid "Imperial"
+msgstr "ইম্পেরিয়াল"
+
+#: modules/widgets/google-map/google-map.php:126
+msgid ""
+"Indicates the compass heading of the camera in degrees clockwise from North"
+msgstr "ইঙ্গিত কম্পাস শিরোনাম এর ক্যামেরা ডিগ্রী ঘড়ির কাঁটার থেকে উত্তর"
+
+#: modules/widgets/image-carousel/image-carousel.php:291
+#: modules/widgets/testimonial/testimonial.php:384
+msgid "Infinite Loop"
+msgstr "অসীম লুপ"
+
+#: includes/widgets.php:160 modules/widgets/infobox/infobox.php:23
+msgid "Info Box"
+msgstr "তথ্য বক্স"
+
+#: modules/widgets/infobox/infobox.php:385
+msgid "Info Box Content"
+msgstr "তথ্য বক্স বিষয়বস্তু"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:426
+msgid "Input Width"
+msgstr "ইনপুট প্রস্থ"
+
+#: modules/templates/views/template-library-button.php:5
+msgid "Insert"
+msgstr "সন্নিবেশ"
+
+#: includes/admin.php:201 modules/widgets/share-buttons/share-buttons.php:86
+#: modules/widgets/share-buttons/share-buttons.php:310
+#: modules/widgets/share-buttons/share-buttons.php:358
+#: modules/widgets/share-buttons/share-buttons.php:559
+msgid "Instagram"
+msgstr "Instagram"
+
+#: modules/widgets/caldera-form/caldera-form.php:533
+msgid "Install caldera form"
+msgstr "ইনস্টল caldera ফর্ম"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:113
+msgid "Install Contact Form 7"
+msgstr "ইনস্টল ফরম যোগাযোগ করুন 7"
+
+#: core.php:112
+msgid "Install Elementor"
+msgstr "ইনস্টল Elementor"
+
+#: modules/widgets/ninjaform/ninjaform.php:511
+msgid "Install Ninja Form"
+msgstr "ইনস্টল নিনজা ফরম"
+
+#: modules/widgets/weform/weform.php:592
+msgid "Install weForm"
+msgstr "ইনস্টল weForm"
+
+#: modules/widgets/wpform/wpform.php:405
+msgid "Install WPForm"
+msgstr "ইনস্টল WPForm"
+
+#: modules/widgets/share-buttons/share-buttons.php:104
+#: modules/widgets/share-buttons/share-buttons.php:376
+msgid "Instapaper"
+msgstr "Instapaper"
+
+#: modules/widgets/countdown/countdown.php:330
+msgid "Item"
+msgstr "আইটেম"
+
+#: modules/widgets/countdown/countdown.php:348
+msgid "Item Height"
+msgstr "আইটেম উচ্চতা"
+
+#: modules/widgets/faq/faq.php:458
+msgid "Item Padding"
+msgstr "আইটেম প্যাডিং"
+
+#: modules/widgets/blog/blog.php:540
+msgid "Item Size"
+msgstr "আইটেম আকার"
+
+#: modules/widgets/iconbox/iconbox.php:710
+#: modules/widgets/iconbox/iconbox.php:736
+#: modules/widgets/iconbox/iconbox.php:762
+msgid "Item Spacing"
+msgstr "আইটেম ফাঁক"
+
+#: modules/widgets/countdown/countdown.php:368
+msgid "Item Width"
+msgstr "আইটেম প্রস্থ"
+
+#: modules/widgets/iconbox/iconbox.php:628
+msgid "Items Alignment"
+msgstr "আইটেম প্রান্তিককরণ"
+
+#: modules/widgets/tab/tab.php:456
+msgid "Items Gap"
+msgstr "আইটেম ফাঁক"
+
+#: modules/widgets/team/team.php:142
+msgid "Job Title"
+msgstr "কাজের শিরোনাম"
+
+#: modules/widgets/team/team.php:590 modules/widgets/team/team.php:679
+msgid "Job Title Color"
+msgstr "চাকরির শিরোনাম রঙ"
+
+#: modules/widgets/testimonial/testimonial.php:197
+msgid "John Justić"
+msgstr "জন Justić"
+
+#: modules/widgets/team/team.php:135
+msgid "John Smith"
+msgstr "জন স্মিথ"
+
+#: modules/widgets/bloglist/bloglist.php:615 modules/widgets/card/card.php:385
+#: modules/widgets/countdown/countdown.php:297
+#: modules/widgets/iconbox/iconbox.php:697
+#: modules/widgets/pricing/pricing.php:114
+msgid "Justified"
+msgstr "সমর্থনযোগ্য"
+
+#: modules/widgets/bloglist/bloglist.php:371
+msgid "Keep empty to display default image"
+msgstr "রাখা খালি প্রদর্শনের জন্য ডিফল্ট ইমেজ"
+
+#: modules/widgets/pricing/pricing.php:782
+msgid "Krona"
+msgstr "ক্রোনা"
+
+#: modules/widgets/share-buttons/share-buttons.php:149
+msgid "Label"
+msgstr "লেবেল"
+
+#: modules/widgets/ninjaform/ninjaform.php:295
+msgid "Label Color"
+msgstr "লেবেল রঙ"
+
+#: modules/widgets/weform/weform.php:261
+msgid "Label Fields"
+msgstr "লেবেল ক্ষেত্র"
+
+#: modules/widgets/wpform/wpform.php:307
+msgid "Label Text Color"
+msgstr "লেবেলের টেক্সট রঙ"
+
+#: modules/widgets/weform/weform.php:295 modules/widgets/wpform/wpform.php:268
+msgid "Label Typography"
+msgstr "লেবেল ছাপাখানার বিদ্যা"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:253
+#: modules/widgets/countdown/countdown.php:584
+msgid "Labels"
+msgstr "লেবেল"
+
+#: modules/widgets/google-map/google-map.php:187
+msgid "Latitude"
+msgstr "অক্ষাংশ"
+
+#: modules/widgets/blog/blog.php:93
+msgid "Layout"
+msgstr "বিন্যাস"
+
+#: modules/widgets/infobox/infobox.php:461 modules/widgets/tab/tab.php:213
+msgid "Learn More"
+msgstr "আরো জানুন"
+
+#: modules/widgets/blog/blog.php:429
+msgid "Learn More »"
+msgstr "আরও জানুন \""
+
+#: modules/sticky/sticky.php:89 modules/sticky/sticky.php:90
+#: modules/widgets/accordion/accordion.php:388
+#: modules/widgets/bloglist/bloglist.php:603 modules/widgets/card/card.php:169
+#: modules/widgets/card/card.php:373
+#: modules/widgets/countdown/countdown.php:285
+#: modules/widgets/iconbox/iconbox.php:632
+#: modules/widgets/iconbox/iconbox.php:655
+#: modules/widgets/iconbox/iconbox.php:685
+#: modules/widgets/image-carousel/image-carousel.php:528
+#: modules/widgets/infobox/infobox.php:504
+#: modules/widgets/infobox/infobox.php:526
+#: modules/widgets/ninjaform/ninjaform.php:333
+#: modules/widgets/pricing/pricing.php:102
+#: modules/widgets/pricing/pricing.php:565
+#: modules/widgets/testimonial/testimonial.php:987
+#: modules/widgets/testimonial/testimonial.php:1055
+#: modules/widgets/testimonial/testimonial.php:1723
+#: modules/widgets/testimonial/testimonial.php:1748
+#: modules/widgets/title/title.php:367 modules/widgets/title/title.php:525
+#: modules/widgets/title/title.php:622
+#: modules/widgets/twitter-feed/twitter-feed.php:404
+#: modules/widgets/weform/weform.php:403
+msgid "Left"
+msgstr "বাম"
+
+#: modules/widgets/testimonial/testimonial.php:1493
+msgid "Left Button"
+msgstr "বাম বাটন"
+
+#: modules/widgets/testimonial/testimonial.php:1182
+#: modules/widgets/testimonial/testimonial.php:1301
+#: modules/widgets/testimonial/testimonial.php:1420
+#: modules/widgets/testimonial/testimonial.php:1553
+#: modules/widgets/testimonial/testimonial.php:1659
+msgid "Left/Right"
+msgstr "বাম/ডান"
+
+#: modules/widgets/share-buttons/share-buttons.php:115
+#: modules/widgets/share-buttons/share-buttons.php:387
+msgid "Line"
+msgstr "লাইন"
+
+#: modules/extention/common-section.php:76 modules/widgets/card/card.php:154
+#: modules/widgets/faq/faq.php:366 modules/widgets/iconbox/iconbox.php:302
+#: modules/widgets/image-carousel/image-carousel.php:165
+#: modules/widgets/image-carousel/image-carousel.php:1479
+#: modules/widgets/image-carousel/image-carousel.php:1496
+#: modules/widgets/newstricker/newstricker.php:200
+#: modules/widgets/pricing/pricing.php:262
+#: modules/widgets/pricing/pricing.php:1496
+#: modules/widgets/process/process.php:252
+#: modules/widgets/process/process.php:479 modules/widgets/tab/tab.php:222
+#: modules/widgets/table/table.php:255 modules/widgets/team/team.php:151
+#: modules/widgets/team/team.php:253
+#: modules/widgets/testimonial/testimonial.php:162
+msgid "Link"
+msgstr "লিঙ্ক"
+
+#: modules/widgets/share-buttons/share-buttons.php:89
+#: modules/widgets/share-buttons/share-buttons.php:302
+#: modules/widgets/share-buttons/share-buttons.php:361
+#: modules/widgets/share-buttons/share-buttons.php:551
+msgid "Linkedin"
+msgstr "সেলিম"
+
+#: modules/widgets/testimonial/testimonial.php:190
+msgid "lip Justić"
+msgstr "ঠোঁটের Justić"
+
+#: modules/widgets/pricing/pricing.php:783
+msgid "Lira"
+msgstr "Lira"
+
+#: modules/widgets/pricing/pricing.php:1160
+msgid "List Item"
+msgstr "তালিকা আইটেম"
+
+#: modules/widgets/share-buttons/share-buttons.php:94
+#: modules/widgets/share-buttons/share-buttons.php:366
+msgid "Live journal"
+msgstr "লাইভ জার্নাল"
+
+#: modules/templates/views/template-library-preview.php:9
+msgid "Live Preview"
+msgstr "লাইভ প্রিভিউ"
+
+#: modules/widgets/share-buttons/share-buttons.php:103
+#: modules/widgets/share-buttons/share-buttons.php:375
+msgid "Liveinternet"
+msgstr "Liveinternet"
+
+#: modules/templates/views/template-library-loader.php:11
+msgid "Loading"
+msgstr "লোড"
+
+#: modules/widgets/animated-text/animated-text.php:110
+msgid "Loading Bar"
+msgstr "লোড হচ্ছে বার"
+
+#: modules/widgets/google-map/google-map.php:197
+msgid "Longitude"
+msgstr "দ্রাঘিমাংশ"
+
+#: modules/widgets/timeline/timeline.php:197
+#: modules/widgets/timeline/timeline.php:202
+#: modules/widgets/timeline/timeline.php:207
+#: modules/widgets/timeline/timeline.php:212
+#: modules/widgets/timeline/timeline.php:411
+#: modules/widgets/timeline/timeline.php:416
+#: modules/widgets/timeline/timeline.php:421
+#: modules/widgets/timeline/timeline.php:426
+msgid ""
+"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates "
+"eligendiniour dignissimos ads"
+msgstr ""
+"রুম সার্ভিস dolor বসতে প্রকার consectetur adipisicing হয়. Voluptates "
+"eligendiniour dignissimos বিজ্ঞাপন"
+
+#: modules/widgets/card/card.php:113
+msgid "Lorem Ipsum is dolor"
+msgstr "রুম সার্ভিস হয় dolor"
+
+#: modules/widgets/title/title.php:304
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+"Lorem Ipsum has been the industry standard dummy text ever since the 1500s, "
+"when an unknown printer took a galley of type and scrambled it to make a "
+"type specimen book."
+msgstr ""
+"রুম সার্ভিস কেবল ডামি টেক্সট প্রিন্টিং এবং ছাপাখানার অক্ষরস্থাপন শিল্পের.রুম "
+"সার্ভিস করা হয়েছে, শিল্প মান মেকি পাঠ্য পর থেকে কখনও 1500s, যখন একটি অজানা "
+"প্রিন্টার ধরনের galley গ্রহণ এবং scrambled করতে এটি একটি টাইপ নমুনা বই."
+
+#: includes/api.php:23
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: templates/admin/reset_tool.php:8
+msgid "Manage Tools"
+msgstr "পরিচালনা সরঞ্জাম"
+
+#: core/helper.php:59
+msgid "Manual Selection"
+msgstr "ম্যানুয়াল নির্বাচন"
+
+#: modules/widgets/google-map/google-map.php:72
+msgid "Map Location"
+msgstr "মানচিত্র অবস্থান"
+
+#: modules/widgets/google-map/google-map.php:56
+msgid "Map Modes"
+msgstr "মানচিত্র মোড"
+
+#: modules/widgets/google-map/google-map.php:219
+msgid "Map Type"
+msgstr "মানচিত্র টাইপ"
+
+#: modules/widgets/animated-text/animated-text.php:67
+#: modules/widgets/blog/blog.php:677 modules/widgets/bloglist/bloglist.php:639
+#: modules/widgets/bloglist/bloglist.php:741
+#: modules/widgets/bloglist/bloglist.php:829
+#: modules/widgets/bloglist/bloglist.php:915
+#: modules/widgets/bloglist/bloglist.php:1000
+#: modules/widgets/bloglist/bloglist.php:1085
+#: modules/widgets/caldera-form/caldera-form.php:241
+#: modules/widgets/caldera-form/caldera-form.php:370
+#: modules/widgets/contact-form-7/contact-form-7.php:1012
+#: modules/widgets/contact-form-7/contact-form-7.php:1104
+#: modules/widgets/faq/faq.php:853
+#: modules/widgets/image-carousel/image-carousel.php:661
+#: modules/widgets/infobox/infobox.php:575
+#: modules/widgets/newstricker/newstricker.php:83
+#: modules/widgets/newstricker/newstricker.php:271
+#: modules/widgets/newstricker/newstricker.php:337
+#: modules/widgets/ninjaform/ninjaform.php:241
+#: modules/widgets/ninjaform/ninjaform.php:355 modules/widgets/tab/tab.php:339
+#: modules/widgets/tab/tab.php:914 modules/widgets/tab/tab.php:1125
+#: modules/widgets/table/table.php:370
+#: modules/widgets/timeline/timeline.php:722
+#: modules/widgets/title/title.php:388 modules/widgets/title/title.php:546
+#: modules/widgets/title/title.php:643 modules/widgets/weform/weform.php:269
+#: modules/widgets/weform/weform.php:429 modules/widgets/wpform/wpform.php:242
+msgid "Margin"
+msgstr "মার্জিন"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:716
+msgid "Margin Top"
+msgstr "মার্জিন শীর্ষ"
+
+#: modules/widgets/blog/blog.php:457 modules/widgets/blog/blog.php:568
+msgid "Masonary Layout"
+msgstr "গাঁথনি বিন্যাস"
+
+#: modules/widgets/blog/blog.php:467 modules/widgets/blog/blog.php:578
+msgid "Masonary Type"
+msgstr "গাঁথনি টাইপ"
+
+#: modules/widgets/blog/blog.php:472 modules/widgets/blog/blog.php:583
+msgid "Masonry"
+msgstr "রাজমিস্ত্রির"
+
+#: modules/widgets/image-carousel/image-carousel.php:361
+#: modules/widgets/testimonial/testimonial.php:442
+msgid "Max Width"
+msgstr "সর্বোচ্চ প্রস্থ"
+
+#: modules/widgets/image-carousel/image-carousel.php:100
+msgid "Media"
+msgstr "মিডিয়া"
+
+#: modules/widgets/image-carousel/image-carousel.php:1484
+msgid "Media File"
+msgstr "মিডিয়া ফাইল"
+
+#: modules/widgets/infobox/infobox.php:87
+msgid "Media Type"
+msgstr "মিডিয়া প্রকার"
+
+#: modules/widgets/blog/blog.php:246
+msgid "Meet Droit Addons Pro"
+msgstr "দেখা Droit অ্যাডঅনস প্রো"
+
+#: modules/widgets/blog/blog.php:207 modules/widgets/bloglist/bloglist.php:504
+#: modules/widgets/product-list/product-list.php:87
+msgid "Menu Order"
+msgstr "মেনু অর্ডার"
+
+#: modules/widgets/countdown/countdown.php:222
+msgid "Message"
+msgstr "বার্তা"
+
+#: modules/widgets/bloglist/bloglist.php:686
+msgid "Meta Content Padding"
+msgstr "মেটা কন্টেন্ট প্যাডিং"
+
+#: modules/widgets/bloglist/bloglist.php:545
+msgid "Meta Data"
+msgstr "মেটা তথ্য"
+
+#: modules/widgets/google-map/google-map.php:112
+msgid "Metric"
+msgstr "মেট্রিক"
+
+#: modules/widgets/blog/blog.php:471 modules/widgets/blog/blog.php:582
+msgid "Metro"
+msgstr "মেট্রো"
+
+#: modules/widgets/blog/blog.php:547
+msgid "Metro Layout"
+msgstr "মেট্রো বিন্যাস"
+
+#: modules/widgets/countdown/countdown.php:110
+#: modules/widgets/countdown/countdown.php:175
+#: modules/widgets/countdown/countdown.php:177
+#: modules/widgets/countdown/countdown.php:178
+msgid "Minutes"
+msgstr "মিনিট"
+
+#: modules/widgets/countdown/countdown.php:502
+#: modules/widgets/countdown/countdown.php:556
+#: modules/widgets/countdown/countdown.php:643
+#: modules/widgets/countdown/countdown.php:702
+msgid "Minutes Color"
+msgstr "মিনিট রঙ"
+
+#: templates/admin/main.php:39
+msgid "Missing Features"
+msgstr "অনুপস্থিত বৈশিষ্ট্য"
+
+#: modules/widgets/google-map/google-map.php:235
+msgid "Mode"
+msgstr "মোড"
+
+#: modules/widgets/blog/blog.php:199 modules/widgets/bloglist/bloglist.php:496
+#: modules/widgets/product-list/product-list.php:79
+msgid "Modified"
+msgstr "পরিবর্তিত"
+
+#: templates/admin/dashboard.php:47
+msgid "Modules"
+msgstr "মডিউল"
+
+#: modules/widgets/share-buttons/share-buttons.php:92
+#: modules/widgets/share-buttons/share-buttons.php:364
+msgid "Moimir"
+msgstr "Moimir"
+
+#: modules/widgets/image-carousel/image-carousel.php:336
+#: modules/widgets/testimonial/testimonial.php:417
+msgid "MouseDrag"
+msgstr "MouseDrag"
+
+#: modules/widgets/pricing/pricing.php:1637
+msgid "My lady bits and bobs cup of tea bubble and squeak brolly."
+msgstr "আমার লেডি বিট এবং bobs কাপ চা বাবল এবং চিঁ brolly."
+
+#: modules/widgets/blog/blog.php:205 modules/widgets/bloglist/bloglist.php:502
+#: modules/widgets/card/card.php:266
+#: modules/widgets/product-list/product-list.php:85
+#: modules/widgets/team/team.php:133
+#: modules/widgets/testimonial/testimonial.php:120
+#: modules/widgets/testimonial/testimonial.php:560
+msgid "Name"
+msgstr "নাম"
+
+#: modules/widgets/team/team.php:578 modules/widgets/team/team.php:667
+msgid "Name Color"
+msgstr "নাম রঙ"
+
+#: modules/widgets/team/team.php:604
+msgid "Name Typography"
+msgstr "নাম ছাপাখানার বিদ্যা"
+
+#: modules/widgets/image-carousel/image-carousel.php:524
+msgid "Nav Alignment"
+msgstr "এনএভি প্রান্তিককরণ"
+
+#: modules/widgets/image-carousel/image-carousel.php:447
+#: modules/widgets/testimonial/testimonial.php:1481
+msgid "Nav Show"
+msgstr "এনএভি প্রদর্শন"
+
+#: modules/widgets/image-carousel/image-carousel.php:439
+#: modules/widgets/testimonial/testimonial.php:1470
+msgid "Navigation"
+msgstr "গৌণ"
+
+#: templates/admin/main.php:26
+msgid "Need Help?"
+msgstr "সাহায্য প্রয়োজন?"
+
+#: modules/widgets/newstricker/newstricker.php:112
+msgid "News Content"
+msgstr "খবর কন্টেন্ট"
+
+#: includes/widgets.php:202
+msgid "News Sticker"
+msgstr "সংবাদ স্টিকার"
+
+#: modules/widgets/newstricker/newstricker.php:23
+msgid "News Stricker"
+msgstr "সংবাদ Stricker"
+
+#: modules/widgets/newstricker/newstricker.php:212
+msgid "News Ticker"
+msgstr "সংবাদ টিকার"
+
+#: modules/widgets/newstricker/newstricker.php:216
+msgid "news Ticker Title 1"
+msgstr "সংবাদ টিকার, শিরোনাম 1"
+
+#: modules/widgets/newstricker/newstricker.php:217
+msgid "news Ticker Title 2"
+msgstr "সংবাদ টিকার, শিরোনাম 2"
+
+#: modules/widgets/image-carousel/image-carousel.php:1002
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: includes/widgets.php:374 modules/widgets/ninjaform/ninjaform.php:13
+msgid "Ninja Form"
+msgstr "নিনজা ফর্ম"
+
+#: modules/widgets/ninjaform/ninjaform.php:49
+msgid "Ninja Forms"
+msgstr "নিনজা ফরম"
+
+#: modules/widgets/alert/alert.php:122 modules/widgets/alert/alert.php:147
+msgid "NO"
+msgstr "কোন"
+
+#: modules/widgets/blog/blog.php:445 modules/widgets/bloglist/bloglist.php:384
+#: modules/widgets/bloglist/bloglist.php:445
+#: modules/widgets/caldera-form/caldera-form.php:332
+#: modules/widgets/image-carousel/image-carousel.php:273
+#: modules/widgets/image-carousel/image-carousel.php:294
+#: modules/widgets/image-carousel/image-carousel.php:327
+#: modules/widgets/image-carousel/image-carousel.php:339
+#: modules/widgets/image-carousel/image-carousel.php:351
+#: modules/widgets/image-carousel/image-carousel.php:450
+#: modules/widgets/testimonial/testimonial.php:250
+#: modules/widgets/testimonial/testimonial.php:264
+#: modules/widgets/testimonial/testimonial.php:275
+#: modules/widgets/testimonial/testimonial.php:286
+#: modules/widgets/testimonial/testimonial.php:297
+#: modules/widgets/testimonial/testimonial.php:308
+#: modules/widgets/testimonial/testimonial.php:366
+#: modules/widgets/testimonial/testimonial.php:387
+#: modules/widgets/testimonial/testimonial.php:420
+#: modules/widgets/testimonial/testimonial.php:432
+#: modules/widgets/testimonial/testimonial.php:1099
+#: modules/widgets/testimonial/testimonial.php:1484
+#: modules/widgets/title/title.php:83 modules/widgets/weform/weform.php:361
+#: modules/widgets/wpform/wpform.php:380
+msgid "No"
+msgstr "কোন"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:186
+#: modules/widgets/twitter-feed/twitter-feed.php:198
+#: modules/widgets/twitter-feed/twitter-feed.php:210
+msgid "no"
+msgstr "কোন"
+
+#: modules/templates/init.php:55
+msgid "No Results Found"
+msgstr "কোন ফলাফল পাওয়া যায় নি"
+
+#: modules/templates/init.php:53
+msgid "No Templates Found"
+msgstr "কোন টেমপ্লেট পাওয়া"
+
+#: modules/widgets/blog/blog.php:822 modules/widgets/blog/blog.php:944
+#: modules/widgets/blog/blog.php:1154 modules/widgets/blog/blog.php:1285
+#: modules/widgets/blog/blog.php:1430
+#: modules/widgets/countdown/countdown.php:221 modules/widgets/faq/faq.php:108
+#: modules/widgets/image-carousel/image-carousel.php:1220
+#: modules/widgets/image-carousel/image-carousel.php:1344
+#: modules/widgets/image-carousel/image-carousel.php:1445
+#: modules/widgets/image-carousel/image-carousel.php:1464
+#: modules/widgets/image-carousel/image-carousel.php:1483
+#: modules/widgets/infobox/infobox.php:252
+#: modules/widgets/infobox/infobox.php:311
+#: modules/widgets/infobox/infobox.php:951
+#: modules/widgets/pricing/pricing.php:776
+#: modules/widgets/pricing/pricing.php:1312
+#: modules/widgets/process/process.php:163
+#: modules/widgets/process/process.php:413 modules/widgets/tab/tab.php:101
+#: modules/widgets/team/team.php:372 modules/widgets/team/team.php:624
+#: modules/widgets/testimonial/testimonial.php:606
+#: modules/widgets/testimonial/testimonial.php:712
+#: modules/widgets/testimonial/testimonial.php:816
+#: modules/widgets/testimonial/testimonial.php:1125
+#: modules/widgets/testimonial/testimonial.php:1244
+#: modules/widgets/testimonial/testimonial.php:1363
+#: modules/widgets/testimonial/testimonial.php:1496
+#: modules/widgets/testimonial/testimonial.php:1602
+#: modules/widgets/timeline/timeline.php:267
+#: modules/widgets/timeline/timeline.php:1099
+#: modules/widgets/timeline/timeline.php:1202
+#: modules/widgets/timeline/timeline.php:1300
+msgid "None"
+msgstr "কেউ"
+
+#: modules/widgets/bloglist/bloglist.php:753
+#: modules/widgets/bloglist/bloglist.php:841
+#: modules/widgets/bloglist/bloglist.php:927
+#: modules/widgets/bloglist/bloglist.php:1012
+#: modules/widgets/bloglist/bloglist.php:1097
+#: modules/widgets/caldera-form/caldera-form.php:153
+#: modules/widgets/card/card.php:411 modules/widgets/card/card.php:659
+#: modules/widgets/card/card.php:759 modules/widgets/card/card.php:856
+#: modules/widgets/card/card.php:1037
+#: modules/widgets/contact-form-7/contact-form-7.php:347
+#: modules/widgets/contact-form-7/contact-form-7.php:745
+#: modules/widgets/countdown/countdown.php:472
+#: modules/widgets/countdown/countdown.php:609 modules/widgets/faq/faq.php:586
+#: modules/widgets/iconbox/iconbox.php:366
+#: modules/widgets/image-carousel/image-carousel.php:554
+#: modules/widgets/image-carousel/image-carousel.php:1185
+#: modules/widgets/image-carousel/image-carousel.php:1302
+#: modules/widgets/infobox/infobox.php:735
+#: modules/widgets/ninjaform/ninjaform.php:153
+#: modules/widgets/ninjaform/ninjaform.php:418
+#: modules/widgets/pricing/pricing.php:91
+#: modules/widgets/process/process.php:827
+#: modules/widgets/process/process.php:915
+#: modules/widgets/process/process.php:1002 modules/widgets/tab/tab.php:518
+#: modules/widgets/tab/tab.php:1072 modules/widgets/team/team.php:516
+#: modules/widgets/team/team.php:573 modules/widgets/weform/weform.php:181
+#: modules/widgets/weform/weform.php:500 modules/widgets/wpform/wpform.php:154
+msgid "Normal"
+msgstr "স্বাভাবিক"
+
+#: modules/widgets/blog/blog.php:798 modules/widgets/bloglist/bloglist.php:198
+#: modules/widgets/testimonial/testimonial.php:953
+msgid "Object Fit"
+msgstr "বস্তু মাপসই"
+
+#: modules/widgets/testimonial/testimonial.php:976
+msgid "Object Position"
+msgstr "বস্তুর অবস্থান"
+
+#: modules/widgets/table/table.php:640
+msgid "Odd Row bg Color"
+msgstr "বিজোড় সারি বিজি রঙ"
+
+#: modules/widgets/share-buttons/share-buttons.php:87
+#: modules/widgets/share-buttons/share-buttons.php:359
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: modules/widgets/card/card.php:130
+msgid "OFF"
+msgstr "বন্ধ"
+
+#: modules/widgets/pricing/pricing.php:848
+msgid "Off"
+msgstr "বন্ধ"
+
+#: modules/sticky/sticky.php:118 modules/sticky/sticky.php:156
+#: modules/sticky/sticky.php:216 modules/sticky/sticky.php:253
+#: modules/widgets/blog/blog.php:819 modules/widgets/blog/blog.php:941
+#: modules/widgets/blog/blog.php:1151 modules/widgets/blog/blog.php:1282
+#: modules/widgets/blog/blog.php:1427
+#: modules/widgets/image-carousel/image-carousel.php:1217
+#: modules/widgets/image-carousel/image-carousel.php:1341
+#: modules/widgets/infobox/infobox.php:308
+#: modules/widgets/infobox/infobox.php:948 modules/widgets/team/team.php:369
+#: modules/widgets/testimonial/testimonial.php:603
+#: modules/widgets/testimonial/testimonial.php:709
+#: modules/widgets/testimonial/testimonial.php:813
+#: modules/widgets/testimonial/testimonial.php:1122
+#: modules/widgets/testimonial/testimonial.php:1241
+#: modules/widgets/testimonial/testimonial.php:1360
+#: modules/widgets/timeline/timeline.php:1096
+#: modules/widgets/timeline/timeline.php:1199
+#: modules/widgets/timeline/timeline.php:1297
+msgid "Offset"
+msgstr "অফসেট"
+
+#: modules/widgets/blog/blog.php:832 modules/widgets/blog/blog.php:954
+#: modules/widgets/blog/blog.php:1164 modules/widgets/blog/blog.php:1295
+#: modules/widgets/blog/blog.php:1440
+#: modules/widgets/image-carousel/image-carousel.php:1229
+#: modules/widgets/image-carousel/image-carousel.php:1354
+#: modules/widgets/infobox/infobox.php:321 modules/widgets/team/team.php:382
+#: modules/widgets/testimonial/testimonial.php:616
+#: modules/widgets/testimonial/testimonial.php:722
+#: modules/widgets/testimonial/testimonial.php:826
+#: modules/widgets/timeline/timeline.php:1111
+#: modules/widgets/timeline/timeline.php:1214
+#: modules/widgets/timeline/timeline.php:1312
+msgid "Offset Left"
+msgstr "অফসেট বাম"
+
+#: modules/widgets/blog/blog.php:851 modules/widgets/blog/blog.php:973
+#: modules/widgets/blog/blog.php:1183 modules/widgets/blog/blog.php:1314
+#: modules/widgets/blog/blog.php:1459
+#: modules/widgets/image-carousel/image-carousel.php:1248
+#: modules/widgets/image-carousel/image-carousel.php:1372
+#: modules/widgets/infobox/infobox.php:262
+#: modules/widgets/infobox/infobox.php:340
+#: modules/widgets/infobox/infobox.php:961 modules/widgets/team/team.php:401
+#: modules/widgets/team/team.php:634
+#: modules/widgets/testimonial/testimonial.php:635
+#: modules/widgets/testimonial/testimonial.php:741
+#: modules/widgets/testimonial/testimonial.php:845
+#: modules/widgets/timeline/timeline.php:1131
+#: modules/widgets/timeline/timeline.php:1234
+#: modules/widgets/timeline/timeline.php:1334
+msgid "Offset Top"
+msgstr "অফসেট শীর্ষ"
+
+#: modules/widgets/card/card.php:129
+msgid "ON"
+msgstr "উপর"
+
+#: modules/widgets/pricing/pricing.php:847
+msgid "On"
+msgstr "উপর"
+
+#: templates/admin/elements.php:69
+msgid "Oops! no widget found!"
+msgstr "ওহো! কোন উইজেট পাওয়া যায়!"
+
+#: modules/widgets/alert/alert.php:282 modules/widgets/card/card.php:674
+#: modules/widgets/card/card.php:728 modules/widgets/infobox/infobox.php:868
+msgid "Opacity"
+msgstr "অস্বচ্ছতা"
+
+#: modules/widgets/blog/blog.php:442 modules/widgets/bloglist/bloglist.php:442
+msgid "Open in new window"
+msgstr "নতুন উইন্ডোতে খুলুন"
+
+#: modules/widgets/timeline/timeline.php:440
+#: modules/widgets/twitter-feed/twitter-feed.php:110
+msgid "Options"
+msgstr "অপশন"
+
+#: modules/widgets/blog/blog.php:215 modules/widgets/bloglist/bloglist.php:515
+#: modules/widgets/product-list/product-list.php:94
+msgid "Order"
+msgstr "যাতে"
+
+#: modules/widgets/blog/blog.php:195 modules/widgets/bloglist/bloglist.php:492
+#: modules/widgets/product-list/product-list.php:75
+msgid "Order By"
+msgstr "যাতে করে"
+
+#: modules/widgets/pricing/pricing.php:859
+msgid "Original Price"
+msgstr "মূল দাম"
+
+#: modules/widgets/google-map/google-map.php:253
+msgid "Oslo Norway"
+msgstr "অসলো, নরওয়ে"
+
+#: modules/widgets/pricing/pricing.php:242
+msgid "Our most popular plan"
+msgstr "আমাদের সবচেয়ে জনপ্রিয় পরিকল্পনা"
+
+#: modules/widgets/alert/alert.php:106 modules/widgets/blog/blog.php:332
+#: modules/widgets/bloglist/bloglist.php:285 modules/widgets/card/card.php:221
+#: modules/widgets/faq/faq.php:306 modules/widgets/iconbox/iconbox.php:272
+#: modules/widgets/image-carousel/image-carousel.php:203
+#: modules/widgets/image-carousel/image-carousel.php:1539
+#: modules/widgets/newstricker/newstricker.php:159
+#: modules/widgets/pricing/pricing.php:300
+#: modules/widgets/pricing/pricing.php:612
+#: modules/widgets/process/process.php:293
+#: modules/widgets/process/process.php:517 modules/widgets/tab/tab.php:260
+#: modules/widgets/team/team.php:197 modules/widgets/timeline/timeline.php:178
+#: modules/widgets/timeline/timeline.php:392
+#: modules/widgets/title/title.php:132 modules/widgets/title/title.php:232
+msgid "P"
+msgstr "P"
+
+#: modules/widgets/alert/alert.php:300 modules/widgets/alert/alert.php:364
+#: modules/widgets/alert/alert.php:426 modules/widgets/blog/blog.php:875
+#: modules/widgets/blog/blog.php:997 modules/widgets/blog/blog.php:1074
+#: modules/widgets/blog/blog.php:1207 modules/widgets/blog/blog.php:1338
+#: modules/widgets/blog/blog.php:1483 modules/widgets/bloglist/bloglist.php:628
+#: modules/widgets/bloglist/bloglist.php:695
+#: modules/widgets/bloglist/bloglist.php:730
+#: modules/widgets/bloglist/bloglist.php:816
+#: modules/widgets/bloglist/bloglist.php:904
+#: modules/widgets/bloglist/bloglist.php:989
+#: modules/widgets/bloglist/bloglist.php:1074
+#: modules/widgets/caldera-form/caldera-form.php:94
+#: modules/widgets/caldera-form/caldera-form.php:253
+#: modules/widgets/caldera-form/caldera-form.php:382
+#: modules/widgets/card/card.php:638
+#: modules/widgets/contact-form-7/contact-form-7.php:390
+#: modules/widgets/contact-form-7/contact-form-7.php:704
+#: modules/widgets/contact-form-7/contact-form-7.php:1117
+#: modules/widgets/faq/faq.php:555 modules/widgets/faq/faq.php:775
+#: modules/widgets/faq/faq.php:841 modules/widgets/infobox/infobox.php:563
+#: modules/widgets/infobox/infobox.php:655
+#: modules/widgets/infobox/infobox.php:705
+#: modules/widgets/infobox/infobox.php:804
+#: modules/widgets/newstricker/newstricker.php:95
+#: modules/widgets/newstricker/newstricker.php:283
+#: modules/widgets/newstricker/newstricker.php:349
+#: modules/widgets/ninjaform/ninjaform.php:94
+#: modules/widgets/ninjaform/ninjaform.php:253
+#: modules/widgets/ninjaform/ninjaform.php:367
+#: modules/widgets/pricing/pricing.php:127
+#: modules/widgets/pricing/pricing.php:1244
+#: modules/widgets/pricing/pricing.php:1540
+#: modules/widgets/process/process.php:588
+#: modules/widgets/share-buttons/share-buttons.php:642
+#: modules/widgets/tab/tab.php:327 modules/widgets/tab/tab.php:506
+#: modules/widgets/tab/tab.php:902 modules/widgets/tab/tab.php:1113
+#: modules/widgets/table/table.php:382 modules/widgets/table/table.php:541
+#: modules/widgets/table/table.php:678 modules/widgets/team/team.php:318
+#: modules/widgets/team/team.php:440 modules/widgets/timeline/timeline.php:1046
+#: modules/widgets/title/title.php:400 modules/widgets/title/title.php:558
+#: modules/widgets/title/title.php:655
+#: modules/widgets/twitter-feed/twitter-feed.php:231
+#: modules/widgets/weform/weform.php:121 modules/widgets/weform/weform.php:281
+#: modules/widgets/weform/weform.php:441 modules/widgets/wpform/wpform.php:93
+#: modules/widgets/wpform/wpform.php:254
+msgid "Padding"
+msgstr "প্যাডিং"
+
+#: modules/widgets/image-carousel/image-carousel.php:459
+msgid "Pagination Type"
+msgstr "Pagination টাইপ"
+
+#: modules/widgets/google-map/google-map.php:163
+msgid "Pano"
+msgstr "Pano"
+
+#: modules/widgets/google-map/google-map.php:165
+msgid "panorama ID"
+msgstr "পরিদৃশ্য আইডি"
+
+#: modules/widgets/blog/blog.php:206 modules/widgets/bloglist/bloglist.php:503
+#: modules/widgets/product-list/product-list.php:86
+msgid "Parent"
+msgstr "পিতা বা মাতা"
+
+#: modules/widgets/product-list/product-list.php:65
+msgid "Per Page"
+msgstr "প্রতি পৃষ্ঠা"
+
+#: modules/widgets/pricing/pricing.php:872
+msgid "Period"
+msgstr "সময়ের"
+
+#: modules/widgets/pricing/pricing.php:993
+#: modules/widgets/pricing/pricing.php:1088
+msgid "Period Color"
+msgstr "সময়ের রঙ"
+
+#: modules/widgets/pricing/pricing.php:784
+msgid "Peseta"
+msgstr "Peseta"
+
+#: modules/widgets/pricing/pricing.php:785
+msgid "Peso"
+msgstr "Peso"
+
+#: modules/widgets/share-buttons/share-buttons.php:85
+#: modules/widgets/share-buttons/share-buttons.php:357
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: modules/widgets/google-map/google-map.php:137
+msgid "Pitch"
+msgstr "পিচ"
+
+#: modules/widgets/google-map/google-map.php:60
+msgid "Place"
+msgstr "জায়গা"
+
+#: modules/widgets/team/team.php:158 modules/widgets/team/team.php:260
+msgid "Place URL here"
+msgstr "জায়গায় URL টি এখানে"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:603
+msgid "Placeholder"
+msgstr "স্থানধারক"
+
+#: modules/widgets/caldera-form/caldera-form.php:138
+#: modules/widgets/ninjaform/ninjaform.php:138
+#: modules/widgets/weform/weform.php:166 modules/widgets/wpform/wpform.php:139
+msgid "Placeholder Color"
+msgstr "স্থানধারক রঙ"
+
+#: modules/templates/init.php:56
+msgid ""
+"Please make sure your search is spelled correctly or try a different words."
+msgstr ""
+"দয়া করে নিশ্চিত করুন যে আপনার সার্চ করা হয়, বানান সঠিকভাবে বা চেষ্টা একটি "
+"ভিন্ন শব্দ."
+
+#: modules/widgets/blog/blog.php:263
+msgid "Please use our pro widget widget for more feature"
+msgstr "আমাদের ব্যবহার করুন প্রো উইজেট জন্য উইজেট আরো বৈশিষ্ট্য"
+
+#: modules/widgets/share-buttons/share-buttons.php:100
+#: modules/widgets/share-buttons/share-buttons.php:372
+msgid "Pocket"
+msgstr "পকেট"
+
+#: modules/widgets/pricing/pricing.php:537
+msgid "Popular"
+msgstr "জনপ্রিয়"
+
+#: modules/widgets/pricing/pricing.php:497
+msgid "Populated"
+msgstr "জনবহুল"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:645
+#: modules/widgets/pricing/pricing.php:393
+#: modules/widgets/pricing/pricing.php:561
+#: modules/widgets/pricing/pricing.php:884
+#: modules/widgets/pricing/pricing.php:1010
+#: modules/widgets/pricing/pricing.php:1570
+#: modules/widgets/timeline/timeline.php:953
+msgid "Position"
+msgstr "অবস্থান"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:172
+msgid "Post Limit"
+msgstr "পোস্ট সীমা"
+
+#: modules/templates/import.php:31
+msgid "Post not found"
+msgstr "পোস্ট পাওয়া যায়নি"
+
+#: modules/templates/load.php:41
+msgid "Post not found."
+msgstr "পোস্ট পাওয়া যায় না."
+
+#: modules/widgets/blog/blog.php:178 modules/widgets/bloglist/bloglist.php:473
+msgid "Posts Per Page"
+msgstr "পৃষ্ঠা প্রতি পোস্ট"
+
+#: modules/widgets/pricing/pricing.php:786
+msgid "Pound Sterling"
+msgstr "পাউন্ড স্টার্লিং"
+
+#: modules/widgets/iconbox/iconbox.php:291
+msgid "Premium Chat Support"
+msgstr "প্রিমিয়াম চ্যাট সমর্থন"
+
+#: templates/admin/pro.php:18 templates/admin/pro_page.php:21
+msgid "Premium Elements "
+msgstr "প্রিমিয়াম উপাদান "
+
+#: modules/extention/common-section.php:36
+msgid "Premium Features"
+msgstr "প্রিমিয়াম বৈশিষ্ট্য"
+
+#: modules/widgets/bloglist/bloglist.php:61
+#: modules/widgets/process/process.php:70 modules/widgets/team/team.php:70
+#: modules/widgets/testimonial/testimonial.php:67
+msgid "Preset"
+msgstr "প্রিসেট"
+
+#: modules/widgets/image-carousel/image-carousel.php:1045
+msgid "Prev"
+msgstr "পূর্ববর্তী"
+
+#: modules/widgets/pricing/pricing.php:747
+#: modules/widgets/pricing/pricing.php:818
+msgid "Price"
+msgstr "মূল্য"
+
+#: modules/widgets/pricing/pricing.php:935
+#: modules/widgets/pricing/pricing.php:1038
+msgid "Price Color"
+msgstr "দাম রঙ"
+
+#: includes/widgets.php:216
+msgid "Pricing"
+msgstr "প্রাইসিং"
+
+#: modules/widgets/pricing/pricing.php:23
+msgid "Pricing Table"
+msgstr "প্রাইসিং টেবিল"
+
+#: templates/admin/elements.php:51 templates/admin/extentions.php:37
+#: modules/templates/views/template-library-toolbar.php:8
+msgid "Pro"
+msgstr "প্রো"
+
+#: templates/admin/elements.php:17
+msgid "pro"
+msgstr "প্রো"
+
+#: templates/admin/pro_page.php:10 templates/admin/upgrade.php:10
+msgid "Pro is coming soon, subscribe for Pro"
+msgstr "প্রো শীঘ্রই আসছে, সাবস্ক্রাইব জন্য প্রো"
+
+#: templates/admin/modal.php:23
+msgid "Pro version"
+msgstr "প্রো সংস্করণ"
+
+#: modules/widgets/process/process.php:23
+msgid "Process"
+msgstr "প্রক্রিয়া"
+
+#: includes/widgets.php:230
+msgid "Process Bar"
+msgstr "প্রক্রিয়া বার"
+
+#: includes/widgets.php:448 modules/widgets/product-list/product-list.php:16
+msgid "Product List"
+msgstr "পণ্য তালিকা"
+
+#: modules/widgets/animated-text/animated-text.php:115
+msgid "Push"
+msgstr "ধাক্কা"
+
+#: modules/widgets/blog/blog.php:162 modules/widgets/bloglist/bloglist.php:457
+msgid "Query"
+msgstr "ক্যোয়ারী"
+
+#: modules/widgets/product-list/product-list.php:58
+msgid "Query Settings"
+msgstr "অনুসন্ধান সেটিংস"
+
+#: modules/widgets/testimonial/testimonial.php:1032
+msgid "Quote/Shape Image"
+msgstr "উদ্ধৃতি/আকৃতি ইমেজ"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:1081
+msgid "Radius"
+msgstr "ব্যাসার্ধ"
+
+#: modules/widgets/blog/blog.php:201 modules/widgets/bloglist/bloglist.php:498
+#: modules/widgets/product-list/product-list.php:81
+msgid "Rand"
+msgstr "রান্ড"
+
+#: modules/widgets/blog/blog.php:412 modules/widgets/bloglist/bloglist.php:411
+#: modules/widgets/bloglist/bloglist.php:1055
+msgid "Read More"
+msgstr "আরো পড়ুন"
+
+#: modules/widgets/blog/blog.php:427 modules/widgets/bloglist/bloglist.php:426
+msgid "Read More Text"
+msgstr "আরো লেখা পড়তে"
+
+#: modules/widgets/bloglist/bloglist.php:428
+msgid "Read More »"
+msgstr "Read More \""
+
+#: modules/widgets/pricing/pricing.php:787
+msgid "Real"
+msgstr "বাস্তব"
+
+#: modules/widgets/google-map/google-map.php:177
+msgid "record stores in seattle"
+msgstr "রেকর্ড দোকানে সিয়াটেল মধ্যে"
+
+#: modules/widgets/share-buttons/share-buttons.php:97
+#: modules/widgets/share-buttons/share-buttons.php:369
+msgid "Reddit"
+msgstr "Reddit"
+
+#: modules/widgets/countdown/countdown.php:256
+msgid "Redirect To (URL)"
+msgstr "পুনর্চালনা করুন (URL টি)"
+
+#: modules/widgets/countdown/countdown.php:223
+msgid "Redirection Link"
+msgstr "ফেরৎ লিঙ্ক"
+
+#: templates/admin/reset_tool.php:27
+msgid ""
+"Refresh Elementor Icon? Regenerate Icon from CSS File and start over the "
+"process."
+msgstr ""
+"রিফ্রেশ Elementor আইকন? পুনর্জীবিত থেকে আইকন সিএসএস ফাইল এবং শুরু করার "
+"প্রক্রিয়া."
+
+#: templates/admin/reset_tool.php:18 templates/admin/reset_tool.php:20
+msgid "Regenerate All"
+msgstr "পুনর্জীবিত সব"
+
+#: templates/admin/dashboard.php:74
+msgid "Regenerate assets"
+msgstr "পুনর্জীবিত সম্পদ"
+
+#: templates/admin/reset_tool.php:26 templates/admin/reset_tool.php:28
+msgid "Regenerate Icons"
+msgstr "পুনর্জীবিত আইকন"
+
+#: modules/widgets/pricing/pricing.php:977
+#: modules/widgets/pricing/pricing.php:1072
+msgid "Regular Price Color"
+msgstr "নিয়মিত মূল্য, রঙ"
+
+#: modules/widgets/iconbox/iconbox.php:63
+msgid "Relative"
+msgstr "আপেক্ষিক"
+
+#: modules/widgets/share-buttons/share-buttons.php:108
+#: modules/widgets/share-buttons/share-buttons.php:380
+msgid "Renren"
+msgstr "Renren"
+
+#: templates/admin/main.php:74
+msgid "Report an Issue"
+msgstr "একটি সমস্যা প্রতিবেদন"
+
+#: templates/admin/main.php:44
+msgid "Request Feature"
+msgstr "অনুরোধ বৈশিষ্ট্য"
+
+#: modules/widgets/caldera-form/caldera-form.php:295
+#: modules/widgets/weform/weform.php:323 modules/widgets/wpform/wpform.php:321
+msgid "Required Label Color"
+msgstr "প্রয়োজন লেবেল রঙ"
+
+#: modules/widgets/image-carousel/image-carousel.php:348
+#: modules/widgets/testimonial/testimonial.php:429
+msgid "Responsive"
+msgstr "প্রতিক্রিয়াশীল"
+
+#: modules/sticky/sticky.php:89 modules/sticky/sticky.php:90
+#: modules/widgets/accordion/accordion.php:396
+#: modules/widgets/bloglist/bloglist.php:611 modules/widgets/card/card.php:177
+#: modules/widgets/card/card.php:381
+#: modules/widgets/countdown/countdown.php:293
+#: modules/widgets/iconbox/iconbox.php:640
+#: modules/widgets/iconbox/iconbox.php:663
+#: modules/widgets/iconbox/iconbox.php:693
+#: modules/widgets/image-carousel/image-carousel.php:536
+#: modules/widgets/infobox/infobox.php:512
+#: modules/widgets/infobox/infobox.php:534
+#: modules/widgets/ninjaform/ninjaform.php:341
+#: modules/widgets/pricing/pricing.php:110
+#: modules/widgets/pricing/pricing.php:569
+#: modules/widgets/testimonial/testimonial.php:988
+#: modules/widgets/testimonial/testimonial.php:1063
+#: modules/widgets/testimonial/testimonial.php:1599
+#: modules/widgets/testimonial/testimonial.php:1731
+#: modules/widgets/testimonial/testimonial.php:1756
+#: modules/widgets/title/title.php:375 modules/widgets/title/title.php:533
+#: modules/widgets/title/title.php:630 modules/widgets/weform/weform.php:411
+msgid "Right"
+msgstr "ডান"
+
+#: modules/widgets/google-map/google-map.php:223
+msgid "Roadmap"
+msgstr "রোডম্যাপ"
+
+#: modules/widgets/iconbox/iconbox.php:478
+#: modules/widgets/process/process.php:638
+#: modules/widgets/timeline/timeline.php:850
+msgid "Rotate"
+msgstr "ঘোরান"
+
+#: modules/widgets/animated-text/animated-text.php:106
+msgid "Rotate 1"
+msgstr "ঘোরান 1"
+
+#: modules/widgets/animated-text/animated-text.php:108
+msgid "Rotate 2"
+msgstr "ঘোরান 2"
+
+#: modules/widgets/animated-text/animated-text.php:113
+msgid "Rotate 3"
+msgstr "ঘোরান 3"
+
+#: modules/widgets/table/table.php:166
+msgid "Row"
+msgstr "সারি"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:152
+msgid "Row Spacing"
+msgstr "সারি ফাঁক"
+
+#: modules/widgets/table/table.php:212
+msgid "Row Span"
+msgstr "সারি বিঘত"
+
+#: modules/widgets/table/table.php:161
+msgid "Row Type"
+msgstr "সারি টাইপ"
+
+#: modules/widgets/pricing/pricing.php:788
+msgid "Ruble"
+msgstr "রুবেল"
+
+#: modules/widgets/pricing/pricing.php:789
+msgid "Rupee"
+msgstr "রুপি"
+
+#: modules/widgets/pricing/pricing.php:790
+msgid "Rupee (Indian)"
+msgstr "রুপি (ভারতীয়)"
+
+#: modules/widgets/pricing/pricing.php:845
+msgid "Sale"
+msgstr "বিক্রয়"
+
+#: modules/widgets/google-map/google-map.php:224
+msgid "Satellite"
+msgstr "স্যাটেলাইট"
+
+#: templates/admin/api.php:11 templates/admin/api.php:82
+#: templates/admin/elements.php:11 templates/admin/elements.php:77
+#: templates/admin/extentions.php:10 templates/admin/extentions.php:58
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষণ করুন"
+
+#: modules/widgets/animated-text/animated-text.php:114
+msgid "Scale"
+msgstr "স্কেল"
+
+#: modules/templates/views/template-library-badge.php:5
+#: modules/widgets/google-map/google-map.php:64
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+#: modules/templates/views/template-library-badge.php:4
+msgid "Search Templates:"
+msgstr "অনুসন্ধান টেমপ্লেট:"
+
+#: modules/widgets/google-map/google-map.php:175
+msgid "Search Terms"
+msgstr "অনুসন্ধান শর্তাবলী"
+
+#: modules/widgets/countdown/countdown.php:124
+#: modules/widgets/countdown/countdown.php:189
+#: modules/widgets/countdown/countdown.php:191
+#: modules/widgets/countdown/countdown.php:192
+msgid "Seconds"
+msgstr "সেকেন্ড"
+
+#: modules/widgets/countdown/countdown.php:514
+#: modules/widgets/countdown/countdown.php:568
+#: modules/widgets/countdown/countdown.php:655
+#: modules/widgets/countdown/countdown.php:714
+msgid "Seconds Color"
+msgstr "সেকেন্ড রঙ"
+
+#: modules/extention/common-section.php:68
+msgid "Section Link"
+msgstr "অধ্যায় লিঙ্ক"
+
+#: core/helper.php:74 core/helper.php:99 core/helper.php:119
+#: core/helper.php:145 core/helper.php:164
+msgid "Select a Contact Form"
+msgstr "নির্বাচন করুন যোগাযোগ ফর্ম"
+
+#: modules/widgets/countdown/countdown.php:52
+msgid "Select Due Date & Time"
+msgstr "নির্বাচন, কারণে তারিখ ও সময়"
+
+#: modules/widgets/caldera-form/caldera-form.php:572
+#: modules/widgets/contact-form-7/contact-form-7.php:135
+#: modules/widgets/ninjaform/ninjaform.php:533
+#: modules/widgets/weform/weform.php:614 modules/widgets/wpform/wpform.php:436
+msgid "Select Your Form"
+msgstr "আপনার নির্বাচন ফর্ম"
+
+#: modules/widgets/bloglist/bloglist.php:561
+msgid "Separator Between"
+msgstr "বিভাজক মধ্যে"
+
+#: modules/widgets/countdown/countdown.php:234
+msgid "Session is expired!"
+msgstr "সেশনের মেয়াদ শেষ হয়!"
+
+#: modules/widgets/faq/faq.php:319 modules/widgets/tab/tab.php:158
+msgid "Set as Default"
+msgstr "ডিফল্ট হিসেবে সেট"
+
+#: modules/extention/custom-column.php:24
+msgid "Set custom column width. (E.g 500px, 100%, calc(100% - 300px))"
+msgstr "সেট কাস্টম কলাম প্রস্থ. (E. g 500px, 100%, calc(100% - 300px))"
+
+#: modules/widgets/countdown/countdown.php:74
+msgid "Set Settings"
+msgstr "সেট সেটিংস"
+
+#: modules/widgets/countdown/countdown.php:63
+msgid "Set the due date & time"
+msgstr "সেট, কারণে তারিখ ও সময়"
+
+#: core.php:153
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: modules/widgets/tab/tab.php:721
+msgid "Shape"
+msgstr "আকৃতি"
+
+#: modules/widgets/card/card.php:242
+msgid "Shape 1"
+msgstr "আকৃতি 1"
+
+#: modules/widgets/card/card.php:246
+msgid "Shape 2"
+msgstr "আকৃতি 2"
+
+#: modules/widgets/card/card.php:250
+msgid "Shape 3"
+msgstr "আকৃতি 3"
+
+#: modules/widgets/timeline/timeline.php:1034
+msgid "Shape Background"
+msgstr "আকৃতি ব্যাকগ্রাউন্ড"
+
+#: modules/widgets/tab/tab.php:784
+msgid "Shape Bottom Height"
+msgstr "আকৃতি নীচে উচ্চতা"
+
+#: modules/widgets/tab/tab.php:848
+msgid "Shape Bottom Left/Right"
+msgstr "আকার, নীচে বাম/ডান"
+
+#: modules/widgets/tab/tab.php:816
+msgid "Shape Bottom Top/Bottom"
+msgstr "আকৃতি নীচে উপরে/নীচে"
+
+#: modules/widgets/tab/tab.php:752
+msgid "Shape Bottom Width"
+msgstr "আকৃতি নীচে প্রস্থ"
+
+#: modules/widgets/tab/tab.php:740
+msgid "Shape Color"
+msgstr "আকৃতি, রঙ"
+
+#: modules/widgets/card/card.php:312
+#: modules/widgets/testimonial/testimonial.php:1084
+msgid "Shape Image"
+msgstr "আকৃতি ইমেজ"
+
+#: modules/widgets/process/process.php:802
+msgid "Shape Size"
+msgstr "আকৃতি, আকার"
+
+#: modules/widgets/card/card.php:237
+msgid "Shape Skin"
+msgstr "আকৃতি, চামড়া"
+
+#: includes/widgets.php:244
+msgid "Share Button"
+msgstr "শেয়ার বাটন"
+
+#: modules/widgets/share-buttons/share-buttons.php:23
+msgid "Share Buttons"
+msgstr "শেয়ার বাটন"
+
+#: modules/widgets/share-buttons/share-buttons.php:60
+#: modules/widgets/share-buttons/share-buttons.php:330
+msgid "Share Icons"
+msgstr "সেয়ার আইকন"
+
+#: modules/widgets/pricing/pricing.php:791
+msgid "Shekel"
+msgstr "Shekel"
+
+#: modules/widgets/blog/blog.php:280 modules/widgets/blog/blog.php:290
+#: modules/widgets/blog/blog.php:351 modules/widgets/blog/blog.php:364
+#: modules/widgets/blog/blog.php:378 modules/widgets/blog/blog.php:388
+#: modules/widgets/blog/blog.php:402 modules/widgets/blog/blog.php:414
+#: modules/widgets/bloglist/bloglist.php:247
+#: modules/widgets/bloglist/bloglist.php:301
+#: modules/widgets/bloglist/bloglist.php:331
+#: modules/widgets/bloglist/bloglist.php:342
+#: modules/widgets/bloglist/bloglist.php:356
+#: modules/widgets/bloglist/bloglist.php:400
+#: modules/widgets/bloglist/bloglist.php:413
+#: modules/widgets/countdown/countdown.php:84
+#: modules/widgets/countdown/countdown.php:98
+#: modules/widgets/countdown/countdown.php:112
+#: modules/widgets/countdown/countdown.php:126
+#: modules/widgets/timeline/timeline.php:458
+#: modules/widgets/timeline/timeline.php:470
+#: modules/widgets/timeline/timeline.php:482
+#: modules/widgets/timeline/timeline.php:494
+#: modules/widgets/timeline/timeline.php:509
+#: modules/widgets/timeline/timeline.php:576 modules/widgets/title/title.php:93
+#: modules/widgets/title/title.php:193 modules/widgets/title/title.php:292
+msgid "Show"
+msgstr "শো"
+
+#: modules/widgets/blog/blog.php:384 modules/widgets/bloglist/bloglist.php:338
+msgid "Show Author"
+msgstr "প্রদর্শন লেখক"
+
+#: modules/widgets/bloglist/bloglist.php:352
+msgid "Show Author Image"
+msgstr "প্রদর্শন লেখক ইমেজ"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:183
+msgid "Show Avater"
+msgstr "শো Avater"
+
+#: modules/widgets/timeline/timeline.php:573
+msgid "Show Content Arrow?"
+msgstr "শো কন্টেন্ট তীর?"
+
+#: modules/widgets/blog/blog.php:398 modules/widgets/bloglist/bloglist.php:396
+msgid "Show Date"
+msgstr "দেখান তারিখ"
+
+#: modules/widgets/timeline/timeline.php:480
+msgid "Show Date Time?"
+msgstr "প্রদর্শন, তারিখ সময়?"
+
+#: modules/widgets/timeline/timeline.php:492
+msgid "Show Date?"
+msgstr "শো তারিখ?"
+
+#: modules/widgets/timeline/timeline.php:468
+msgid "Show Description?"
+msgstr "বিবরণ দেখান?"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:207
+msgid "Show Favorite"
+msgstr "শো প্রিয়"
+
+#: modules/widgets/blog/blog.php:374
+msgid "Show Image"
+msgstr "শো ইমেজ"
+
+#: modules/widgets/faq/faq.php:71
+msgid "Show Left Icon"
+msgstr "শো বাম আইকন"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:195
+msgid "Show Name"
+msgstr "প্রদর্শন নাম"
+
+#: modules/widgets/pricing/pricing.php:525
+msgid "Show Popular"
+msgstr "জনপ্রিয় শো"
+
+#: modules/widgets/pricing/pricing.php:763
+msgid "Show Price"
+msgstr "মূল্য প্রদর্শন"
+
+#: modules/widgets/bloglist/bloglist.php:327
+msgid "Show Thumbnail"
+msgstr "প্রদর্শন থাম্বনেইল"
+
+#: modules/widgets/timeline/timeline.php:507
+msgid "Show Time?"
+msgstr "শো সময়?"
+
+#: modules/widgets/timeline/timeline.php:456
+msgid "Show Title?"
+msgstr "প্রদর্শন শিরোনাম?"
+
+#: templates/admin/main.php:56
+msgid "Show Your Love"
+msgstr "আপনার ভালবাসা প্রদর্শন"
+
+#: modules/widgets/title/title.php:290
+msgid "Show/Hide"
+msgstr "প্রদর্শন করুন/আড়াল"
+
+#: modules/widgets/testimonial/testimonial.php:305
+msgid "Show/Hide Content"
+msgstr "প্রদর্শন করুন/আড়াল কন্টেন্ট"
+
+#: modules/widgets/testimonial/testimonial.php:294
+msgid "Show/Hide Designation"
+msgstr "প্রদর্শন করুন/আড়াল উপাধি"
+
+#: modules/widgets/testimonial/testimonial.php:246
+msgid "Show/Hide Heading"
+msgstr "প্রদর্শন করুন/আড়াল শিরোনাম"
+
+#: modules/widgets/testimonial/testimonial.php:272
+msgid "Show/Hide Image"
+msgstr "প্রদর্শন করুন/আড়াল ইমেজ"
+
+#: modules/widgets/testimonial/testimonial.php:283
+msgid "Show/Hide Name"
+msgstr "প্রদর্শন করুন/আড়াল নাম"
+
+#: modules/widgets/testimonial/testimonial.php:261
+#: modules/widgets/testimonial/testimonial.php:1095
+msgid "Show/Hide Shape"
+msgstr "প্রদর্শন করুন/আড়াল আকৃতি"
+
+#: modules/widgets/pricing/pricing.php:1202
+#: modules/widgets/pricing/pricing.php:1210
+#: modules/widgets/pricing/pricing.php:1218
+msgid "Sincidunt ut laoreet dolor"
+msgstr "Sincidunt কেন্দ্রশাসিত অঞ্চল পাম্প dolor"
+
+#: modules/widgets/share-buttons/share-buttons.php:111
+#: modules/widgets/share-buttons/share-buttons.php:383
+msgid "Skype"
+msgstr "স্কাইপ"
+
+#: modules/widgets/animated-text/animated-text.php:111
+msgid "Slide"
+msgstr "স্লাইড"
+
+#: modules/widgets/image-carousel/image-carousel.php:312
+#: modules/widgets/testimonial/testimonial.php:405
+msgid "Slider Item"
+msgstr "স্লাইডার আইটেম"
+
+#: modules/widgets/image-carousel/image-carousel.php:263
+#: modules/widgets/testimonial/testimonial.php:324
+msgid "Slider Options"
+msgstr "স্লাইডার অপশন"
+
+#: modules/widgets/image-carousel/image-carousel.php:303
+#: modules/widgets/testimonial/testimonial.php:396
+msgid "Slider Space"
+msgstr "স্লাইডার স্থান"
+
+#: modules/widgets/image-carousel/image-carousel.php:373
+#: modules/widgets/testimonial/testimonial.php:454
+msgid "Slides Per View"
+msgstr "স্লাইড প্রতি দেখুন"
+
+#: modules/widgets/share-buttons/share-buttons.php:90
+#: modules/widgets/share-buttons/share-buttons.php:362
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: modules/widgets/share-buttons/share-buttons.php:79
+#: modules/widgets/share-buttons/share-buttons.php:351
+msgid "Social Network"
+msgstr "সামাজিক নেটওয়ার্ক"
+
+#: modules/widgets/team/team.php:218
+msgid "Social Profile"
+msgstr "সামাজিক প্রোফাইল"
+
+#: modules/widgets/team/team.php:144
+msgid "Software Engineer"
+msgstr "সফটওয়্যার ইঞ্জিনিয়ার"
+
+#: modules/widgets/pricing/pricing.php:1313
+msgid "Solid"
+msgstr "কঠিন"
+
+#: modules/widgets/countdown/countdown.php:246
+msgid "Sorry! your allocated time is over"
+msgstr "দুঃখিত! আপনার বরাদ্দ সময় শেষ হয়"
+
+#: modules/widgets/blog/blog.php:169 modules/widgets/bloglist/bloglist.php:464
+msgid "Source"
+msgstr "উৎস"
+
+#: modules/widgets/image-carousel/image-carousel.php:385
+#: modules/widgets/testimonial/testimonial.php:466
+msgid "Space Between"
+msgstr "স্থান মধ্যে"
+
+#: modules/widgets/animated-text/animated-text.php:239
+#: modules/widgets/caldera-form/caldera-form.php:82
+#: modules/widgets/card/card.php:548 modules/widgets/card/card.php:947
+#: modules/widgets/card/card.php:1000 modules/widgets/card/card.php:1176
+#: modules/widgets/contact-form-7/contact-form-7.php:290
+#: modules/widgets/contact-form-7/contact-form-7.php:366
+#: modules/widgets/contact-form-7/contact-form-7.php:879
+#: modules/widgets/iconbox/iconbox.php:436
+#: modules/widgets/iconbox/iconbox.php:545
+#: modules/widgets/infobox/infobox.php:366
+#: modules/widgets/ninjaform/ninjaform.php:82
+#: modules/widgets/share-buttons/share-buttons.php:694
+#: modules/widgets/team/team.php:428
+#: modules/widgets/twitter-feed/twitter-feed.php:523
+#: modules/widgets/weform/weform.php:109 modules/widgets/wpform/wpform.php:81
+msgid "Spacing"
+msgstr "ফাঁক"
+
+#: modules/widgets/pricing/pricing.php:167
+msgid "Spacing Top"
+msgstr "ফাঁক শীর্ষ"
+
+#: modules/widgets/newstricker/newstricker.php:163
+msgid "span"
+msgstr "span"
+
+#: modules/widgets/google-map/google-map.php:139
+msgid "specifies the angle, up or down, of the camera"
+msgstr "সুনির্দিষ্ট করে কোণ, আপ বা ডাউন, ক্যামেরা"
+
+#: modules/widgets/google-map/google-map.php:251
+msgid "Start Point"
+msgstr "শুরু পয়েন্ট"
+
+#: modules/widgets/process/process.php:240
+msgid "Step Image"
+msgstr "ধাপ ইমেজ"
+
+#: includes/modules.php:59
+msgid "Sticky Section"
+msgstr "চটচটে অধ্যায়"
+
+#: modules/widgets/blog/blog.php:232 modules/widgets/bloglist/bloglist.php:535
+msgid "Sticky-posts ordering is visible on frontend only"
+msgstr "স্টিকি পোস্ট ক্রম দৃশ্যমান ফ্রন্টএন্ড শুধুমাত্র"
+
+#: modules/widgets/google-map/google-map.php:63
+msgid "StreetView"
+msgstr "রাস্তার"
+
+#: modules/widgets/share-buttons/share-buttons.php:102
+#: modules/widgets/share-buttons/share-buttons.php:374
+msgid "Stumbleupon"
+msgstr "মন্তব্য"
+
+#: modules/widgets/blog/blog.php:708 modules/widgets/blog/blog.php:917
+#: modules/widgets/blog/blog.php:1049 modules/widgets/blog/blog.php:1259
+#: modules/widgets/blog/blog.php:1404
+#: modules/widgets/contact-form-7/contact-form-7.php:263
+#: modules/widgets/faq/faq.php:797 modules/widgets/pricing/pricing.php:338
+#: modules/widgets/pricing/pricing.php:629
+#: modules/widgets/pricing/pricing.php:903
+#: modules/widgets/pricing/pricing.php:1137
+#: modules/widgets/pricing/pricing.php:1309
+#: modules/widgets/pricing/pricing.php:1453
+#: modules/widgets/process/process.php:308
+#: modules/widgets/share-buttons/share-buttons.php:162
+#: modules/widgets/share-buttons/share-buttons.php:422
+#: modules/widgets/table/table.php:331 modules/widgets/table/table.php:476
+#: modules/widgets/table/table.php:601
+#: modules/widgets/twitter-feed/twitter-feed.php:496
+msgid "Style"
+msgstr "শৈলী"
+
+#: modules/widgets/image-carousel/image-carousel.php:565
+msgid "Style 1"
+msgstr "স্টাইল 1"
+
+#: modules/widgets/image-carousel/image-carousel.php:566
+msgid "Style 2"
+msgstr "স্টাইল 2"
+
+#: modules/widgets/wpform/wpform.php:335
+msgid "Sub Label Text Color"
+msgstr "সাব লেবেল টেক্সট রঙ"
+
+#: modules/widgets/wpform/wpform.php:277
+msgid "Sub Label Typography"
+msgstr "সাব ট্যাগ, লেখনী"
+
+#: modules/widgets/title/title.php:184 modules/widgets/title/title.php:479
+msgid "Sub Title"
+msgstr "সাব শিরোনাম"
+
+#: modules/widgets/image-carousel/image-carousel.php:1460
+msgid "Sub Title Caption"
+msgstr "সাব শিরোনাম ক্যাপশন"
+
+#: modules/widgets/title/title.php:203
+msgid "Sub Title HTML Tag"
+msgstr "সাব শিরোনাম এইচটিএমএল ট্যাগ"
+
+#: modules/widgets/title/title.php:191 modules/widgets/title/title.php:248
+msgid "Sub Title Text"
+msgstr "সাব শিরোনাম টেক্সট"
+
+#: templates/admin/form-data.php:9
+msgid "Subscribe"
+msgstr "সাবস্ক্রাইব"
+
+#: core.php:164
+msgid "Support"
+msgstr "সমর্থন"
+
+#: templates/admin/main.php:30
+msgid "Support Ticket"
+msgstr "সমর্থন টিকেট"
+
+#: modules/widgets/share-buttons/share-buttons.php:101
+#: modules/widgets/share-buttons/share-buttons.php:373
+msgid "Surfingbird"
+msgstr "Surfingbird"
+
+#: modules/templates/views/template-library-header.php:26
+#: modules/templates/views/template-library-header.php:27
+msgid "Sync Library"
+msgstr "সিঙ্ক লাইব্রেরি"
+
+#: includes/widgets.php:258 modules/widgets/tab/tab.php:23
+msgid "Tab"
+msgstr "ট্যাব"
+
+#: modules/widgets/faq/faq.php:482
+msgid "Tab Margin"
+msgstr "ট্যাব মার্জিন"
+
+#: modules/widgets/faq/faq.php:422
+msgid "Tab Padding"
+msgstr "ট্যাব প্যাডিং"
+
+#: modules/widgets/tab/tab.php:85 modules/widgets/tab/tab.php:87
+#: modules/widgets/tab/tab.php:440
+msgid "Tab Title"
+msgstr "ট্যাব শিরোনাম"
+
+#: modules/widgets/tab/tab.php:277
+msgid "Tab Title 1"
+msgstr "ট্যাব শিরোনাম 1"
+
+#: modules/widgets/tab/tab.php:278
+msgid "Tab Title 2"
+msgstr "ট্যাব শিরোনাম 2"
+
+#: modules/widgets/tab/tab.php:279
+msgid "Tab Title 3"
+msgstr "ট্যাব শিরোনাম 3"
+
+#: modules/widgets/tab/tab.php:280
+msgid "Tab Title 4"
+msgstr "ট্যাব শিরোনাম 4"
+
+#: includes/widgets.php:315 modules/widgets/table/table.php:23
+msgid "Table"
+msgstr "টেবিল"
+
+#: modules/widgets/table/table.php:64 modules/widgets/table/table.php:591
+msgid "Table Content"
+msgstr "টেবিল কন্টেন্ট"
+
+#: modules/widgets/table/table.php:466
+msgid "Table Head"
+msgstr "টেবিলে মাথা"
+
+#: modules/widgets/tab/tab.php:273
+msgid "Tabs"
+msgstr "ট্যাব"
+
+#: modules/widgets/bloglist/bloglist.php:551
+msgid "Tag"
+msgstr "ট্যাগ"
+
+#: modules/widgets/blog/blog.php:360
+msgid "Tags"
+msgstr "বিভাগ"
+
+#: includes/widgets.php:272 modules/widgets/team/team.php:23
+msgid "Team Member"
+msgstr "দলের সদস্য"
+
+#: modules/widgets/share-buttons/share-buttons.php:112
+#: modules/widgets/share-buttons/share-buttons.php:294
+#: modules/widgets/share-buttons/share-buttons.php:384
+#: modules/widgets/share-buttons/share-buttons.php:543
+msgid "Telegram"
+msgstr "টেলিগ্রাম"
+
+#: modules/widgets/google-map/google-map.php:265
+msgid "Telemark Norway"
+msgstr "Telemark, নরওয়ে"
+
+#: modules/templates/api.php:170
+msgid "Template does not have any content"
+msgstr "টেমপ্লেট থাকে না কোনো বিষয়বস্তু"
+
+#: modules/templates/import.php:37
+msgid "Template id missing"
+msgstr "টেমপ্লেট আইডি অনুপস্থিত"
+
+#: includes/widgets.php:286 modules/widgets/testimonial/testimonial.php:23
+#: modules/widgets/testimonial/testimonial.php:113
+#: modules/widgets/testimonial/testimonial.php:182
+#: modules/widgets/testimonial/testimonial.php:189
+#: modules/widgets/testimonial/testimonial.php:196
+msgid "Testimonial"
+msgstr "প্রশংসাপত্র"
+
+#: modules/widgets/testimonial/testimonial.php:94
+msgid "Testimonial Content"
+msgstr "প্রশংসাপত্র কন্টেন্ট"
+
+#: modules/widgets/testimonial/testimonial.php:215
+msgid "Testimonial Layout"
+msgstr "প্রশংসাপত্র বিন্যাস"
+
+#: modules/widgets/testimonial/testimonial.php:177
+msgid "Testimonials"
+msgstr "প্রশংসাপত্র"
+
+#: modules/widgets/process/process.php:360
+msgid "Testing Project"
+msgstr "পরীক্ষামূলক প্রকল্প"
+
+#: modules/widgets/animated-text/animated-text.php:139
+#: modules/widgets/pricing/pricing.php:1158
+#: modules/widgets/timeline/timeline.php:111
+#: modules/widgets/timeline/timeline.php:325
+#: modules/widgets/title/title.php:302
+msgid "Text"
+msgstr "টেক্সট"
+
+#: modules/widgets/title/title.php:363 modules/widgets/title/title.php:521
+#: modules/widgets/title/title.php:618
+msgid "Text Alignment"
+msgstr "টেক্সট প্রান্তিককরণ"
+
+#: modules/widgets/alert/alert.php:270
+#: modules/widgets/animated-text/animated-text.php:197
+#: modules/widgets/animated-text/animated-text.php:227
+#: modules/widgets/blog/blog.php:924 modules/widgets/blog/blog.php:1055
+#: modules/widgets/blog/blog.php:1106 modules/widgets/blog/blog.php:1265
+#: modules/widgets/blog/blog.php:1410 modules/widgets/bloglist/bloglist.php:759
+#: modules/widgets/bloglist/bloglist.php:777
+#: modules/widgets/bloglist/bloglist.php:847
+#: modules/widgets/bloglist/bloglist.php:865
+#: modules/widgets/bloglist/bloglist.php:933
+#: modules/widgets/bloglist/bloglist.php:951
+#: modules/widgets/bloglist/bloglist.php:1018
+#: modules/widgets/bloglist/bloglist.php:1036
+#: modules/widgets/bloglist/bloglist.php:1103
+#: modules/widgets/bloglist/bloglist.php:1153
+#: modules/widgets/caldera-form/caldera-form.php:127
+#: modules/widgets/caldera-form/caldera-form.php:284
+#: modules/widgets/caldera-form/caldera-form.php:433
+#: modules/widgets/caldera-form/caldera-form.php:465
+#: modules/widgets/card/card.php:979
+#: modules/widgets/contact-form-7/contact-form-7.php:270
+#: modules/widgets/contact-form-7/contact-form-7.php:318
+#: modules/widgets/contact-form-7/contact-form-7.php:354
+#: modules/widgets/contact-form-7/contact-form-7.php:523
+#: modules/widgets/contact-form-7/contact-form-7.php:610
+#: modules/widgets/contact-form-7/contact-form-7.php:764
+#: modules/widgets/contact-form-7/contact-form-7.php:806
+#: modules/widgets/contact-form-7/contact-form-7.php:866
+#: modules/widgets/contact-form-7/contact-form-7.php:922
+#: modules/widgets/contact-form-7/contact-form-7.php:975
+#: modules/widgets/contact-form-7/contact-form-7.php:1057
+#: modules/widgets/faq/faq.php:592 modules/widgets/faq/faq.php:637
+#: modules/widgets/faq/faq.php:685 modules/widgets/faq/faq.php:752
+#: modules/widgets/faq/faq.php:804 modules/widgets/faq/faq.php:895
+#: modules/widgets/infobox/infobox.php:826
+#: modules/widgets/ninjaform/ninjaform.php:127
+#: modules/widgets/ninjaform/ninjaform.php:284
+#: modules/widgets/ninjaform/ninjaform.php:425
+#: modules/widgets/ninjaform/ninjaform.php:457
+#: modules/widgets/pricing/pricing.php:345
+#: modules/widgets/pricing/pricing.php:469
+#: modules/widgets/pricing/pricing.php:639
+#: modules/widgets/pricing/pricing.php:703
+#: modules/widgets/pricing/pricing.php:1508
+#: modules/widgets/pricing/pricing.php:1592 modules/widgets/tab/tab.php:533
+#: modules/widgets/tab/tab.php:597 modules/widgets/tab/tab.php:661
+#: modules/widgets/tab/tab.php:965 modules/widgets/tab/tab.php:1018
+#: modules/widgets/tab/tab.php:1079 modules/widgets/tab/tab.php:1167
+#: modules/widgets/table/table.php:483 modules/widgets/table/table.php:561
+#: modules/widgets/table/table.php:608 modules/widgets/table/table.php:698
+#: modules/widgets/team/team.php:545 modules/widgets/title/title.php:351
+#: modules/widgets/title/title.php:461 modules/widgets/title/title.php:509
+#: modules/widgets/title/title.php:606
+#: modules/widgets/twitter-feed/twitter-feed.php:503
+#: modules/widgets/twitter-feed/twitter-feed.php:551
+#: modules/widgets/weform/weform.php:155 modules/widgets/weform/weform.php:312
+#: modules/widgets/weform/weform.php:507 modules/widgets/weform/weform.php:539
+#: modules/widgets/wpform/wpform.php:128
+msgid "Text Color"
+msgstr "টেক্সট রঙ"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:402
+msgid "Text Indent"
+msgstr "টেক্সট ইন্ডেন্ট"
+
+#: modules/widgets/timeline/timeline.php:134
+#: modules/widgets/timeline/timeline.php:139
+#: modules/widgets/timeline/timeline.php:348
+#: modules/widgets/timeline/timeline.php:353
+msgid "Text Time"
+msgstr "লেখার সময়"
+
+#: modules/widgets/table/table.php:194
+msgid "Textarea"
+msgstr "Textarea"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:445
+msgid "Textarea Width"
+msgstr "Textarea প্রস্থ"
+
+#: modules/widgets/iconbox/iconbox.php:681
+#: modules/widgets/infobox/infobox.php:522
+#: modules/widgets/testimonial/testimonial.php:1744
+msgid "Texts Alignment"
+msgstr "গ্রন্থে প্রান্তিককরণ"
+
+#: templates/notices.php:4
+msgid "Thanks for installing Droit Elementor Addons!"
+msgstr "ধন্যবাদ ইনস্টল করার জন্য Droit Elementor অ্যাডঅনস!"
+
+#: modules/widgets/alert/alert.php:68
+msgid "The quickest & easiest service provider"
+msgstr "দ্রুততম & সহজে সেবা প্রদানকারী"
+
+#: modules/widgets/card/card.php:101 modules/widgets/iconbox/iconbox.php:230
+msgid "This is the heading"
+msgstr "এই শিরোনাম"
+
+#: core/droit-images.php:332 modules/widgets/blog/blog.php:696
+msgid "Thumbnail"
+msgstr "থাম্বনেইল"
+
+#: modules/widgets/newstricker/newstricker.php:178
+msgid "Ticker Title"
+msgstr "টিকার, শিরোনাম"
+
+#: modules/widgets/timeline/timeline.php:107
+#: modules/widgets/timeline/timeline.php:321
+msgid "Time"
+msgstr "সময়"
+
+#: modules/widgets/timeline/timeline.php:546
+msgid "Time Format"
+msgstr "সময় বিন্যাস"
+
+#: includes/widgets.php:300 modules/widgets/timeline/timeline.php:23
+msgid "Timeline"
+msgstr "আপডেট মিস্ করবেন না"
+
+#: modules/widgets/pricing/pricing.php:1198
+#: modules/widgets/pricing/pricing.php:1206
+#: modules/widgets/pricing/pricing.php:1214
+msgid "Tincidunt ut laoreet dolor"
+msgstr "কাটন কেন্দ্রশাসিত অঞ্চল পাম্প dolor"
+
+#: includes/widgets.php:329 modules/widgets/blog/blog.php:203
+#: modules/widgets/blog/blog.php:278 modules/widgets/blog/blog.php:907
+#: modules/widgets/bloglist/bloglist.php:245
+#: modules/widgets/bloglist/bloglist.php:500
+#: modules/widgets/bloglist/bloglist.php:711 modules/widgets/card/card.php:99
+#: modules/widgets/card/card.php:848
+#: modules/widgets/countdown/countdown.php:232 modules/widgets/faq/faq.php:266
+#: modules/widgets/faq/faq.php:539 modules/widgets/iconbox/iconbox.php:227
+#: modules/widgets/iconbox/iconbox.php:535
+#: modules/widgets/image-carousel/image-carousel.php:131
+#: modules/widgets/image-carousel/image-carousel.php:1189
+#: modules/widgets/image-carousel/image-carousel.php:1446
+#: modules/widgets/image-carousel/image-carousel.php:1465
+#: modules/widgets/infobox/infobox.php:393
+#: modules/widgets/infobox/infobox.php:622
+#: modules/widgets/pricing/pricing.php:231
+#: modules/widgets/pricing/pricing.php:535
+#: modules/widgets/process/process.php:217
+#: modules/widgets/process/process.php:467
+#: modules/widgets/process/process.php:906
+#: modules/widgets/product-list/product-list.php:83
+#: modules/widgets/tab/tab.php:177 modules/widgets/tab/tab.php:956
+#: modules/widgets/timeline/timeline.php:84
+#: modules/widgets/timeline/timeline.php:229 modules/widgets/title/title.php:23
+#: modules/widgets/title/title.php:73 modules/widgets/title/title.php:148
+#: modules/widgets/title/title.php:322
+msgid "Title"
+msgstr "শিরোনাম"
+
+#: modules/widgets/image-carousel/image-carousel.php:223
+#: modules/widgets/process/process.php:540
+#: modules/widgets/timeline/timeline.php:195
+#: modules/widgets/timeline/timeline.php:409
+msgid "Title #1"
+msgstr ""
+
+#: modules/widgets/image-carousel/image-carousel.php:229
+#: modules/widgets/process/process.php:543
+#: modules/widgets/timeline/timeline.php:200
+#: modules/widgets/timeline/timeline.php:414
+msgid "Title #2"
+msgstr ""
+
+#: modules/widgets/image-carousel/image-carousel.php:235
+#: modules/widgets/process/process.php:546
+#: modules/widgets/timeline/timeline.php:205
+#: modules/widgets/timeline/timeline.php:419
+msgid "Title #3"
+msgstr ""
+
+#: modules/widgets/image-carousel/image-carousel.php:241
+#: modules/widgets/timeline/timeline.php:210
+#: modules/widgets/timeline/timeline.php:424
+msgid "Title #4"
+msgstr ""
+
+#: modules/widgets/title/title.php:80
+msgid "Title & Sub Title Position Reverse"
+msgstr "শিরোনাম ও উপ শিরোনাম অবস্থান বিপরীত"
+
+#: modules/widgets/product-list/product-list.php:447
+msgid "Title Alignment"
+msgstr "শিরোনাম প্রান্তিককরণ"
+
+#: modules/widgets/infobox/infobox.php:903
+msgid "Title Animation"
+msgstr "শিরোনাম অ্যানিমেশন"
+
+#: modules/widgets/image-carousel/image-carousel.php:1441
+msgid "Title Caption"
+msgstr "শিরোনাম, ক্যাপশন"
+
+#: modules/widgets/faq/faq.php:268
+#: modules/widgets/newstricker/newstricker.php:180
+msgid "Title Here"
+msgstr "শিরোনাম এখানে"
+
+#: modules/widgets/image-carousel/image-carousel.php:133
+#: modules/widgets/process/process.php:219
+#: modules/widgets/process/process.php:469
+#: modules/widgets/timeline/timeline.php:86
+#: modules/widgets/timeline/timeline.php:231
+msgid "Title Here..."
+msgstr "শিরোনাম এখানে..."
+
+#: modules/widgets/alert/alert.php:77 modules/widgets/blog/blog.php:303
+#: modules/widgets/bloglist/bloglist.php:256 modules/widgets/card/card.php:192
+#: modules/widgets/faq/faq.php:277 modules/widgets/iconbox/iconbox.php:243
+#: modules/widgets/newstricker/newstricker.php:130
+#: modules/widgets/tab/tab.php:231 modules/widgets/team/team.php:168
+#: modules/widgets/title/title.php:103
+msgid "Title HTML Tag"
+msgstr "শিরোনাম এইচটিএমএল ট্যাগ"
+
+#: modules/widgets/image-carousel/image-carousel.php:174
+#: modules/widgets/image-carousel/image-carousel.php:1510
+#: modules/widgets/infobox/infobox.php:407
+#: modules/widgets/pricing/pricing.php:271
+#: modules/widgets/pricing/pricing.php:583
+#: modules/widgets/process/process.php:264
+#: modules/widgets/process/process.php:488
+#: modules/widgets/timeline/timeline.php:149
+#: modules/widgets/timeline/timeline.php:363
+msgid "Title Tag"
+msgstr "শিরোনাম ট্যাগ"
+
+#: modules/widgets/timeline/timeline.php:1058
+#: modules/widgets/title/title.php:91
+msgid "Title Text"
+msgstr "শিরোনাম টেক্সট"
+
+#: modules/widgets/google-map/google-map.php:98
+msgid "tolls|highways"
+msgstr ""
+
+#: templates/admin/dashboard.php:73
+msgid "Tools"
+msgstr "সরঞ্জাম"
+
+#: modules/sticky/sticky.php:200 modules/widgets/card/card.php:173
+#: modules/widgets/iconbox/iconbox.php:659
+#: modules/widgets/image-carousel/image-carousel.php:507
+#: modules/widgets/testimonial/testimonial.php:985
+#: modules/widgets/timeline/timeline.php:591
+#: modules/widgets/twitter-feed/twitter-feed.php:423
+msgid "Top"
+msgstr "শীর্ষ"
+
+#: modules/widgets/process/process.php:677
+msgid "Top Spacing"
+msgstr "শীর্ষ ফাঁক"
+
+#: modules/widgets/image-carousel/image-carousel.php:502
+msgid "Top/ Bottom"
+msgstr "উপরে/ নীচে"
+
+#: modules/widgets/testimonial/testimonial.php:1138
+#: modules/widgets/testimonial/testimonial.php:1257
+#: modules/widgets/testimonial/testimonial.php:1376
+#: modules/widgets/testimonial/testimonial.php:1509
+#: modules/widgets/testimonial/testimonial.php:1615
+msgid "Top/Bottom"
+msgstr "উপরে/নীচে"
+
+#: modules/widgets/card/card.php:508 modules/widgets/card/card.php:692
+#: modules/widgets/card/card.php:817 modules/widgets/card/card.php:884
+#: modules/widgets/card/card.php:923 modules/widgets/card/card.php:1089
+#: modules/widgets/card/card.php:1152
+msgid "Transition Duration"
+msgstr "রূপান্তর সময়কাল"
+
+#: modules/templates/init.php:54
+msgid "Try different category or sync for new templates."
+msgstr "চেষ্টা করুন, বিভিন্ন শ্রেণী বা সিঙ্ক জন্য নতুন টেমপ্লেট."
+
+#: modules/widgets/share-buttons/share-buttons.php:88
+#: modules/widgets/share-buttons/share-buttons.php:360
+msgid "Tumblr"
+msgstr "টাম্বলার"
+
+#: includes/admin.php:165 includes/api.php:70
+#: modules/widgets/share-buttons/share-buttons.php:84
+#: modules/widgets/share-buttons/share-buttons.php:286
+#: modules/widgets/share-buttons/share-buttons.php:356
+#: modules/widgets/share-buttons/share-buttons.php:535
+msgid "Twitter"
+msgstr "টুইটার"
+
+#: includes/widgets.php:359 modules/widgets/twitter-feed/twitter-feed.php:14
+msgid "Twitter Feed"
+msgstr "টুইটার ফিড"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:59
+msgid "Twitter Key"
+msgstr "টুইটার কী"
+
+#: modules/widgets/animated-text/animated-text.php:107
+msgid "Type"
+msgstr "টাইপ"
+
+#: modules/widgets/infobox/infobox.php:462
+msgid "Type info box button text."
+msgstr "টাইপ, তথ্য বক্স, বাটন টেক্সট."
+
+#: modules/widgets/infobox/infobox.php:447
+msgid "Type info box description."
+msgstr "টাইপ তথ্য বক্স বিবরণ."
+
+#: modules/widgets/infobox/infobox.php:396
+msgid "Type Info Box Title"
+msgstr "টাইপ তথ্য বক্স শিরোনাম"
+
+#: modules/widgets/caldera-form/caldera-form.php:119
+#: modules/widgets/caldera-form/caldera-form.php:267
+#: modules/widgets/contact-form-7/contact-form-7.php:282
+#: modules/widgets/contact-form-7/contact-form-7.php:464
+#: modules/widgets/contact-form-7/contact-form-7.php:623
+#: modules/widgets/contact-form-7/contact-form-7.php:777
+#: modules/widgets/contact-form-7/contact-form-7.php:989
+#: modules/widgets/contact-form-7/contact-form-7.php:1049
+#: modules/widgets/ninjaform/ninjaform.php:119
+#: modules/widgets/ninjaform/ninjaform.php:267
+#: modules/widgets/share-buttons/share-buttons.php:200
+#: modules/widgets/table/table.php:495 modules/widgets/table/table.php:620
+#: modules/widgets/twitter-feed/twitter-feed.php:443
+#: modules/widgets/twitter-feed/twitter-feed.php:515
+#: modules/widgets/weform/weform.php:147 modules/widgets/wpform/wpform.php:120
+msgid "Typography"
+msgstr "ছাপাখানার বিদ্যা"
+
+#: modules/widgets/google-map/google-map.php:108
+msgid "Units"
+msgstr "ইউনিট"
+
+#: modules/widgets/faq/faq.php:177
+msgid "Up Icon"
+msgstr "আপ আইকন"
+
+#: modules/widgets/blog/blog.php:247
+msgid "Upgrade Droit Addons"
+msgstr "আপগ্রেড Droit অ্যাডঅনস"
+
+#: modules/widgets/title/title.php:163 modules/widgets/title/title.php:262
+msgid "URL"
+msgstr "URL টি"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:78
+msgid "Use @ sign with your account name."
+msgstr ""
+
+#: modules/widgets/twitter-feed/twitter-feed.php:385
+#: modules/widgets/twitter-feed/twitter-feed.php:459
+msgid "User Name"
+msgstr "ব্যবহারকারীর নাম"
+
+#: modules/widgets/process/process.php:354
+msgid "User Research"
+msgstr "ব্যবহারকারী গবেষণা"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:309
+msgid "Users"
+msgstr "ব্যবহারকারীদের"
+
+#: modules/widgets/contact-form-7/contact-form-7.php:952
+msgid "Validation Errors"
+msgstr "ভ্যালিডেশন ত্রুটি"
+
+#: modules/sticky/sticky.php:194
+msgid "Vertical Orientation"
+msgstr "উল্লম্ব অভিযোজন"
+
+#: modules/widgets/share-buttons/share-buttons.php:113
+#: modules/widgets/share-buttons/share-buttons.php:385
+msgid "Viber"
+msgstr "Viber"
+
+#: templates/admin/main.php:88
+msgid "Video Tutorials"
+msgstr "ভিডিও টিউটোরিয়াল"
+
+#: modules/widgets/google-map/google-map.php:61
+msgid "View"
+msgstr "দেখুন"
+
+#: core.php:163
+msgid "View Demo"
+msgstr "ডেমো দেখুন"
+
+#: templates/admin/main.php:114 modules/widgets/card/card.php:142
+msgid "View More"
+msgstr "আরো দেখুন"
+
+#: modules/widgets/share-buttons/share-buttons.php:91
+#: modules/widgets/share-buttons/share-buttons.php:363
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: modules/widgets/google-map/google-map.php:240
+msgid "Walking"
+msgstr "হাঁটা"
+
+#: modules/widgets/google-map/google-map.php:84
+msgid "Waypoints"
+msgstr "Waypoints"
+
+#: includes/widgets.php:389 modules/widgets/weform/weform.php:12
+msgid "weForm"
+msgstr "weForm"
+
+#: modules/widgets/weform/weform.php:48
+msgid "weForms"
+msgstr "weForms"
+
+#: modules/widgets/share-buttons/share-buttons.php:109
+#: modules/widgets/share-buttons/share-buttons.php:381
+msgid "Weibo"
+msgstr "ওয়েইবো"
+
+#: modules/widgets/pricing/pricing.php:1347
+msgid "Weight"
+msgstr "ওজন"
+
+#: modules/widgets/share-buttons/share-buttons.php:114
+#: modules/widgets/share-buttons/share-buttons.php:386
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: includes/admin.php:104
+msgid "Widgets"
+msgstr "উইজেট"
+
+#: modules/widgets/card/card.php:571
+#: modules/widgets/contact-form-7/contact-form-7.php:664
+#: modules/widgets/image-carousel/image-carousel.php:1128
+#: modules/widgets/infobox/infobox.php:174
+#: modules/widgets/pricing/pricing.php:1282
+#: modules/widgets/pricing/pricing.php:1371
+#: modules/widgets/share-buttons/share-buttons.php:674
+#: modules/widgets/table/table.php:348
+#: modules/widgets/testimonial/testimonial.php:885
+msgid "Width"
+msgstr "প্রস্থ"
+
+#: core/helper.php:10
+msgid "Width 1 - Height 1"
+msgstr "প্রস্থ 1 - উচ্চতা 1"
+
+#: core/helper.php:13
+msgid "Width 1 - Height 130%"
+msgstr "প্রস্থ 1 - উচ্চতা 130%"
+
+#: core/helper.php:11
+msgid "Width 1 - Height 2"
+msgstr "প্রস্থ 1 - উচ্চতা 2"
+
+#: core/helper.php:12
+msgid "Width 1 - Height 70%"
+msgstr "প্রস্থ 1 - উচ্চতা 70%"
+
+#: core/helper.php:14
+msgid "Width 2 - Height 1"
+msgstr "প্রস্থ 2 - উচ্চতা 1"
+
+#: core/helper.php:15
+msgid "Width 2 - Height 2"
+msgstr "প্রস্থ 2 - উচ্চতা 2"
+
+#: modules/widgets/pricing/pricing.php:793
+msgid "Won"
+msgstr "জিতেছে"
+
+#: modules/widgets/share-buttons/share-buttons.php:107
+#: modules/widgets/share-buttons/share-buttons.php:379
+msgid "WordPress"
+msgstr "ওয়ার্ডপ্রেস"
+
+#: modules/widgets/faq/faq.php:354
+msgid "Work With Us"
+msgstr "আমাদের সাথে কাজ"
+
+#: includes/widgets.php:433 modules/widgets/wpform/wpform.php:12
+msgid "WPForm"
+msgstr "WPForm"
+
+#: modules/widgets/wpform/wpform.php:48
+msgid "WPForms"
+msgstr "WPForms"
+
+#: modules/widgets/share-buttons/share-buttons.php:105
+#: modules/widgets/share-buttons/share-buttons.php:377
+msgid "Xing"
+msgstr "Xing,"
+
+#: modules/widgets/pricing/pricing.php:792
+msgid "Yen/Yuan"
+msgstr "ইয়েন/ইউয়ান"
+
+#: modules/widgets/alert/alert.php:121 modules/widgets/alert/alert.php:146
+#: modules/widgets/blog/blog.php:444 modules/widgets/bloglist/bloglist.php:385
+#: modules/widgets/bloglist/bloglist.php:444
+#: modules/widgets/caldera-form/caldera-form.php:331
+#: modules/widgets/image-carousel/image-carousel.php:272
+#: modules/widgets/image-carousel/image-carousel.php:293
+#: modules/widgets/image-carousel/image-carousel.php:326
+#: modules/widgets/image-carousel/image-carousel.php:338
+#: modules/widgets/image-carousel/image-carousel.php:350
+#: modules/widgets/image-carousel/image-carousel.php:449
+#: modules/widgets/testimonial/testimonial.php:249
+#: modules/widgets/testimonial/testimonial.php:263
+#: modules/widgets/testimonial/testimonial.php:274
+#: modules/widgets/testimonial/testimonial.php:285
+#: modules/widgets/testimonial/testimonial.php:296
+#: modules/widgets/testimonial/testimonial.php:307
+#: modules/widgets/testimonial/testimonial.php:365
+#: modules/widgets/testimonial/testimonial.php:386
+#: modules/widgets/testimonial/testimonial.php:419
+#: modules/widgets/testimonial/testimonial.php:431
+#: modules/widgets/testimonial/testimonial.php:1098
+#: modules/widgets/testimonial/testimonial.php:1483
+#: modules/widgets/title/title.php:82 modules/widgets/weform/weform.php:360
+#: modules/widgets/wpform/wpform.php:379
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+#: modules/widgets/twitter-feed/twitter-feed.php:185
+#: modules/widgets/twitter-feed/twitter-feed.php:197
+#: modules/widgets/twitter-feed/twitter-feed.php:209
+msgid "yes"
+msgstr "হ্যাঁ"
+
+#: templates/admin/main.php:71
+msgid "You feel something is buggy with the product? Let us know!"
+msgstr "আপনি কিছু মনে হয় বগী সঙ্গে পণ্য? আসুন জানি!"
+
+#: includes/admin.php:177
+msgid "YouTube"
+msgstr "ইউটিউব"
+
+#: modules/widgets/blog/blog.php:479 modules/widgets/blog/blog.php:590
+msgid "Zigzag Height"
+msgstr "আঁকাবাঁকা উচ্চতা"
+
+#: modules/widgets/blog/blog.php:488 modules/widgets/blog/blog.php:599
+msgid "Zigzag Reversed?"
+msgstr "আঁকাবাঁকা বিপরীত?"
+
+#: modules/widgets/animated-text/animated-text.php:112
+#: modules/widgets/google-map/google-map.php:207
+msgid "Zoom"
+msgstr "জুম"

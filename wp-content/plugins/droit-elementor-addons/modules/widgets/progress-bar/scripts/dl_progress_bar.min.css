@@ -1,0 +1,43 @@
+.dl-progress-element .dl-progress-content {
+  display: flex;
+  align-items: center;
+}
+
+.arrow {
+  height: 0;
+  width: 0;
+}
+
+.dl-percentage {
+  fill: #150A0A;
+}
+
+svg.radial-progress {
+  height: auto;
+  max-width: 350px;
+  padding: 1em;
+  transform: rotate(-90deg);
+  width: 150px;
+}
+
+svg.radial-progress circle {
+  fill: rgba(0,0,0,0);
+  stroke: #fff;
+  stroke-dashoffset: 219.91148575129;
+  stroke-width: 10;
+}
+
+svg.radial-progress circle.incomplete { opacity: 0.25; }
+
+svg.radial-progress circle.complete { stroke-dasharray: 219.91148575129;  }
+
+svg.radial-progress text {
+  fill: #fff;
+  font: 400 1em/1 'poppins';
+  text-anchor: middle;
+}
+
+svg.radial-progress circle.complete { stroke: #a2ed56; }
+svg.radial-progress circle.incomplete { stroke: #A2ED5670; }
+
+/* :nth-of-type(6n+1) */

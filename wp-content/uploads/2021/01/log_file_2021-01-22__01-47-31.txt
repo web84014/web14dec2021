@@ -1,0 +1,22 @@
+
+---Downloaded files---
+The import files for: Digital Agency 2 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://jbtechnocare.in/wlcglobal
+Data file = /home/jbtechnocare/public_html/wlcglobal/wp-content/uploads/2021/01/demo-content-import-file_2021-01-22__01-47-31.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+saasland_opt -> /home/jbtechnocare/public_html/wlcglobal/wp-content/themes/saasland/inc/demos/new/settings.json 
+
+
+------
+New AJAX call!
+
+
+---Importing Redux settings---
+Redux settings import for: saasland_opt finished successfully!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,187 @@
+.dl_social_icon {
+    text-align: center;
+}
+.dl_social_icon .dl_social_btn {
+    margin: 8px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+.dl_social_icon a.facebook {
+    border: 2px solid #375eaf;
+    color: #375eaf;
+    border-radius: 6px;
+}
+.dl_social_icon a.facebook:hover {
+    background-color: #375eaf;
+    color: #fff;
+}
+.dl_social_icon a.twitter {
+    border: 2px solid #1da1f2;
+    color: #1da1f2;
+    border-radius: 6px;
+}
+.dl_social_icon a.twitter:hover {
+    background-color: #1da1f2;
+    color: #fff;
+}
+.dl_social_icon a.telegram {
+    border: 2px solid #ea4335;
+    color: #ea4335;
+    border-radius: 6px;
+}
+.dl_social_icon a.telegram:hover {
+    background-color: #ea4335;
+    color: #fff;
+}
+.dl_social_icon a.linkedin {
+    border: 2px solid #0073b1;
+    color: #0073b1;
+    border-radius: 6px;
+}
+.dl_social_icon a.linkedin:hover {
+    background-color: #0073b1;
+    color: #fff;
+}
+.dl_social_icon a.instagram {
+    border: 2px solid #c13584;
+    color: #c13584;
+    border-radius: 6px;
+}
+.dl_social_icon a.instagram:hover {
+    background-color: #c13584;
+    color: #fff;
+}
+.dl_social_icon a.pinterest {
+    border: 2px solid #f90d4a;
+    color: #f90d4a;
+    border-radius: 6px;
+}
+.dl_social_icon a.pinterest:hover {
+    background-color: #f90d4a;
+    color: #fff;
+}
+.dl_social_icon a.skype {
+    border: 2px solid #00b9f5;
+    color: #00b9f5;
+    border-radius: 6px;
+}
+.dl_social_icon a.skype:hover {
+    background-color: #00b9f5;
+    color: #fff;
+}
+.dl_social_icon.dl_social_ixon_style_1 .dl_social_btn {
+    display: inline-block;
+    padding: 7px 22px;
+    text-transform: capitalize;
+}
+.dl_social_icon.dl_social_ixon_style_1 .dl_social_btn i {
+    margin-right: 5px;
+}
+.dl_social_icon.dl_social_ixon_style_2 .dl_social_btn {
+    border-width: 2px;
+    border-color: #ebedf2;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 56px;
+    height: 56px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3px;
+}
+.dl_social_icon.dl_social_ixon_style_2 a.facebook:hover {
+    border-color: #375eaf;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_2 a.twitter:hover {
+    border-color: #1da1f2;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_2 a.telegram:hover {
+    border-color: #ea4335;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_2 a.linkedin:hover {
+    border-color: #0073b1;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_2 a.instagram:hover {
+    border-color: #c13584;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_2 a.pinterest:hover {
+    border-color: #f90d4a;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_2 a.skype:hover {
+    border-color: #00b9f5;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 .dl_social_btn {
+    border-width: 2px;
+    border-color: #fff;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 56px;
+    height: 56px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 3px;
+}
+.dl_social_icon.dl_social_ixon_style_3 a.facebook:hover {
+    border-color: #375eaf;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 a.twitter:hover {
+    border-color: #1da1f2;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 a.telegram:hover {
+    border-color: #ea4335;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 a.linkedin:hover {
+    border-color: #0073b1;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 a.instagram:hover {
+    border-color: #c13584;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 a.pinterest:hover {
+    border-color: #f90d4a;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_3 a.skype:hover {
+    border-color: #00b9f5;
+    box-shadow: 0 20px 20px 0 rgba(5, 36, 69, 0.1);
+}
+.dl_social_icon.dl_social_ixon_style_4 .dl_social_btn {
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    width: 56px;
+    height: 56px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 3px;
+}
+.dl_social_icon.dl_social_ixon_style_1.droit-share-buttons-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.droit-share-buttons-wrapper .droit-share-icon i {
+    position: relative;
+}
+@media (max-width: 767px) {
+.dl_social_icon.dl_social_ixon_style_1.droit-share-buttons-wrapper {
+display: block;
+}
+}

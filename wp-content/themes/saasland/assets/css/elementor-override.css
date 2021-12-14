@@ -1,0 +1,136 @@
+.max-width-none img {
+    max-width: none;
+}
+.elementor_navbar.no_fixed.header_area {
+    position: relative;
+}
+/** === Transform Effect === **/
+.hover-transform {
+    webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.hover-transform:hover {
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+}
+
+/** === ul/li ol/li colors === **/
+.hover-red ul li a:hover {
+    color: #f8636b !important;
+}
+.hover-blue ul li a:hover {
+    color: #4f79f6 !important;
+}
+.hover-white ul li a:hover {
+    color: #ffffff !important;
+}
+.hover-deepskyblue ul li a:hover {
+    color: #00aff0 !important;
+}
+
+/** === Widget Classes === **/
+.elementor-widget-saasland_icon_dual .icon_two {
+    background: #f1f5ff;
+}
+.elementor-widget-saasland_icon_dual .icon_two .small {
+    color: #46d779;
+    font-size: 25px;
+    position: relative;
+    top: -25px;
+    left: 6px;
+    padding-top: 0;
+}
+.elementor-widget-saasland_icon_dual .icon_two i {
+    color: #73a1ff;
+    padding-top: 30px;
+    display: inline-block;
+}
+.elementor-widget-saasland_icon_dual .get_icon {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    font-size: 45px;
+    text-align: center;
+    border-radius: 3px;
+    background: #fff1f3;
+    color: #ff738b;
+    margin-right: 25px;
+}
+
+.btn-shadow-none-hover .elementor-button:hover {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.elementor-column-wrap.elementor-element-populated {
+    transition: all 0.3s linear;
+}
+
+.full-angle-bg:before {
+    content: "";
+    width: 150%;
+    height: 460px;
+    background: #fafbfc;
+    position: absolute;
+    -webkit-transform: rotate(-10.9deg);
+    -ms-transform: rotate(-10.9deg);
+    transform: rotate(-10.9deg);
+    top: -215px;
+    right: -171px;
+    z-index: -1;
+}
+/** === Home Chat Hover Rotate === **/
+.elementor-row .elementor-inner-column:hover .rotate_effect {
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.bold_text strong {
+    font-weight: 700;
+}
+
+/** === Button box shadow on hover === **/
+.btn-hover-shadow:hover .elementor-button-link {
+    -webkit-box-shadow: 0 10px 50px 0 rgba(195, 33, 52, 0.3);
+    box-shadow: 0 10px 50px 0 rgba(195, 33, 52, 0.3);
+}
+.yellow-btn-hover-shadow:hover .elementor-button-link {
+    -webkit-box-shadow: 0 10px 50px 0 rgba(194, 132, 33, 0.3);
+    box-shadow: 0 10px 50px 0 rgba(194, 132, 33, 0.3);
+}
+.btn-hover-shadow-black_alpha-1:hover .elementor-button-link {
+    -webkit-box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.1);
+}
+.hover-red-event ul li a:hover {
+    color: #fd475d !important;
+}
+.elementor-widget:not(:last-child) {
+    margin-bottom: 0;
+}
+
+/** === Responsive === **/
+@media ( max-width: 768px ){
+    .max-width-none img {
+        max-width: 100%;
+    }
+}
+
+/** === Image Box Shadow === **/
+.image-box-shadow img {
+    box-shadow: 0 20px 20px 0 rgba(18, 1, 64, 0.08);
+}
+
+/** === Image Carousel === **/
+.swiper-pagination-bullet {
+    background: #5e2ced;
+}
+
+.brand-color{
+    color: #5e2ced;
+}

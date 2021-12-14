@@ -1,0 +1,133 @@
+PREFIX {
+  /* UberMenu - Copyright 2011-2017, SevenSpark */
+}
+PREFIX .ubermenu-skin-tt-black {
+  font-size: 12px;
+  color: #ccc;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-target {
+  color: #ddd;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-target-description {
+  color: #ccc;
+}
+PREFIX .ubermenu-skin-tt-black.ubermenu-responsive-toggle {
+  background: #333;
+  color: #eee;
+  font-size: 12px;
+  text-transform: none;
+  font-weight: bold;
+}
+PREFIX .ubermenu-skin-tt-black.ubermenu-responsive-toggle:hover {
+  background: #1a1a1a;
+  color: #fff;
+}
+PREFIX .ubermenu-skin-tt-black {
+  border: none;
+  background-color: #333;
+  background: -webkit-gradient(linear, left top, left bottom, from(#333), to(#1a1a1a));
+  background: -webkit-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+  background: -moz-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+  background: -ms-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+  background: -o-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target,
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target,
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target {
+  color: #eee;
+  background: transparent;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-item.ubermenu-item-level-0 > .ubermenu-highlight {
+  color: #fff;
+  background: transparent;
+}
+PREFIX .ubermenu-skin-tt-black.ubermenu-vertical .ubermenu-item-level-0 > .ubermenu-target {
+  background-color: #333;
+  background: -webkit-gradient(linear, left top, left bottom, from(#333), to(#1a1a1a));
+  background: -webkit-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+  background: -moz-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+  background: -ms-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+  background: -o-linear-gradient(top, #333 50%, #333 50%, #1a1a1a 50%);
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0 > .ubermenu-target {
+  font-weight: bold;
+  color: #eee;
+  text-transform: none;
+  border-left: none;
+  -webkit-box-shadow: inset 1px 0 0 0 rgba(255, 255, 255, 0);
+  -moz-box-shadow: inset 1px 0 0 0 rgba(255, 255, 255, 0);
+  box-shadow: inset 1px 0 0 0 rgba(255, 255, 255, 0);
+}
+PREFIX body:not(.rtl) .ubermenu-skin-tt-black.ubermenu-horizontal .ubermenu-item-level-0:first-child > .ubermenu-target {
+  box-shadow: none;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0:hover > .ubermenu-target,
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0.ubermenu-active > .ubermenu-target {
+  background: transparent;
+  color: #fff;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0 > .ubermenu-submenu-type-stack > .ubermenu-item > .ubermenu-target {
+  color: #eee;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-item-level-0 > .ubermenu-submenu-type-stack > .ubermenu-item > .ubermenu-target:hover {
+  color: #fff;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu.ubermenu-submenu-drop {
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid #111;
+}
+PREFIX .ubermenu-skin-tt-black.ubermenu-horizontal .ubermenu-item-level-0 > .ubermenu-submenu-drop {
+  border-top: none;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-tab-content-panel {
+  background: rgba(0, 0, 0, 0.9);
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu,
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-target {
+  color: #d9d9d9;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-highlight {
+  color: #4d90fe;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-target:hover,
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-active > .ubermenu-target {
+  color: #fff;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-target > .ubermenu-target-description {
+  color: #aaa;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-active > .ubermenu-target > .ubermenu-target-description {
+  color: #666;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-item-header > .ubermenu-target {
+  font-weight: bold;
+  color: #eee;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-item-header.ubermenu-has-submenu-stack > .ubermenu-target {
+  border-bottom: 1px solid #aaa;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover {
+  color: #fff;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-current-menu-item > .ubermenu-target {
+  color: #fff;
+  background: transparent;
+}
+PREFIX .ubermenu-nojs.ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-tabs .ubermenu-tab:hover > .ubermenu-target,
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu .ubermenu-tab.ubermenu-active > .ubermenu-target {
+  background: #333;
+  color: #eee;
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-tabs-group,
+PREFIX .ubermenu-skin-tt-black .ubermenu-tab > .ubermenu-target,
+PREFIX .ubermenu-skin-tt-black .ubermenu-tab-content-panel {
+  border-color: #000;
+}
+@media screen and (max-width: 960px) {
+  PREFIX .ubermenu-skin-tt-black {
+    background: #222;
+  }
+}
+PREFIX .ubermenu-skin-tt-black .ubermenu-submenu-drop {
+  border-bottom-width: 3px;
+}

@@ -1,0 +1,12 @@
+[08-Sep-2021 10:15:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/lotuswlc/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/lotuswlc/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Sep-2021 22:07:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/lotuswlc/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/lotuswlc/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Sep-2021 11:19:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/lotuswlc/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/lotuswlc/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

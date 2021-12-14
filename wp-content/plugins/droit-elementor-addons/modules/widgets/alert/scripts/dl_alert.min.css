@@ -1,0 +1,85 @@
+.dl_alert_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.dl_alert_box.dl_alert_box_style_01 {
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 22px 40px;
+}
+.dl_alert_box.dl_alert_box_style_01 .dl_alert_close {
+    font-size: 18px;
+    background-color: transparent;
+    border: 0 solid transparent;
+    cursor: pointer;
+}
+.dl_alert_box.dl_alert_box_style_01 .dl_alert_desc {
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+}
+.dl_alert_box.dl_alert_box_style_01 .dl_alert_desc i {
+    margin-right: 18px;
+    font-size: 24px;
+}
+.dl_alert_box.dl_default_alert {
+    border: 1px solid #d7caf5;
+    background-color: #f5f1fd;
+    color: #8d62e3;
+}
+.dl_alert_box.dl_default_alert .dl_alert_close,
+.dl_alert_box.dl_default_alert .dl_alert_desc {
+    color: #8d62e3;
+}
+.dl_alert_box.dl_notice_alert {
+    border: 1px solid #e9e6f5;
+    background-color: #f9f8fc;
+    color: #677294;
+}
+.dl_alert_box.dl_notice_alert .dl_alert_close,
+.dl_alert_box.dl_notice_alert .dl_alert_desc {
+    color: #677294;
+}
+.dl_alert_box.dl_notice_alert .dl_alert_box_icon {
+    border: 1px solid #e9e6f5;
+    background-color: #f9f8fc;
+    color: #677294;
+}
+.dl_alert_box.dl_info_alert {
+    border: 1px solid #aee9f3;
+    background-color: #ebfcff;
+    color: #67d2e5;
+}
+.dl_alert_box.dl_info_alert .dl_alert_close,
+.dl_alert_box.dl_info_alert .dl_alert_desc {
+    color: #67d2e5;
+}
+.dl_alert_box.dl_error_alert {
+    border: 1px solid #f4bdbd;
+    background-color: #ffebeb;
+    color: #eb4a4a;
+}
+.dl_alert_box.dl_error_alert .dl_alert_close,
+.dl_alert_box.dl_error_alert .dl_alert_desc {
+    color: #eb4a4a;
+}
+.dl_alert_box.dl_success_alert {
+    border: 1px solid #b0efac;
+    background-color: #ecffeb;
+    color: #4acc43;
+}
+.dl_alert_box.dl_success_alert .dl_alert_close,
+.dl_alert_box.dl_success_alert .dl_alert_desc {
+    color: #4acc43;
+}
+.dl_alert_box.dl_warning_alert {
+    border: 1px solid #edd796;
+    background-color: #fffaeb;
+    color: #ebb512;
+}
+.dl_alert_box.dl_warning_alert .dl_alert_close,
+.dl_alert_box.dl_warning_alert .dl_alert_desc {
+    color: #ebb512;
+}

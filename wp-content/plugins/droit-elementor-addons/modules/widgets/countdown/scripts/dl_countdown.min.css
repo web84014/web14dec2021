@@ -1,0 +1,153 @@
+.dl_countdown_wrapper .dl_colum_4 {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr);
+    grid-template-columns: repeat(4, 1fr);
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+}
+@media (max-width: 576px) {
+    .dl_countdown_wrapper .dl_colum_4 {
+        -ms-grid-columns: (1fr);
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    .dl_countdown_wrapper .dl_colum_4 {
+        -ms-grid-columns: (1fr);
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    .dl_countdown_wrapper .dl_colum_4 {
+        -ms-grid-columns: (1fr);
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+.dl_countdown_wrapper.dl_style_01 .dl_countdown_inner {
+    background-color: #fff;
+    padding: 27px 40px;
+    text-align: center;
+}
+.dl_countdown_wrapper.dl_style_01 .dl_countdown_inner span {
+    font-size: 42px;
+    font-weight: 400;
+    color: #49e157;
+    line-height: 1;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-family: "Abril Fatface", cursive;
+}
+.dl_countdown_wrapper.dl_style_01 .dl_countdown_inner span.dl_text_blue {
+    color: #4974e1;
+}
+.dl_countdown_wrapper.dl_style_01 .dl_countdown_inner span.dl_text_yellow {
+    color: #ffb74b;
+}
+.dl_countdown_wrapper.dl_style_01 .dl_countdown_inner span.dl_text_orange {
+    color: #ff5151;
+}
+.dl_countdown_wrapper.dl_style_01 .dl_countdown_inner .dl_desc {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #6e798c;
+}
+.dl_countdown_wrapper.dl_style_04 .dl_countdown_inner {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media (max-width: 767.98px) {
+    .dl_countdown_wrapper.dl_style_04 .dl_countdown_inner {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+}
+.dl_countdown_wrapper.dl_style_04 span {
+    font-size: 42px;
+    color: #fff;
+    line-height: 1;
+    font-family: Dosis, sans-serif;
+}
+.dl_countdown_wrapper.dl_style_04 .dl_desc {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #fff;
+    opacity: 0.7;
+}
+.dl_countdown_wrapper.dl_style_08 {
+    position: relative;
+}
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    .dl_countdown_wrapper.dl_style_08 .dl_colum_4 {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+    }
+}
+.dl_countdown_wrapper.dl_style_08 .dl_countdown_inner {
+    padding: 27px 20px;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    border-radius: 10px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    position: relative;
+    z-index: 1;
+}
+.dl_countdown_wrapper.dl_style_08 .dl_countdown_inner:after {
+    position: absolute;
+    content: "";
+    right: -11%;
+    top: 8%;
+    font-size: 43px;
+    color: grey;
+}
+.dl_countdown_wrapper.dl_style_08 .dl_countdown_inner:last-child:after {
+    display: none;
+}
+.dl_countdown_wrapper.dl_style_08 .dl_countdown_inner span {
+    font-size: 42px;
+    font-weight: 400;
+    color: grey;
+    line-height: 1;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-family: "Abril Fatface", cursive;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+.dl_countdown_wrapper.dl_style_08 .dl_countdown_inner .dl_desc {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: grey;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+.dl_countdown_wrapper.dl_style_08 .dl_countdown_shape {
+    position: absolute;
+    bottom: 0;
+    right: -87%;
+}
+@media (max-width: 991px) {
+    .dl_countdown_wrapper .dl_countdown_inner {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,218 @@
+
+---Downloaded files---
+The import files for: Design Studio were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://jbtechnocare.in/wlcglobal
+Data file = /home/jbtechnocare/public_html/wlcglobal/wp-content/uploads/2021/01/demo-content-import-file_2021-01-22__01-52-48.xml
+Widget file = /home/jbtechnocare/public_html/wlcglobal/wp-content/themes/saasland/inc/demos/all/widgets.wie
+Customizer file = not defined!
+Redux files:
+saasland_opt -> /home/jbtechnocare/public_html/wlcglobal/wp-content/themes/saasland/inc/demos/all/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shape-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "testimonial-bg.png" (Media)
+[ERROR] Failed to import "logo3.png" (Media)
+[ERROR] Failed to import "icon2-2.png" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+
+Shop sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Products - Imported
+Product Categories - Product categories - Imported
+
+Footer widgets : 
+
+Text - No Title - Imported
+Navigation Menu - About Us - Imported
+Navigation Menu - Workflow Solutions - Imported
+Navigation Menu - Team Solutions - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: saasland_opt finished successfully!
+
+---pt-ocdi/after_import---
+

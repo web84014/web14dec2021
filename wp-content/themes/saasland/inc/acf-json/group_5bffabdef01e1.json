@@ -1,0 +1,236 @@
+{
+    "key": "group_5bffabdef01e1",
+    "title": "Header Settings",
+    "fields": [
+        {
+            "key": "field_5ff199450641d",
+            "label": "Select Header Style",
+            "name": "select_header_style",
+            "type": "post_object",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "header"
+            ],
+            "taxonomy": "",
+            "allow_null": 1,
+            "multiple": 0,
+            "return_format": "id",
+            "ui": 1
+        },
+        {
+            "key": "field_5c4fea89283cc",
+            "label": "Header Layout",
+            "name": "header_layout",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default",
+                "boxed": "Boxed",
+                "wide": "Wide",
+                "full_width": "Fullwidth"
+            },
+            "default_value": [
+                "default"
+            ],
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "return_format": "value",
+            "ajax": 0,
+            "placeholder": ""
+        },
+        {
+            "key": "field_5ea562465e785",
+            "label": "Navbar Type",
+            "name": "navbar_type",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default",
+                "classic": "Classic Horizontal Navbar",
+                "hamburger": "Hamburger Overlay Menu"
+            },
+            "default_value": [
+                "default"
+            ],
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "return_format": "value",
+            "ajax": 0,
+            "placeholder": ""
+        },
+        {
+            "key": "field_5c07ae5e6869e",
+            "label": "Use Sticky Logo",
+            "name": "reverse_logo",
+            "type": "true_false",
+            "instructions": "Use only the default sticky logo instead of two logos.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5e66557945451",
+            "label": "Navigation",
+            "name": "navigation",
+            "type": "button_group",
+            "instructions": "Choose Onepage Navigation, if you want to scroll down the menu items to the same page sections.\r\nNote: The onepage menu items box will be closed instantly after clicking on any menu items on mobile device.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "normal": "Normal",
+                "onepage": "Onepage"
+            },
+            "allow_null": 0,
+            "default_value": "normal",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5ca46de838e6b",
+            "label": "Mini Cart",
+            "name": "mini_cart",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "table",
+            "sub_fields": [
+                {
+                    "key": "field_5ca46e8e38e6d",
+                    "label": "Cart Color",
+                    "name": "cart_color",
+                    "type": "color_picker",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": ""
+                },
+                {
+                    "key": "field_5ca46e0838e6c",
+                    "label": "Count Text Color",
+                    "name": "count_text_color",
+                    "type": "color_picker",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": ""
+                }
+            ]
+        },
+        {
+            "key": "field_5c07ae546869d",
+            "label": "Menu item color",
+            "name": "menu_item_color",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5e26cd3292996",
+            "label": "Sticky Menu Color",
+            "name": "sticky_menu_color",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5c49a03e7a579",
+            "label": "Menu Item Active Color",
+            "name": "menu_item_active_color",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "none"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1609668988
+}

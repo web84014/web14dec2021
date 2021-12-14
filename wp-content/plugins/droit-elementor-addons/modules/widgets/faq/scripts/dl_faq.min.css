@@ -1,0 +1,117 @@
+.dl_accordion_item {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 35px 35px 35px 72px;
+}
+.dl_accordion_item:last-child {
+    border-bottom: 0 solid transparent;
+}
+.dl_accordion_item .dl_accordion_icon {
+    position: absolute;
+    left: -42px;
+    top: -4px;
+}
+.dl_accordion_item.dl-active {
+    background-color: #fff;
+}
+.dl_accordion_item .dl_accordion_item_title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dl_accordion_item .dl_accordion_title {
+    cursor: pointer;
+    position: relative;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+}
+.dl_accordion_item .droit-icon {
+    transition: transform 0.2s ease-out;
+    cursor: pointer;
+    color: #060a24;
+    margin-left: 15px;
+}
+.dl_accordion_item_title .droit-accordion-icon-opend {
+    display: none;
+}
+.dl_accordion_item_title.dl-active .droit-accordion-icon-opend {
+    display: block;
+}
+.dl_accordion_item_title.dl-active .droit-accordion-icon-closed {
+    display: none;
+}
+.dl_accordion_item .dl_accordion_panel {
+    display: none;
+    padding-top: 30px;
+}
+.dl_accordion_item.dl-active .dl_accordion_title::before {
+    transform: rotate(-140deg);
+}
+.dl_accordion_item .dl_desc + .dl_cu_btn {
+    margin-top: 29px;
+}
+.dl_accordion_item.dl_accordion_style_02 {
+    padding: 30px;
+    border-bottom: 0 solid transparent;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+.dl_accordion_item.dl_accordion_style_02 .dl_accordion_panel {
+    padding-top: 20px;
+}
+.dl_accordion_item.dl_accordion_style_03 {
+    padding: 30px;
+    background-color: #fff;
+}
+.dl_accordion_item.dl_accordion_style_03 .dl_accordion_panel {
+    padding-top: 27px;
+}
+.dl_accordion.dl_wrapper_style_2 {
+    padding: 0 50px;
+    background-color: #fff;
+    border-radius: 50px 0;
+}
+.dl_accordion_item.dl_accordion_style_06 {
+    padding: 38px 0;
+    background-color: #fff;
+}
+.dl_accordion_item.dl_accordion_style_06 .dl_accordion_panel {
+    padding-top: 20px;
+}
+.dl_accordion_item.dl_accordion_style_06 .dl_accordion_title::before {
+    top: 40%;
+}
+.dl_accordion_icon i {
+    display: block;
+}
+.dl_accordion_wrapper_style_01 .dl_accordion_inner {
+    flex: 45% 0 0;
+    margin-bottom: 42px;
+}
+@media (max-width: 767.98px) {
+    .dl_accordion_wrapper_style_01 .dl_accordion_inner {
+        flex: 100% 0 0;
+        margin-bottom: 40px;
+    }
+}
+.dl_accordion_wrapper_style_01 .dl_accordion_inner .dl_title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.droit-advance-faq .droit-icon img,
+.droit-advance-faq .droit-icon svg {
+    width: 16px;
+}
+.droit-advance-faq .droit-icon i {
+    font-size: 16px;
+}
+
+.dl_accordion_item .dl_accordion_item_title.dl_show_icon_left {
+    justify-content: flex-start;
+}
+.droit-icon-left {
+    margin-right: 20px;
+}

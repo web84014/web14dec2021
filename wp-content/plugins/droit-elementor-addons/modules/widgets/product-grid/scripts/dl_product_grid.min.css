@@ -1,0 +1,26 @@
+
+
+.dl_product_add_cart .button:hover{
+   text-decoration: none !important;
+}
+
+.dl_Product_grid .dl_product_img .onsale {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+}
+
+
+.dl_product_add_cart .product_type_simple.add_to_cart_button.added{
+  display: none;
+}
+
+.dl_Product_grid .dl_product_add_cart a {
+  display: inline-block;
+}
+
+.dl_product_grid .dl_product_img{
+  position: relative;
+}
+

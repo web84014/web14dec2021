@@ -1,0 +1,19 @@
+{
+    "name": "ehjewel/saasland-core",
+    "description": "The core plugin for Saasland WordPress theme",
+    "type": "wordpress-plugin",
+    "license": "GNU General Public License v2 or later",
+    "authors": [
+        {
+            "name": "Eh Jewel",
+            "email": "ehjewel2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SaaslandCore\\Widgets\\": "widgets/"
+        }
+    }
+}

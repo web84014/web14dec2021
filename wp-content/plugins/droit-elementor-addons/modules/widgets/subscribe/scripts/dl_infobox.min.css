@@ -1,0 +1,14 @@
+.dl-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ins-button {
+    background: blue;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.inp-form {
+    margin-right: 20px;
+}

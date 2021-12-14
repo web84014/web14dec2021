@@ -1,0 +1,178 @@
+/*========== event_team_area css =========*/
+.event_team_area .owl-dots {
+    margin-top: 55px;
+}
+
+.event_team_area .owl-dots .owl-dot span {
+    border: 0px;
+    background: #f2dcdf;
+}
+
+.event_team_area .owl-dots .owl-dot.active span {
+    background: #fd475d;
+}
+
+.event_team_slider .item {
+    text-align: center;
+    cursor: pointer;
+}
+
+.event_team_slider .item .e_team_img {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 25px;
+    border-radius: 6px;
+    background-image: -moz-linear-gradient(60deg, #fd475d 0%, #0e044b 100%);
+    background-image: -webkit-linear-gradient(60deg, #fd475d 0%, #0e044b 100%);
+    background-image: -ms-linear-gradient(60deg, #fd475d 0%, #0e044b 100%);
+    overflow: hidden;
+}
+
+.event_team_slider .item .e_team_img:before, .event_team_slider .item .e_team_img:after {
+    content: "";
+    width: 100px;
+    height: 121px;
+    background: #fff;
+    opacity: 0.6;
+    position: absolute;
+    bottom: -105px;
+    right: -104px;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    z-index: 1;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+.event_team_slider .item .e_team_img:after {
+    width: 172px;
+    height: 117px;
+    -webkit-transform: rotate(-27deg);
+    -ms-transform: rotate(-27deg);
+    transform: rotate(-27deg);
+    bottom: -120px;
+}
+
+.event_team_slider .item .e_team_img img {
+    -webkit-transition: all 0.3s, opacity 0.4s linear;
+    -o-transition: all 0.3s, opacity 0.4s linear;
+    transition: all 0.3s, opacity 0.4s linear;
+}
+
+.event_team_slider .item .e_team_img ul {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 30px;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+.event_team_slider .item .e_team_img ul li {
+    overflow: hidden;
+}
+
+.event_team_slider .item .e_team_img ul li a {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 2px solid #fff;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 50%;
+    color: #fff;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    -webkit-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    transform: translateY(100%);
+}
+
+.event_team_slider .item .e_team_img ul li a:hover {
+    background: #fff;
+    color: #fd475d;
+}
+
+.event_team_slider .item .e_team_img ul li:nth-child(1) a {
+    -webkit-transition: all 0.3s, background 0.2s, color 0.2s linear;
+    -o-transition: all 0.3s, background 0.2s, color 0.2s linear;
+    transition: all 0.3s, background 0.2s, color 0.2s linear;
+}
+
+.event_team_slider .item .e_team_img ul li:nth-child(2) a {
+    -webkit-transition: all 0.4s, background 0.2s, color 0.2s linear;
+    -o-transition: all 0.4s, background 0.2s, color 0.2s linear;
+    transition: all 0.4s, background 0.2s, color 0.2s linear;
+}
+
+.event_team_slider .item .e_team_img ul li:nth-child(3) a {
+    -webkit-transition: all 0.5s, background 0.2s, color 0.2s linear;
+    -o-transition: all 0.5s, background 0.2s, color 0.2s linear;
+    transition: all 0.5s, background 0.2s, color 0.2s linear;
+}
+
+.event_team_slider .item .e_team_img ul li + li {
+    margin-top: 10px;
+}
+
+.event_team_slider .item h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2c2c51;
+    margin-bottom: 2px;
+}
+
+.event_team_slider .item h4:hover {
+    color: #fd475d;
+}
+
+.event_team_slider .item p {
+    color: #7b7b93;
+    margin-bottom: 0;
+}
+
+.event_team_slider .item:hover .e_team_img:before {
+    bottom: -55px;
+    right: -44px;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+.event_team_slider .item:hover .e_team_img:after {
+    bottom: -85px;
+    right: -44px;
+    -webkit-transition: all 0.4s linear;
+    -o-transition: all 0.4s linear;
+    transition: all 0.4s linear;
+}
+
+.event_team_slider .item:hover img {
+    opacity: 0.2;
+    -webkit-transform: scale(1.04);
+    -ms-transform: scale(1.04);
+    transform: scale(1.04);
+}
+
+.event_team_slider .item:hover ul li a {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+}
+
+.event_team_slider .owl-dots .owl-dot.active span {
+    background: #fd475d !important;
+    border: none !important;
+}
+
+.event_team_slider .owl-dots .owl-dot span {
+    background: #f2dcdf !important;
+    border: none !important;
+}
+.event_team_slider .owl-dots {
+    margin-top: 58px !important;
+}

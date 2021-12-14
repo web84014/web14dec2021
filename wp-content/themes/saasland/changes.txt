@@ -1,0 +1,702 @@
+----- 3.3.3 ( 18 February 2021) -----
+Fixed: Portfolio Filtering Not Working except the English Language.
+Fixed: Pricing table tabs doesn't work correctly when change the tab month to annual
+Tweaked: Sort/Order option for the Team widget - style 03
+Tweaked: Archive page title settings for custom post types
+Tweaked: Plan show/hide option (Pricing Plan Comparison widget)
+Tweaked: Social share links show/hive option (Blog single and Product single)
+Fixed: Color & typography field not working (Tilt image widget)
+Tweaked: Style settings (Circle Counter widget)
+Tweaked: Top shape image filed added (Call to Action - Style Three)
+Tweaked: Category settings for (Faq with tabs widget)
+Fixed: Lightbox Conflict between Elementor and Saasland Core plugin
+
+----- 3.3.2 (08 February 2021) -----
+Fixed: Preloader text typography
+Fixed: Parallax Image (Positioning Issue) - Demo Landing
+Tweaked: Image gallery slider Control Settings - Portfolio single page
+Fixed: Service Icon Shadow Not working
+Fixed: Mega menu dropdown issue (RTL mode)
+Tweaked: Performance issue.
+Tweaked: Cart page responsive issue.
+
+----- 3.3.1 (05 January 2021) -----
+New: Required Droit Elementor Addons Pro plugin
+Tweaked: Theme verification system
+Tweaked: Blog archive title [Theme Settings > Blog Page > Blog Archive page title]
+Tweaked: Post style added [Posts Carousel widget]
+Tweaked: Button target not working [Hero SEO]
+Tweaked: Default footer bottom text appearing the same when it was blank
+Tweaked: Selecting hooter/footer for the particular page [Edit page > Saasland page option]
+Tweaked: Pricing table content style [style 01]
+Tweaked: Footer style - section padding, list item color, background image [Theme Settings > Footer]
+Fixed: Countdown date not appearing in Elementor editor mode [Date Countdown]
+Fixed: Image width field not working [App Hero]
+Fixed: Title-Bar Text alignment not working from the Theme Settings
+Tweaked: Content style [Bubble Features]
+Tweaked: Tab responsiveness [Horizontal Tabs]
+Tweaked: Portfolio Filter option [Masonry Portfolio]
+Tweaked: Drop-Down Menu Hover and active Color [Theme settings > Menu]
+
+----- 3.3.0 (17 December 2020) -----
+New: Woocommerce ajax feature enabled
+New: Woocommerce product quick view ajax
+Tweaked: Hamburger menu color and Sticky menu color settings
+Fixed: Some rtl styling issues
+Fixed: Image missing after demo import [Home split]
+Fixed: Social icon alignment issue [Team widget]
+Fixed: PHP warning in Product Dark
+Fixed: Body typography not working [Elementor - Features widget]
+Tweaked: Hero animated text style
+Tweaked: Device Responsiveness [Featured Video - Style 02]
+Tweaked: Blog page menu color setting [Theme Settings > Blog pages > Blog archive]
+Tweaked: Arrow and Dots settings [Saasland Carousel - style 01, style 03]
+Tweaked: Dropdown menu [Home split]
+Tweaked: Header action button target option [Theme Settings > Header > Action Button]
+Tweaked: Responsive [Horizontal tabs - style 01]
+Tweaked: Resolved PHP warning [Theme verification field]
+
+----- 3.2.9 (22 November 2020) -----
+Fixed: Double logo issue after activating the caching plugin
+Fixed: Body and heading typography
+Tweaked: ACF field editing option (Enabled).
+
+----- 3.2.8 (10 November 2020) -----
+New: Home Portfolio
+New: Home Personal Portfolio
+New: Home Creative
+Tweaked: Title character limit option for Blog Posts and Posts Carousel Widgets
+Tweaked: Typed word Color & typography not work without H2 tag [ Hero SEO ]
+Fixed: Content not showing in RTL mode [ SaasLand Carousel ]
+Tweaked: RTL [ Home Gadget, Home Fashion, Product Dark, Creative Agency, Home Creative, Home Portfolio, Personal Portfolio ]
+
+----- 3.2.7 (27 October 2020) -----
+New: Digital Agency HomePage
+New: Custom Post single page title-bar settings [ Portfolio, Case Study, Services ]
+Fixed: Submit button Goes down after submitting form - Subscribe Form [ Style Nine ]
+Fixed: Thumbnail Disappears after publishing the Page - Featured Video Widget [ Style One ]
+Fixed: Responsive Issue - Home Payment Processing
+Tweaked: Added Pagination in Filter Section - Blog Posts Widget [ Style Two ]
+Tweaked: Button Target Settings for the Header Call To Action Button
+
+----- 3.2.6 (30 September 2020) -----
+New: Fashion Homepage
+Fixed: My Account Page form, button, text style
+Fixed: Pricing Table Tabs Carousel | Tab Color Setting and button style
+Fixed: Hero Event background doesn't change in preview mode.
+Fixed: Dual Title Menu Settings for the Mobile Version (Mega Menu)
+Fixed: Pricing Button ID Attribute Needed.
+Fixed: Video Play Button and Player Not Working (Single Video 02 Widget)
+Fixed: Button Remove Option (Pricing Table Comparison)
+Fixed: Placeholder Text not changing - Subscribe Form (Style Three)
+Fixed: Hero Featured Image Missing in the Mobile Version | Home HR Management
+Fixed: Text overflowing Issue and Slide delay option added - Testimonial Widget (Style One)
+Fixed: Responsive Issue | Home ERP
+Fixed: Hero SEO - Animated Title Line Breaking Issue (Mobile Version)
+Fixed: Image Hotspot widget hotspots responsive style setting
+Fixed: Services Widget style two ( carousel ) not showing in Elementor
+Fixed: Coupon Code doesn't work on the cart page
+
+----- 3.2.5 (09 September 2020) -----
+New: Product Dark [Home Page]
+Fixed: Cart and Checkout Page Button Color
+Fixed: Social Icon Color | Footer Widget
+Fixed: Subscribe Form Button Color Settings | Footer Widgets
+Fixed: Call to Action with Image | Button Color Field Missing
+
+----- 3.2.4 (02 September 2020) -----
+New: Gadget Homepage
+New: Custom Post Type "Team"
+New: Team Style Three
+New: Shop Categories ( Elementor Widget ) new settings
+Fixed: Button icon field added ( Call to action - Style nine )
+Fixed: Responsive issue ( Footer Widget Gallery )
+Fixed: Job Apply Button Title Not Changing
+Fixed: Contact Form Alignment Issue (RTL Mode)
+Fixed: Line Break Not Working | Hero Moving Text
+
+----- 3.2.3 (20 August 2020) -----
+Fixed: WP Color Picker Issue.
+
+----- 3.2.2 (06 August 2020) -----
+Tweaked: Slider Settings added to Testimonial Elementor widget
+Tweaked: Now, the repeatable items of Elementor widgets can be empty or delete.
+Tweaked: Filter color options added to Masonry Portfolio Elementor widget
+Tweaked: Filter color options added to Masonry Portfolio Elementor widget
+Tweaked: Margin and Typography field added to Buttons repeater field in the Hero Section widget
+Tweaked: Feature item title HTML tag change option added to Features widget
+Tweaked: Triangle Shapes customization options added to the Download Section widget
+Fixed: Dropdown parent menu link is not working from mobile version
+Fixed: Menu item Title Atrribute not working
+Fixed: "H1" Tag not working on the Landing Page Hero
+Fixed: Button Target not Working - Hero Style 03
+Fixed: Link target not working - SaasLand Tabs widget, Horizontal Tabs
+New: Saasland Child 1.1.4
+Updated: WooCommerce Outdated Files
+
+----- 3.2.1 (19 July 2020) -----
+Fixed: removed extra text from the header.php
+Fixed: Mobile menu color not changing from the Theme Settings
+
+----- 3.2.0 (15 July 2020) -----
+New: Auto theme update feature
+New: Tilt Images (design files section), Footer call to Action, Responsive section, Typography section added to Saasland demo landing page
+Tweaked: Renamed the "Hero (Parallax Images)" elmentor widget to Tilt Images and added a new style (Images with Round Shape)
+
+----- 3.1.9 (02 July 2020) -----
+New: Custom URL field added to the Portfolio Page Settings.
+New: Made the rest of Elementor widgets WPML compatible. Now, all of our Elementor widgets are WPML friendly.
+Fixed: niceselect Js error on Domain Search Form
+Fixed: Elementor Pro popup template not editable (if you are still facing the issue and running Elementor 2.9.9 or greater version, rollback to the previous version by Navigating to Elementor > Tools > Version Control > Rollback Version. From there, select the 2.9.8 version and click on the reinstall button.)
+Fixed: Blog Posts (style one) Elementor widget carousel not working issue
+Fixed: Horizontal Tab Widget - Style Two - Featured image is not changing while switching tabs
+Tweaked: Instagram field added to Social links widget
+Tweaked: Icon changing options added to the Pricing Table Comparison Elementor Widget
+Tweaked: Category and Lightbox Plus Icon show/hide controls- added to the Filterable Portfolio Elementor widget
+Tweaked: Necessary padding, margin are added to the Group, Media & Text Gutenberg blocks
+Tweaked: Agency colorful Homepage, Spilt Homepage, Time Tracking Software Homepage, Security Software, Demo landing page
+Tweaked: Parallax option added to Hero Section Demo Landing for the featured images
+
+----- 3.1.8 (18 June 2020) -----
+Fixed: PHP critical error for the previous version
+Tweaked: Unit test style
+
+----- 3.1.7 (15 June 2020) -----
+New: Make some Elementor widgets WPML compatible (Image Hotspots and Icon Boxes widgets)
+Fixed: Full Image not showing on the left side panel in the Split Page template
+Fixed: Preloader not showing in the Split Page template
+Fixed: Shop categories Elementor widget's Category Show count
+Fixed: Agency colorful page's call to action's background image not changing
+Fixed: Some responsive issues (Serialized Features widget, Blog title-bar)
+Fixed: Call to Action (style 08) button colors not changing
+Fixed: App Hero "Style Title" controls not working after changing the Title tag
+Fixed: Button colors of "Features with Image (White)" and "Integrations with Button" Elementor widgets
+Tweaked: Circle Progress element now can be used in anywhere in the Split Page template
+Tweaked: Colors and Typography fields are added to the Split page Elements
+
+----- 3.1.6 (03 June 2020) -----
+New: Height, Typography options are added to Theme Settings > Blog Pages > Blog Single
+Fixed: WPML php error
+Tweaked: Settings re-arranged in Theme Settings > Blog Pages ('Theme Settings > Blog Pages > Header' & 'Theme Settings > Blog Pages > Title-bar' moved to Theme Settings > Blog Pages > Blog Archive)
+
+----- 3.1.5 (29 May 2020) -----
+New: Related Posts Title Character Limit option added to Theme Settings > Blog Pages > Blog Single
+Fixed: Split page header
+Fixed: WPML php error
+Fixed: Some responsive issues of Agency Color homepage
+Fixed: Menu item URL not working on Mega-Menu Double Title mega menu
+Fixed: FAQ single page PHP error
+Fixed: Screen Features Widget- Style Three | Image Icon Padding Issue
+Fixed: Custom Header - Nav center alignment - Border bottom saltation issue
+Tweaked: Code structure (all Elementor widgets are put in a array in register_widgets() function in Saasland Core plugin)
+Tweaked: Now, the Pricing Table Tabs widget can be placed more than one
+
+----- 3.1.4 (22 May 2020) -----
+Tweaked: Product Single Page (zoom icon alignment, product tags style)
+Tweaked: WooCommerce subscription product type Purchase button, quantity input field style improved, recurring payment display issue fixed on checkout page
+Fixed: Product Single Page (star ratting overflow issue, WooCommerce subscription product price alignment)
+New: Make some Elementor widgets WPML compatible (Alert, App Info, Tabs Horizontal, Call to Action, Features, App Hero, Hero (Parallax Images), Pricing Table, Products (Grid View), Screen Features, Single info with icon, Single Video 02, Testimonials Style, Blog Posts, Bubble Features, Saasland Navbar, Text Button with Icon, Call to Action, Circle Counter, Client Logos, Date Countdown, Stats counter, Domain Search form, Download Section, Event Schedule Tabs, FAQ with Tabs, Features, Features Tabs, Features (Vertical), Features with Image (Dark), Features with Image (White), Features with Shapes (Dark), Hero Mobile, Hero Section, Hero SEO, Hero Video Slides, Hero Integrations, Hero ERP, Hero CRM, Hero with Background Image widgets)
+
+----- 3.1.3 (18 May 2020) -----
+Fixed: Product quantity input increasing by 2 on RTL mode
+Fixed: Download Section's button icon error
+Fixed: Saasland Post Options > Banner Background image, Text color
+Tweaked: Background Color Opacity field added to Saasland Post Options > Banner
+Tweaked: Style Features fields added to Two Column Features widget
+Tweaked: Border Color added to Normal State for Pricing Table Button (Style-One) widget
+Tweaked: Button Colors added to Integrations with Button widget
+Tweaked: The the product title in the Title-bar if the meta title is empty
+Tweaked: Title Bar Overlay Color, Overlay Color Opacity and Background Image options added to Theme Settings > Blog Pages > Blog Single
+Fixed: Call to Action (Style Five) button color conflicting issue
+Fixed: Related Products title
+
+----- 3.1.2 (04 May 2020) -----
+Fixed: Some rtl styling issues
+Fixed: Portfolio widget's portfolio count number overflows to top issue
+Fixed: Horizontal tab's featured image conflicts if more than one section is placed in a page.
+Removed: The custom Header, Footer template system will be disappeared on Elementor pro activation
+Updated: Demo contents with including the missed 3 columns portfolio pages
+Tweaked: Updated the Demo landing page contents and fixed some some styling issues
+Tweaked: Some more css files minified
+
+----- 3.1.1 (30 April 2020) -----
+Fixed: Some rtl styling issues
+Fixed: Navbar Type not appear issue
+
+----- 3.1.0 (30 April 2020) -----
+Tweaked: Job and Portfolio settings moved to Theme Settings > Custom Post Types
+Tweaked: Theme Settings page style
+Tweaked: Improved loading speed by minified some CSS files
+Tweaked: Menu responsive
+Tweaked: The custom Header, Footer template system will be disappeared on Elementor pro activation
+New: Navbar Type settings added to Theme Settings > Header > Header Content
+New: Mobile Menu settings added to Theme Settings > Menu > Mobile Menu
+New: The Saasland Demo Landing page added to oneclick demo import
+Fixed: Onepage navigation issue on individual page
+Fixed: MailChimp form Style 5 not working
+
+----- 3.0.9 (23 April 2020) -----
+Fixed: Single Service Page (Banner Show/Hide Option) Not Working
+Fixed: Service Widget - Style One (Icon BG Color Not Working)
+Fixed: Elementor Pro Navbar widget styling settings not working. To fix this issue, you need to disable the Mega Menu feature from Theme Settings > Custom Post Types
+Fixed: Testimonial With Rating (Style Two) Previous Button Not Working Properly
+Fixed: OnePage demo homepage, App 01 homepage, App 02 homepage, Chat homepage, Event homepage, Software Dark homepage styling issues on RTL mode
+New: Typing words effect added to Hero Chat and Hero Event sections
+Tweaked: Embed Map Widget Icon Color change fields added
+
+----- 3.0.8 (14 April 2020) -----
+Fixed: Contact Form Button color not changing from the Accent color settings
+Fixed: Service Featured Icon colors not changing issue
+Fixed: Service Featured Icon not showing
+Fixed: The "Website Footer" widget
+New: Added the missing Service Attributes section in the Service Options metabox
+Tweaked: "FAQ" Elementor widget (Order filter option added)
+
+----- 3.0.7 (13 April 2020) -----
+Fixed: Register/Verify form works after reload the page
+Fixed: A critical PHP error
+Fixed: Hero Digital Marketing layout
+Tweaked: Title Tag field added for the Title in "Hero Mobile" Elementor widget
+
+----- 3.0.6 (10 April 2020) -----
+Tweaked: Code structure of Saasland Theme and Saasland Core plugin
+Tweaked: Autoload enabled for Elementor widgets by Saasland Core plugin
+Tweaked: Job apply page (no need to add any class with the Job Apply form shortcode from this version)
+Tweaked: Contact Form 7's Select field style
+Tweaked: Hero (Parallax Images) widget (Section Background color field added)
+New: Typing words effect added to all Hero sections
+New: Page Options added to Service post type
+Fixed: Image Icon Not Working - "Icon Boxes" Widget
+Fixed: Banner overlay color with image option
+Fixed: FAQ show some limited posts per tab
+Fixed: Call to Action (Style Six) color options
+Fixed: Subscribe Form (Style Six) Button Color
+Fixed: Some responsive issues (Features section in Home-Chat page)
+Fixed: Agency Colorful Demo (Icon Issue)
+
+----- 3.0.5 (31 March 2020) -----
+Fixed: Product gallery images thumbnails overflows to right side.
+Fixed: Custom post type slug change settings for Service and Case Study post type
+Fixed: Video icon moving on hover on Video post format
+Fixed: "Hero Section" Elementor widget (Style_02 button settings)
+Fixed: Image Icon Not Working - "Icon Boxes" Widget
+Fixed: Author name repeats as the post count by the author.
+Fixed: "Horizontal Tabs" Elementor widget Tabs not working while more than one section used in a page
+Tweaked: "Hero Section" Elementor widget (widget files structure changed. Moved to widgets/hero folder and used select2 type for Style control field)
+Tweaked: Elementor widget "Saasland Carousels" - Style 02 Carousel Rows
+Tweaked: Portfolio Elementor widget (filter count option added)
+Tweaked: "Testimonial with Ratting" Elementor widget (Style 04)
+Updated: wooCommerce outdated template files
+New: Carousel Settings added in the Elementor widget "Saasland Carousels"
+New: Demo Landing page included in the demo data (check it in the theme package folder/demo_contents/elementor_templates)
+
+----- 3.0.4 (20 March 2020) -----
+Fixed : Hero Section (Style 09) - Background Slide show images not showing properly
+Fixed: Event Homepage responsive issues
+Fixed: Screen Features (Style One) - Reverse Column Not Working
+Tweaked: Hero Section (Style 09) Gallery field added instead of the previous repeater field for the background images.
+Tweaked: The Onepage demo
+
+----- 3.0.3 (19 March 2020) -----
+Fixed: Navbar Elementor widget issues (fullwidth layout, infinite loop on canvas page template, action buttons spacing)
+Fixed: Some styling issues caused by the previous version
+Fixed: Image alt attribute not showing on Agency Colorful page
+Fixed: Animation on Agency Colorful page
+Fixed: Display only the admin name instead of showing the different Author name on the Author page's Title-bar
+Fixed: Color options do not work from Theme Settings while the Child Theme activated
+Tweaked: Hero Section (Style 04 - Dark) action button
+
+----- 3.0.2 (13 March 2020) -----
+Tweaked: Header, Footer, Mega Menu excluded from the search result page
+Tweaked: Hero Integration Elementor widget (color fields are added for changing the section background color).
+Tweaked: Saasland Page Options > Banner Settings (Added fields- Background Type, Shape Image, Overlay Color)
+Fixed: Hero Section - Style Two (background color not changing issue)
+
+----- 3.0.1 (10 March 2020) -----
+Tweaked: Custom header now works from Page Options
+Tweaked: Title Tag change option added to Hero Integration Elementor widget
+Tweaked: Portfolio Elemntor widget
+New: Job attribute icon color change option added in Saasland Job Options
+Fixed: PHP errors (on earlier than WordPress 5.2.0 version, Saasland_signup_form.php 113 number line)
+Fixed: Animation issue
+Fixed: Sticky Menu active color not changing issue
+
+----- 3.0.0 (14 February 2020) -----
+Fixed: Custom header hide option from Page Options > Banner
+Fixed: Features Elementor widget error
+Fixed: Footer background settings
+Fixed: App Hero Elementor widget buttons
+New: Button Box Shadow option added to Call to Action with Image Elementor widget
+New: Normal/Onepage Menu option added to the Saasland Page Options
+Tweaked: The header.php file (re-organized the coding structure of header.php)
+Tweaked: Background color field added to the Features with Shapes (Dark) Elementor widget
+Tweaked: Minified some CSS files
+Tweaked: Action button show in menu on mobile device
+
+----- 2.2.9 (07 February 2020) -----
+Fixed: Critical PHP errors cased by the previous version 2.2.8
+
+----- 2.2.8 (04 February 2020) -----
+Fixed: Some responsive issues
+Fixed: Pricing Table - Style Two - button color issue
+Fixed: Pricing Table 02 - URL target, nofollow settings
+Fixed: Some rtl issues
+Fixed: Custom header title
+Tweaked: Disabled the Mega Menu post type archive
+New: Read More text change option added to Theme Settings > Blog Settings > Blog Archive
+
+----- 2.2.7 (30 January 2020) -----
+Fixed: Color options (issue: accent color is not changing on the shop pages)
+Fixed: MailChimp Subscribe Form not working issue
+Fixed: Shop banner background image not showing issue
+Fixed: Some styling and responsive issues
+
+----- 2.2.6 (22 January 2020) -----
+New: "Use Sticky Logo Only" option added in Theme Settings > Blog Settings > Header
+New: "Sticky Menu Color" option added in Page Options
+New: Select Menu list option added to the "Navbar" Elementor widget
+New: Style Number fields group added to the "Process" Elementor widget
+Tweaked: Made the Recent Post widget's post thumbnail image clickable
+Fixed: Some responsive issues
+Fixed: Screen Features Elementor widget's icon color field and added the Margin Around Title field
+
+----- 2.2.5 (09 January 2020) -----
+New: Post Title Character Length field added in Recent Posts widget
+New: Custom Post types enable/disable settings (Located in Theme Settings > Custom Post Types > Post Types)
+New: Envato purchase verification / register theme added
+New: Banner Options added to Portfolio single page
+New: Text Color added to Banner Options (under Saasland page options)
+New: Product Options (Header Options, Page Options, Banner Options) added to single Product page
+Fixed: Home Analytics Software demo import issue
+Fixed: wooCommerce checkout fields customizer settings
+Fixed: Saasland Elementor widget style not getting in Footer template on blog pages
+Fixed: woCommerce Update Cart button not working on RTL mode
+Fixed: Custom Footer styling issue on blog, single pages
+Fixed: Update Cart Button not working on RTL mode
+Tweaked: Theme size reduced (kept the demo contents on our server).
+Tweaked: Color settings (Job listing color, cart icon color will get from Accent color settings)
+
+----- 2.2.2 (24 December 2019) -----
+Fixed: Version changelogs notice
+
+----- 2.2.1 (19 December 2019) -----
+Fixed: Thumbnail Mega Menu scrolling issue
+Fixed: Pricing Table 02 Elementor widget's Style 01 duration field missing.
+Fixed: Hero Video Slides (located on the Home Digital Agency page) responsive issue
+Fixed: "Stats Counter" Elementor widget counting issue
+Fixed: wooCommerce checkout page field settings issue
+Tweaked: Anchor tag will not show if title url is empty in "Features" Elementor widget
+
+----- 2.2.0 (16 December 2019) -----
+New: Chat Homepage
+New: Event Homepage
+New: Style 12 (Chat) added to "Hero Section" Elementor widget
+New: Style 13 (Event) added to "Hero Section" Elementor widget
+New: "Parallax Images" Elementor widget
+New: "Date Countdown" Elementor widget
+New: Style Two (Carousel) added to "Team" Elementor widget
+New: Style Five (Event) added to "Pricing Table" Elementor widget
+New: Style Two added to "Curve counter" Elementor widget
+New: "Event Schedule Tabs" Elementor widget
+Tweaked: Time Tracking Software homepage design changed
+
+----- 2.1.0 (01 December 2019) -----
+New: Security Software demo
+New: Tracking Software demo
+Tweaked: Split page responsive
+Fixed: Saasland Child theme style issues
+
+----- 2.0.7 (29 November 2019) -----
+Tweaked: Comments (awaiting moderation comment, used Comment Walker class instead of the previous callback function.)
+Tweaked: WooCommerce Checkout page style improved
+Tweaked: Performance improved (set dependency for nice select plugin's JS, CSS files and split the shop.css with creating a individual CSS file checkout.css for checkout page)
+Tweaked: "Button with Icon" Elementor widget (hover color change option added and some more icon libraries added)
+Tweaked: "Serialized Features" ELementor widget (separator color change option added)
+Fixed: Saasland OnePage demo's floating elements not not showing in Safari browser.
+Fixed: "Call to Action" Elementor widget's background color
+Fixed: Revolution Slider not importing on Web Hosting demo
+Fixed: Checkout fields required/optional (name field make required and the company field required status gets from the Settings)
+
+----- 2.0.5 (20 November 2019) -----
+New: "Saasland Carousels" Elementor widgets with 6 different styles
+New: Service Details Page
+New: Saasland Child version 1.1.2 (CSS enqueue issue fixed)
+Tweaked: "Process" Elementor widget (improved color options and icon box shadow option added)
+Tweaked: "Call to Action" Elementor widget (button color changing options for Style 03)
+Tweaked: "Saasland Testimonials" Elementor widget (accent color change option added)
+Tweaked: "Horizontal Tabs" Elementor widget (color change options added for Style One)
+Tweaked: Menu Settings (hamburger menu color)
+Tweaked: "Features" Elementor widget (Style Read More options added for Style 02)
+Fixed: Product single page (php error fixed)
+Fixed: Malware detected js file (multiscroll) replaced with the valid js file
+Removed: Blog Grid Elementor widget (since you can make it from Theme Settings > Blog Settings)
+Updated: Advanced Custom Fields-pro to Version 5.8.7
+
+----- 2.0.0 (08 November 2019) -----
+Tweaked: Menu settings
+Tweaked: Typography settings
+Tweaked: Theme Settings page style
+Tweaked: Blog single full width in full width mode
+Tweaked: Performance improved (CSS, JS files dependency have set)
+New: "Job Settings > Styling" options added in the Theme Settings
+New: "Style 11 (Demo Landing)" Hero style added to "Hero Section" Elementor widget
+New: "Style Four (Demo Landing)" added in Testimonial with Ratting Elementor widget
+New: "Support Board" plugin listed in Appearance > Install Plugins (recommended plugin).
+Fixed: Onepage demo's design issue ("App Hero" and "Call to Action with Image" Elementor widget)
+Fixed: SaasLand Child Theme (version 1.1.1)
+Updated: WooCommerce outdated template files
+
+----- 1.9.9.5 (04 November 2019) -----
+Fixed: Fontawesome icon issue in Elementor widgets by Saasland
+Fixed: "Screen Features" widget color issue
+Tweaked: "Pricing Table 02" Elementor widget (re-organized and added some fields for more controlling)
+Tweaked: Deprecated the "Blog Grid" Elementor widget and improved the Blog Settings > Blog archive (Masonry layout added)
+Tweaked: Optimized the theme performance (set file dependency and deleted unnecessary files)
+Tweaked: "Features" Elementor widget
+Tweaked: Theme Settings page
+Tweaked: Some styling issues
+
+----- 1.9.9 (25 October 2019) -----
+New: Custom Font (now, user can add and apply unlimited custom fonts)
+New: "Support Board" premium plugin included in the theme package.
+New: Theme update notice (can be dismissed)
+New: Post title length settings in Theme Settings
+Tweaked: Demo import time reduced and re-organised
+Tweaked: App Hero Elementor widget (unnecessary code deleted and other things fixed)
+Tweaked: WooCommerce My Account page styling
+Tweaked: Logo settings (now, the logo can be shown without uploading the retina logos)
+Tweaked: 404 Error page settings
+Tweaked: Screen Features Elementor widget (some color changing fields added)
+Fixed: Pricing Table Tabs Carousel widget column and stying issues
+Fixed: Some CSS issues
+
+----- 1.9.8 (18 October 2019) -----
+Tweaked: Made the Domain Search Form dynamic
+Tweaked: Agency Colorful page
+New: Animation Settings in Theme Settings
+New: Slug re-write settings in Theme Settings
+Updated: Demo contents
+
+----- 1.9.7 (16 October 2019) -----
+Fixed: Blog excerpt settings
+Tweaked: Screen Features widget (some color fields added)
+Tweaked: Category filter option added to Blog widgets
+Tweaked: rtl CSS
+Tweaked: Menu depth label 4 support
+New: Blog layout settings (Theme Settings > Blog Settings > Blog Archive)
+New: Case Study page
+New: Agency Colorful Homepage
+
+----- 1.9.6 (09 October 2019) -----
+Tweaked: Blog excerpt settings
+Tweaked: Hero SEO Elementor widget (background objects and title tag change option added)
+Tweaked: Serialized Features (hover stats style change options added)
+Tweaked: Subscribe Elementor widget (Form styling fields added for style 02, 04 and 08)
+Tweaked: Features (style 01) Elementor widget (background wave colors change options added)
+Fixed: Some CSS issues
+
+----- 1.9.5 (07 October 2019) -----
+Tweaked: Default archive page removed from the Custom post types by Saasland
+Fixed: Image Gallery Portfolio page
+Fixed: Demo import issue
+Tweaked: Loading performance
+Updated: Demo contents
+
+----- 1.9.4 (02 October 2019) -----
+Tweaked: Filterable Portfolio (color fields)
+Tweaked: Performance improved (total size of a page is reduced)
+Tweaked: Some responsive issues
+Fixed: Title-bar banner not showing on activating custom Header.
+Fixed: Screen Features (Style 03) accordion multiple placements in a page
+Fixed: Video Poster Image of Featured Video widget
+Fixed: Portfolio Filter Color
+
+----- 1.9.3 (18 September 2019) -----
+Fixed: Hero POS owl carousel js not loading issue
+New: Analytics Software and Support homepages
+Updated: Demo contents
+Updated: ACF Plugin
+
+----- 1.9.2 (16 September 2019) -----
+Fixed: Saasland Page Options
+Fixed: Header Top settings
+Fixed: Testimonial with Ratting widget subtitle field
+
+----- 1.9.1 (11 September 2019) -----
+Fixed: Split Homepage responsive issue
+Fixed: Menu color settings
+New: Overlay Menu settings (under Theme Settings > Menu Settings)
+Updated: Language File
+
+----- 1.9.0 (09 September 2019) -----
+Updated: ACF plugin to Version 5.8.3
+Updated: The "Outdated WooCommerce template files"
+New: Split Homepage
+New: Hamburger Menu (on Split Screen page)
+Tweaked: Floating image changing options added in the Elementor widgets
+Tweaked: CSS files optimized (unnecessary CSS code removed)
+
+----- 1.8.7 (21 August 2019) -----
+Tweaked: Hosting Slider
+Tweaked: Processes widget (show dashed line for 5 process items)
+Tweaked: Removed some unused CSS code in order increase the loading speed
+Fixed: Some responsive issues
+Fixed: Sticky menu item color option
+Fixed: Popup Search Form
+Fixed: Checkout page's accept terms and condition checkbox
+Fixed: Single blog post metaboxes (Banner show/hide, page options)
+Fixed: Features Elementor Widget
+Updated: Language files (Saasland theme and Saasland Core plugin)
+
+----- 1.8.6 (06 August 2019) -----
+Fixed: Service Icon
+Fixed: Some PHP errors of Saasland Core plugin
+Fixed: Fixed demo issue caused by the previous version
+New: Revolution slider used in the Hosting demo
+Updated: Demo Contents
+Tweaked: Order By option added to Filterable Portfolio
+Tweaked: Theme size reduced (moved the third party plugins to our server)
+Tweaked: Section padding responsive control added in Saasland Elementor Widgets
+
+----- 1.8.5 (31 July 2019) -----
+New: Three Homepage Demos (POS, Hosting, ERP)
+Fixed: Theme update issue
+Fixed: Default header template selection
+Tweaked: Mobile Menu
+
+----- 1.8.4 (23 July 2019) -----
+New: Post meta options added to Blog Settings
+Tweaked: Onepage demo's Elementor widgets
+Tweaked: Some Elementor Widgets
+Tweaked: Header top (separator color option added)
+Tweaked: Some SEO optimizations (removed blank anchor tags)
+Updated: The language file (saasland.pot)
+Fixed: Service and Job icon fields
+
+----- 1.8.3 (18 July 2019) -----
+Fixed: Saasland Core (1.8.2) plugin update
+
+----- 1.8.2 (16 July 2019) -----
+Fixed: Elementor template view page
+Fixed: Video widget play button
+Fixed: Disabling the sticky menu on RTL mode
+Fixed: Not showing the Mega menu on logout mode
+Fixed: Service post Icon field
+Fixed: Menu on mobile device
+Fixed: Some responsive issues
+New: Elementor widget "Pricing Table Tabs with Carousel"
+Updated: Language file (saasland.pot)
+
+----- 1.8.1 (27 June 2019) -----
+Fixed: Menu (Adding menu item, Open link in a new tab)
+Tweaked: OnePage demo design
+Updated: Demo Contents
+
+----- 1.8 (25 June 2019) -----
+Tweaked: "Processes" Elementor widget
+Tweaked: "Team" Elementor widget
+Tweaked: Gutenberg compatibility
+Tweaked: Theme Settings (Header Settings, Menu Settings)
+Tweaked: WooCommerce Account Page design
+Fixed: "Navbar" Elementor widget not showing before get sticky
+Fixed: "Slider" Elementor widget's background gradient color changing
+Fixed: Quote post format view in Blog page.
+New: OnePage Demo
+New: OnePage navigation support
+New: Breadcrumb show/hide option in Theme settings > Header Settings > Title-bar
+Updated: Language file
+
+----- 1.7.1 (22 May 2019) -----
+New: Typography Settings
+New: Menu Settings
+Tweaked: Other Theme Settings
+Tweaked: Gutenberg compatibility
+Tweaked: Comment form style
+Fixed: MailChimp forms
+Updated: Demo Contents
+
+----- 1.7.0 (11 May 2019) -----
+Fixed: Menu item duplication and renaming issues
+Fixed: PHP error at /inc/filter_actions.php on line 45
+Fixed: Wishlisht page design
+Fixed: The main Logo despairs on selecting 404 error page style 2
+Fixed: Saasland Child (version 1.1.0) theme's style issues (applied css file dependency)
+Fixed: Some section's style issues
+Updated: ACF Pro 5.7.13 and Saasland Core 1.7
+Updated: Demo contents
+New: App 01, App 02 and Shop homepages
+New: Alerts page (https://is.gd/2jbLbf)
+New: 16 New Elementor Widgets (those are used in the new pages)
+New: Features Pricing Table Elementor widget
+New: FAQ custom post type and FAQ Tabs Elementor widget
+Tweaked: Product Single Page's style
+Tweaked: Menu Action Button show on mobile
+Tweaked: Speed performance (maintained dependency for all files)
+Tweaked: Column field added to Pricing Table Elementor widget
+
+----- 1.6.0 (25 April 2019) -----
+New: RTL
+New: Theme's all PSD files included
+New: 404 Error Settings
+New: 404 Page's alternative style
+New: Footer Typography Settings (Theme Settings > Footer Settings > Typography)
+Tweaked: Title HTML tag and color changing fields are added to some Elementor widgets
+Updated: WooCommerce outdated templates
+Updated: Demo contents (made it lighter)
+Updated: Language files
+Fixed: Mega Menu php errors
+Fixed: Counter widget counting function
+Fixed: The Elementor's "Argument #2 is not an array" error
+
+----- 1.5.0 (23 April 2019) -----
+New: Gutenberg Compatibility
+New: WPML integrated
+New: Blog Grid Masonry page
+New: Home Company
+Tweaked: Title HTML tag and some color changing fields are added to Elementor widgets
+Updated: Demo Contents
+
+----- 1.4.0 (11 April 2019) -----
+Fixed: Header Sticky settings
+Fixed: Error on activating the theme (v_1.3.0)
+Fixed: Subscribe Form widget MailChimp integration
+Fixed: Mini Cart responsive issue
+Updated: WooCommerce outdated template
+New: Search Form icon on the header (Theme Settings > Header Settings)
+New: Header Top Settings (Theme Settings > Header Settings > Header Top)
+New: Image Pre-loader option added to Theme Settings > Preloader Settings
+New: Shop excluded demo
+Tweaked: Mini Cart visibility settings moved to Theme Settings > Header Settings
+
+----- 1.3.0 (09 April 2019) -----
+Tweaked: Tweaked Services & Features with Shapes section
+Tweaked: Hide Mini Cart on empty
+Fixed: Mega Menu PHP errors and effect on other menu
+Tweaked: Some Elementor Widget settings
+Tweaked: Pre-loader Settings extended (Color, Typography field added)
+New: Blog Grid Elementor widget
+Updated: Demo Contents
+
+----- 1.2.0 (04 April 2019) -----
+New: Color Option (Theme Settings > Colors)
+New: Mega Menu
+New: Child Theme included
+New: Custom Header post type
+New: Custom Footer post type
+New: Header Sticky Enable/Disable option
+New: Footer Column choose option
+Fixed: Some Theme Settings
+Fixed: Features with Image (White) section's button color changing
+Tweaked: Deleted some unnecessary settings
+Updated: Saasland Core plugin to 1.2 version
+Updated: Language files (.pot)
+Updated: Demo Contents
+
+----- 1.1.0 (28 March 2019) -----
+New: WooCommerce support support enabled
+Updated: Language file (.pot file)
+Updated: Demo Contents
+Updated: Saasland Core plugin to 1.1
+
+----- 1.0.0 (26 March 2019) -----
+Initial release

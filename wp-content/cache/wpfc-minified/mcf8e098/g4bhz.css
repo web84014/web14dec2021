@@ -1,0 +1,27 @@
+@font-face {
+font-family: "Flaticon";
+src: url(https://www.whitelotuscorporation.com/wp-content/plugins/saasland-core/assets/vendors/flaticon/Flaticon.eot);
+src: url(https://www.whitelotuscorporation.com/wp-content/plugins/saasland-core/assets/vendors/flaticon/Flaticon.eot?#iefix) format("embedded-opentype"),
+url(https://www.whitelotuscorporation.com/wp-content/plugins/saasland-core/assets/vendors/flaticon/Flaticon.woff) format("woff"),
+url(https://www.whitelotuscorporation.com/wp-content/plugins/saasland-core/assets/vendors/flaticon/Flaticon.ttf) format("truetype"),
+url(https://www.whitelotuscorporation.com/wp-content/plugins/saasland-core/assets/vendors/flaticon/Flaticon.svg#Flaticon) format("svg");
+font-weight: normal;
+font-style: normal;
+font-display: auto;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+font-family: "Flaticon";
+src: url(https://www.whitelotuscorporation.com/wp-content/plugins/saasland-core/assets/vendors/flaticon/Flaticon.svg#Flaticon) format("svg");
+}
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+font-family: Flaticon;
+font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+.flaticon-target:before { content: "\f100"; }
+.flaticon-lightbulb:before { content: "\f101"; }
+.flaticon-mortarboard:before { content: "\f102"; }

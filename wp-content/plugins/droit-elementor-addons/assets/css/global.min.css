@@ -1,0 +1,17 @@
+.droit-menu-parent-toolbar,
+.droit-social-media {
+    background: #08aeea !important;
+}
+.droit-menu-parent-toolbar > div,
+.droit-social-media > div {
+    cursor: pointer !important;
+}
+
+#toplevel_page_droit-addons a.toplevel_page_droit-addons{
+    background: -webkit-linear-gradient(4.95deg, #574ff7 6.33%, #a533ff 102.21%) !important;
+    background: linear-gradient(85.05deg, #574ff7 6.33%, #a533ff 102.21%) !important
+}
+
+#toplevel_page_droit-addons ul.wp-submenu li a[href="https://droitthemes.com/droit-elementor-addons"] {
+    color: #ff3487;
+}

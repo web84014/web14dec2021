@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304.625" height="304.625" viewBox="0 0 304.625 304.625">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8ebeff"/>
+      <stop offset="1" stop-color="#d3adff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.007" x2="0.5" y2="1.017" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a6dff"/>
+      <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_26" data-name="Group 26" transform="translate(-2268 -2427)">
+    <path id="iconfinder_vue-dot-js_4691448" d="M138.5,1.645l.022-.043H106.6L86.576,36.218v.014l-20-34.63H34.652v.036H0L86.576,151.6,173.152,1.645" transform="translate(2334 2502.398)" fill="url(#linear-gradient)"/>
+    <path id="Path_60" data-name="Path 60" d="M232.422,311.625H86.2A79.294,79.294,0,0,1,7,232.422V86.2A79.294,79.294,0,0,1,86.2,7h146.22a79.294,79.294,0,0,1,79.2,79.2v146.22A79.294,79.294,0,0,1,232.422,311.625ZM86.2,19.185A67.1,67.1,0,0,0,19.185,86.2v146.22A67.1,67.1,0,0,0,86.2,299.44h146.22a67.1,67.1,0,0,0,67.017-67.017V86.2a67.1,67.1,0,0,0-67.017-67.017Z" transform="translate(2261 2420)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

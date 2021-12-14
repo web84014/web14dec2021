@@ -1,0 +1,43 @@
+{
+    "title": "WP Meteor Wordpress Plugin",
+    "name": "wp-meteor",
+    "version": "0.0.1",
+    "scripts": {
+        "watch:admin": "NODE_ENV=production DEBUG=1 node_modules/.bin/webpack --watch --progress --config=node_modules/laravel-mix/setup/webpack.config.js --env.mixfile=webpack.mix.admin",
+        "watch:public": "NODE_ENV=production DEBUG=1 node_modules/.bin/webpack --watch --progress --config=node_modules/laravel-mix/setup/webpack.config.js --env.mixfile=webpack.mix.public-debug",
+        "prod:admin": "NODE_ENV=production node_modules/.bin/webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js --env.mixfile=webpack.mix.admin",
+        "prod:public": "NODE_ENV=production node_modules/.bin/webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js --env.mixfile=webpack.mix.public-prod",
+        "prod:admin-debug": "NODE_ENV=production DEBUG=1 node_modules/.bin/webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js --env.mixfile=webpack.mix.admin-debug",
+        "prod:public-debug": "NODE_ENV=production DEBUG=1 node_modules/.bin/webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js --env.mixfile=webpack.mix.public-debug"
+    },
+    "description": "WP Meteor Wordpress",
+    "keywords": [],
+    "license": "GPLv3.0",
+    "author": "Aleksandr Guidrevitch",
+    "contributors": [
+        "Aleksandr Guidrevitch (https://wp-meteor.com/)"
+    ],
+    "devDependencies": {
+        "@babel/core": "^7.12.10",
+        "@babel/plugin-proposal-class-properties": "^7.10.4",
+        "@babel/plugin-transform-object-assign": "^7.12.1",
+        "@babel/preset-react": "^7.12.10",
+        "laravel-mix-polyfill": "^2.0.0",
+        "sass": "^1.30.0",
+        "sass-loader": "^8.0.2",
+        "vue-template-compiler": "^2.6.12"
+    },
+    "dependencies": {
+        "core-js": "^3.8.1",
+        "intersection-observer": "^0.11.0",
+        "laravel-mix": "^5.0.9",
+        "react": "^16.14.0",
+        "react-contenteditable": "^3.3.5",
+        "react-dom": "^16.14.0",
+        "react-slider": "^1.1.2",
+        "react-tooltip": "^4.2.15",
+        "styled-components": "^5.2.1",
+        "url-polyfill": "^1.1.12"
+    },
+    "browserslist": "> 0.25%, not dead, ie >= 11"
+}

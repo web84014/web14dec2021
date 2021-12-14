@@ -1,0 +1,195 @@
+.event_schedule_area {
+    background: #fdfaf6;
+}
+
+.event_schedule_inner {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.event_schedule_inner .event_tab {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    border: 0px;
+}
+
+.event_schedule_inner .event_tab .nav-item {
+    margin: 0;
+}
+
+.event_schedule_inner .event_tab .nav-item .nav-link {
+    text-align: center;
+    border: 2px solid #fd475d;
+    border-radius: 45px;
+    padding: 6px 58px 8px;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+.event_schedule_inner .event_tab .nav-item .nav-link h5 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0;
+    color: #fd475d;
+}
+
+.event_schedule_inner .event_tab .nav-item .nav-link h5 span {
+    font-weight: 400;
+    font-size: 14px;
+    display: block;
+    padding-top: 5px;
+}
+
+.event_schedule_inner .event_tab .nav-item .nav-link.active, .event_schedule_inner .event_tab .nav-item .nav-link:hover {
+    background: #fd475d;
+    -webkit-box-shadow: 0px 10px 50px 0px rgba(195, 33, 52, 0.3);
+    box-shadow: 0px 10px 50px 0px rgba(195, 33, 52, 0.3);
+}
+
+.event_schedule_inner .event_tab .nav-item .nav-link.active h5, .event_schedule_inner .event_tab .nav-item .nav-link:hover h5 {
+    color: #fff;
+}
+
+.event_schedule_inner .event_tab .nav-item + .nav-item {
+    margin-left: 20px;
+}
+
+.event_tab_content {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.event_tab_content .media {
+    border-radius: 6px;
+    background-color: white;
+    -webkit-box-shadow: 0px 30px 60px 0px rgba(92, 10, 20, 0.08);
+    box-shadow: 0px 30px 60px 0px rgba(92, 10, 20, 0.08);
+    padding: 40px;
+    margin-top: 20px;
+    -webkit-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+.event_tab_content .media .media-left {
+    margin-right: 70px;
+}
+
+.event_tab_content .media .media-left img {
+    border-radius: 50%;
+    margin-bottom: 12px;
+}
+
+.event_tab_content .media .media-left a {
+    display: block;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2c2c51;
+    margin-top: 6px;
+    font-weight: 400;
+}
+
+.event_tab_content .media .media-left a i {
+    color: #fd475d;
+    padding-right: 8px;
+}
+
+.event_tab_content .media .media-body {
+    border-left: 1px solid #f1ece5;
+    padding-left: 70px;
+}
+
+.event_tab_content .media .media-body .h_head {
+    font-weight: 500;
+    margin-bottom: 3px;
+}
+
+.h_head {
+    font-size: 20px;
+    font-weight: 600;
+    color: #2c2c51;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+.event_tab_content .media .media-body span {
+    color: #7b7b93;
+    font-weight: 400;
+}
+
+.event_tab_content .media .media-body span a {
+    color: #fba820;
+}
+
+.event_tab_content .media .media-body p {
+    color: #7b7b93;
+    margin-bottom: 0;
+    padding-top: 12px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.event_tab_content .show .media {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+}
+
+/**=== Responsive ===**/
+@media (max-width: 991px) {
+    .event_tab_content .media .media-left {
+        margin-right: 50px;
+    }
+    .event_tab_content .media .media-body {
+        padding-left: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .sec_pad, .prototype_service_info {
+        padding: 0px 0px;
+    }
+    .event_schedule_inner .event_tab .nav-item .nav-link {
+        padding-left: 47px;
+        padding-right: 47px;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 650px) {
+    .event_tab_content .media {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .hosting_title h2 {
+        font-size: 31px;
+        line-height: 40px;
+    }
+    .event_tab_content .media .media-left {
+        margin-right: 30px;
+    }
+    .event_tab_content .media .media-body {
+        padding-left: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .event_tab_content .media {
+        display: block;
+    }
+    .event_tab_content .media .media-body {
+        padding-left: 0;
+        border: 0px;
+        margin-top: 15px;
+    }
+}

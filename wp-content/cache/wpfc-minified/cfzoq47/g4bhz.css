@@ -1,0 +1,120 @@
+@font-face {
+font-family: "Addons Icon";
+src: url(//www.whitelotuscorporation.com/wp-content/plugins/droit-elementor-addons/assets/fonts/droitaddons.woff?sgwx5z) format("woff");
+font-weight: 400;
+font-style: normal;
+font-display: block;
+}
+[class*=" dlicons-"],
+[class^="dlicons-"] {
+font-family: "Addons Icon" !important;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+}
+.addons-icon:after {
+content: "\e913";
+font-family: "Addons Icon" !important;
+speak: none;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+position: absolute;
+top: 6px;
+right: 6px;
+color: #e6e9ec;
+transition: color 0.2s linear;
+}
+.addons-icon.no-absulate:after{position: relative !important;top: 2px;left: -2px;}
+.droit-bar-pro:after {
+top: 15px;
+right: unset;
+margin-left: -7px;
+}
+.elementor-element:hover .dl-icon:after {
+color: grey;
+}
+.elementor-panel #elementor-panel-category-droit_addons .elementor-element .eicon-lock,
+.elementor-panel .elementor-element > .eicon-lock {
+right: unset !important;
+left: 5px !important;
+}
+.DL-icon:before {
+content: "\e913";
+color: #cdcfd2;
+}
+.dlicons-accordian:before {
+content: "\e900";
+}
+.dlicons-blog-post:before {
+content: "\e901";
+}
+.dlicons-blog:before {
+content: "\e902";
+}
+.dlicons-card:before {
+content: "\e903";
+}
+.dlicons-contact-form:before {
+content: "\e904";
+}
+.dlicons-countdown:before {
+content: "\e905";
+}
+.dlicons-faq:before {
+content: "\e906";
+}
+.dlicons-iconbox:before {
+content: "\e907";
+}
+.dlicons-image-carosel:before {
+content: "\e908";
+}
+.dlicons-inforbox:before {
+content: "\e909";
+}
+.dlicons-pricing-Table:before {
+content: "\e90a";
+}
+.dlicons-process:before {
+content: "\e90b";
+}
+.dlicons-quote:before {
+content: "\e90c";
+}
+.dlicons-social-share:before {
+content: "\e90d";
+}
+.dlicons-Tab:before {
+content: "\e90e";
+}
+.dlicons-table:before {
+content: "\e90f";
+}
+.dlicons-Team:before {
+content: "\e910";
+}
+.dlicons-timeline:before {
+content: "\e911";
+}
+.dlicons-woocommerce-card:before {
+content: "\e912";
+}
+.dlicons-animated-title:before {
+content: "\e914";
+}
+.dlicons-newsticky:before {
+content: "\e915";
+}
+.dlicons-alert:before {
+content: "\e916";
+}
+.dlicons-banner:before {
+content: "\e917";
+}

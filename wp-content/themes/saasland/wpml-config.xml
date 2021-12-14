@@ -1,0 +1,30 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">portfolio_attributes</custom-field>
+        <custom-field action="translate">attribute_title</custom-field>
+        <custom-field action="translate">attribute_value</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="saasland_opt">
+            <key name="blog_title" />
+            <key name="read_more" />
+            <key name="related_posts_title" />
+            <key name="copyright_txt" />
+            <key name="right_content" />
+            <key name="header_top_left_content" />
+            <key name="header_top_right_content" />
+            <key name="menu_btn_label" />
+            <key name="apply_btn_title" />
+            <key name="before_form" />
+            <key name="share_title" />
+            <key name="preloader_text" />
+            <key name="loading_text" />
+            <key name="shop_title" />
+            <key name="shop_subtitle" />
+            <key name="related_products_title" />
+            <key name="related_products_subtitle" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+

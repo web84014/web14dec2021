@@ -1,0 +1,20 @@
+{
+  "name": "ubermenu",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-nodeunit": "~2.0.0",
+    "grunt-contrib-uglify": "~3.3.0",
+    "grunt-dev-update": "^2.3.0",
+    "grunt-wp-i18n": "^1.0.2",
+    "load-grunt-tasks": "^4.0.0"
+  },
+  "dependencies": {
+    "google-closure-compiler": "^20170521.0.0",
+    "lodash": "^4.17.10",
+    "npm": "^6.2.0"
+  }
+}

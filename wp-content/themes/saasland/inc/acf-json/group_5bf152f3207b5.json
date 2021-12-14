@@ -1,0 +1,90 @@
+{
+    "key": "group_5bf152f3207b5",
+    "title": "Icon Settings",
+    "fields": [
+        {
+            "key": "field_5bf15304a2c95",
+            "label": "Color Left",
+            "name": "color_left",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33.3",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5bf1531ca2c96",
+            "label": "Color Right",
+            "name": "color_right",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33.3",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5bf1537fa2c97",
+            "label": "Shadow Color",
+            "name": "shadow_color",
+            "type": "extended-color-picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33.3",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "color_palette": "",
+            "hide_palette": 0
+        },
+        {
+            "key": "field_5d22ebd66380d",
+            "label": "Icon Class",
+            "name": "icon",
+            "type": "text",
+            "instructions": "Input here the icon class. You can use here the Themify icons https:\/\/themify.me\/themify-icons",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "none"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1612435887
+}

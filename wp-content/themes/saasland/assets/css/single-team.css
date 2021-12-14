@@ -1,0 +1,79 @@
+
+/*============ team_details_area css =========*/
+.team_details_content h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #161341;
+}
+.team_details_content .postition {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.75px;
+    margin-bottom: 25px;
+}
+.team_details_content p {
+    font-size: 15px;
+    line-height: 30px;
+}
+.team_details_content h5 {
+    font-size: 18px;
+    line-height: 34px;
+    color: #161341;
+    font-weight: 600;
+    margin-top: 25px;
+}
+.team_details_content .social_icon {
+    margin-bottom: 0;
+    margin-top: 16px;
+}
+.team_details_content .social_icon li {
+    display: inline-block;
+    margin-right: 6px;
+}
+.team_details_content .social_icon li a {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 13px;
+    display: block;
+    line-height: 42px;
+    border-radius: 50%;
+    color: #fff;
+    transition: all 0.2s linear;
+}
+.team_details_content .social_icon li a:hover {
+    box-shadow: 0 4px 6px 0 rgba(12, 0, 46, 0.26);
+}
+
+
+/***** Social Icon ******/
+.team_details_content .social_icon li a[href*="facebook.com"] {
+    background: #1877f2;
+}
+.team_details_content .social_icon li a[href*="twitter.com"] {
+    background: #1da1f2;
+}
+.team_details_content .social_icon li a[href*="linkedin.com"] {
+    background: #007bb5;
+}
+.team_details_content .social_icon li a[href*="youtube.com"] {
+    background: #ff0000;
+}
+.team_details_content .social_icon li a[href*="instagram.com"] {
+    background: #c32aa3;
+}
+.team_details_content .social_icon li a[href*="skype.com"] {
+    background: #00aff0;
+}
+.team_details_content .social_icon li a[href*="pinterest.com"] {
+    background: #bd081c;
+}
+.team_details_content .social_icon li a[href*="vimeo.com"] {
+    background: #1ab7ea;
+}
+.team_details_content .social_icon li a[href*="dribbble.com"] {
+    background: #ea4c89;
+}
+.team_details_content .social_icon li a[href*="wordpress.com"] {
+    background: #00749C;
+}

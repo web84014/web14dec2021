@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Product Dark were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://droitthemes.com/wp/saasland-theme/digital-agency
+Data file = /home/droitthemes/public_html/wp/saasland-theme/digital-agency/wp-content/uploads/2020/10/demo-content-import-file_2020-10-01__09-00-35.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+saasland_opt -> /home/droitthemes/public_html/wp/saasland-theme/digital-agency/wp-content/themes/saasland/inc/demos/new/settings.json 
+
+
+---Importing Redux settings---
+Redux settings import for: saasland_opt finished successfully!
+
+---pt-ocdi/after_import---
+

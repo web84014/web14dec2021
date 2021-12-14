@@ -1,0 +1,45 @@
+{
+    "key": "group_5e11ca3b3a635",
+    "title": "Recent Post Widget",
+    "fields": [
+        {
+            "key": "field_5e11ca450bb91",
+            "label": "Title Length",
+            "name": "title_length",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 24,
+            "placeholder": "",
+            "prepend": "",
+            "append": "character",
+            "min": "",
+            "max": "",
+            "step": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "widget",
+                "operator": "==",
+                "value": "recent-posts"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1607574883
+}

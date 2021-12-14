@@ -1,0 +1,192 @@
+@-webkit-keyframes round_circle {
+    0% {
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%) scale(0 0.2);
+        transform: translate(-50%, -50%) scale(0.02);
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translate(-50%, -50%) scale(1.2);
+        transform: translate(-50%, -50%) scale(1.2);
+    }
+}
+@keyframes round_circle {
+    0% {
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%) scale(0.02);
+        transform: translate(-50%, -50%) scale(0.02);
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translate(-50%, -50%) scale(1.2);
+        transform: translate(-50%, -50%) scale(1.2);
+    }
+}
+
+#utilityPages .section_title h2 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 14px;
+    font-family: "Poppins", sans-serif;
+    color: #2c2c51;
+    font-weight: 600;
+}
+#utilityPages .section_title h2 span {
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #5e2ced;
+    letter-spacing: 2px;
+}
+
+.utility_pages_1_wrap {
+    background: #fafafc;
+    overflow: hidden;
+    position: relative;
+    padding: 71px 0 0;
+}
+
+.utility_pages_1_wrap .round_shape_bg {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.utility_pages_1_wrap .round_shape_bg .r_img {
+    position: relative;
+    display: inline-block;
+}
+
+.utility_pages_1_wrap .round_shape_bg .r_img:before {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #eae2ff;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    animation: round_circle 3s infinite;
+}
+
+.utility_pages_1_wrap .section_title {
+    margin-bottom: 128px;
+}
+
+.utility_pages_1_wrap .utility_pages_imgs .utility_img {
+    position: relative;
+    height: 410px;
+}
+
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .uti_img {
+    position: absolute;
+    bottom: 0;
+    transition: all 0.3s;
+}
+
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .uti_img img {
+    transition: all 0.3s;
+    box-shadow: 10px 0px 20px 0px rgba(0, 22, 46, 0.1);
+}
+
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_1 {
+    left: 0;
+    transform: translateY(0);
+    z-index: 5;
+}
+
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_2 {
+    left: 20%;
+    transform: translateY(0);
+    z-index: 4;
+}
+
+@media (max-width: 768px) {
+    .utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_2 {
+        left: 15%;
+    }
+}
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_3 {
+    left: 39%;
+    transform: translateY(0);
+    z-index: 3;
+}
+
+@media (max-width: 768px) {
+    .utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_3 {
+        left: 35%;
+    }
+}
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_4 {
+    right: 18%;
+    transform: translateY(0);
+    z-index: 2;
+}
+
+@media (max-width: 768px) {
+    .utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_4 {
+        right: 15%;
+    }
+}
+.utility_pages_1_wrap .utility_pages_imgs .utility_img .utility_img_5 {
+    right: 0px;
+    transform: translateY(0);
+    z-index: 1;
+}
+
+.mb_show {
+    display: none;
+}
+
+.utility_pages_2_wrap {
+    background: #fff;
+    padding: 290px 0 265px;
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    .utility_pages_2_wrap {
+        padding: 110px 0;
+    }
+}
+.utility_pages_2_wrap .shape_2 {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.utility_pages_2_wrap .section_title {
+    margin-bottom: 40px;
+}
+
+.utility_pages_2_wrap .section_title h4 {
+    margin-bottom: 7px;
+}
+
+.utility_pages_2_wrap .utility_pages_2_img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    text-align: right;
+}
+
+@media (max-width: 1450px) {
+    .utility_pages_2_wrap .utility_pages_2_img img {
+        width: 90%;
+    }
+}
+@media (max-width: 1450px) and (max-width: 1200px) {
+    .utility_pages_2_wrap .utility_pages_2_img img {
+        width: 70%;
+    }
+}
+@media (max-width: 1450px) and (max-width: 1200px) and (max-width: 991px) {
+    .utility_pages_2_wrap .utility_pages_2_img img {
+        width: 50%;
+    }
+}

@@ -1,0 +1,58 @@
+.dl-progress-element{
+    margin-bottom: 35px;
+}
+.dl-progress-element p {
+    font: 400 14px/36px "Roboto", sans-serif;
+    letter-spacing: 0.25px;
+    color: #646566;
+    margin-bottom: 0;
+    text-align: left;
+    z-index: 9;
+    margin: 0px;
+}
+.dl-progress-content{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100%;
+    top: -30px;
+}
+
+.dl-progress-element .dl-progress {
+    height: 8px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #d0dae3;
+    overflow: visible;
+    margin-bottom: 5px;
+}
+
+.dl-progress {
+    border-radius: 4px;
+}
+
+.dl-promo-section .dl-promo-content .dl-progress-element .dl-progress .dl-progress-bar {
+    background: #505cfe;
+}
+
+.dl-progress-element .dl-progress .dl-progress-bar {
+    position: relative;
+    background: #505cfe;
+}
+
+.dl-progress-bar {
+    float: left;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+    width: 0;
+}
+
+.dl-progress-element .dl-progress .dl-progress-bar .dl-count-tip {
+    color: #656566;
+    font-size: 15px;
+}

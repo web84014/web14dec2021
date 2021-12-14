@@ -1,0 +1,105 @@
+.event_counter_area {
+    background: #fdfaf6;
+    padding: 75px 0px;
+}
+
+.event_text {
+    padding-right: 100px;
+}
+
+.event_text h3 {
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 500;
+    color: #2c2c51;
+    margin-bottom: 0;
+}
+
+.event_text h3 span {
+    font-weight: 700;
+    color: #fd475d;
+}
+
+.event_counter .redCountdownWrapper {
+    margin-left: -18px;
+    margin-right: -18px;
+}
+
+.event_counter .redCountdownWrapper > div {
+    margin: 0px 18px;
+    width: calc(25% - 36px);
+}
+
+.event_counter .redCountdownWrapper .redCountdownValue {
+    line-height: 30px;
+}
+
+.event_counter .redCountdownWrapper .redCountdownValue div {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.event_counter .redCountdownWrapper .redCountdownValue span {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.event_counter .redCountdownWrapper .redCountdownDays .redCountdownValue div,
+.event_counter .redCountdownWrapper .redCountdownDays .redCountdownValue span {
+    color: #fd475d;
+}
+
+.event_counter .redCountdownWrapper .redCountdownHours .redCountdownValue div,
+.event_counter .redCountdownWrapper .redCountdownHours .redCountdownValue span {
+    color: #2d8dfa;
+}
+
+.event_counter .redCountdownWrapper .redCountdownMinutes .redCountdownValue div,
+.event_counter .redCountdownWrapper .redCountdownMinutes .redCountdownValue span {
+    color: #9449fb;
+}
+
+.event_counter .redCountdownWrapper .redCountdownMinutes .redCountdownValue div,
+.event_counter .redCountdownWrapper .redCountdownMinutes .redCountdownValue span {
+    color: #9449fb;
+}
+
+.event_counter .redCountdownWrapper .redCountdownSeconds .redCountdownValue div,
+.event_counter .redCountdownWrapper .redCountdownSeconds .redCountdownValue span {
+    color: #4ad425;
+}
+
+@media ( max-width: 650px ) {
+    .event_counter .redCountdownWrapper > div{
+        width: calc(33% - 36px);
+        margin-bottom: 20px;
+    }
+    .event_tab_content .media{
+        padding: 30px 20px;
+    }
+}
+
+@media ( max-width: 576px ) {
+    .event_banner_content h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .event_counter .redCountdownWrapper > div{
+        width: calc(50% - 36px);
+        margin-bottom: 20px;
+    }
+    .event_counter .redCountdownWrapper .redCountdownValue span{
+        font-size: 16px !important;
+    }
+    .event_tab_content .media .media-body {
+        padding-left: 30px;
+    }
+    .event_tab_content .media .media-left {
+        margin-right: 30px;
+    }
+    .event_promotion_info{
+        margin-top: 0;
+        padding-top: 50px;
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "key": "group_5bcf1a7163114",
+    "title": "Banner Settings",
+    "fields": [
+        {
+            "key": "field_5bcf1c8eb4909",
+            "label": "Banner",
+            "name": "is_banner",
+            "type": "true_false",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 1,
+            "ui": 1,
+            "ui_on_text": "Show",
+            "ui_off_text": "Hide"
+        },
+        {
+            "key": "field_5e131f2b26ff8",
+            "label": "Text Color",
+            "name": "banner_text_color",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5e6b6fea62339",
+            "label": "Shape Image",
+            "name": "banner_shape_image",
+            "type": "image",
+            "instructions": "Use here a transparent png shape image. The shape will appear on the top right side of the banner.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "id",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5e6b62c7c2873",
+            "label": "Background Type",
+            "name": "banner_background_type",
+            "type": "button_group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "color": "Gradient Color",
+                "image": "Image with Overlay"
+            },
+            "allow_null": 0,
+            "default_value": "",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5be92117b462c",
+            "label": "Background Color Left",
+            "name": "background_color_left",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    },
+                    {
+                        "field": "field_5e6b62c7c2873",
+                        "operator": "==",
+                        "value": "color"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5be92136b462d",
+            "label": "Background Color Right",
+            "name": "background_color_right",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    },
+                    {
+                        "field": "field_5e6b62c7c2873",
+                        "operator": "==",
+                        "value": "color"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5c04cc6216add",
+            "label": "Background Image",
+            "name": "banner_background_image",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    },
+                    {
+                        "field": "field_5e6b62c7c2873",
+                        "operator": "==",
+                        "value": "image"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5e6b6aca930c0",
+            "label": "Overlay Color",
+            "name": "banner_overlay_color",
+            "type": "extended-color-picker",
+            "instructions": "The overlay color should be transparent (RGBA).",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5bcf1c8eb4909",
+                        "operator": "==",
+                        "value": "1"
+                    },
+                    {
+                        "field": "field_5e6b62c7c2873",
+                        "operator": "==",
+                        "value": "image"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "color_palette": "",
+            "hide_palette": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "none"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1607574856
+}

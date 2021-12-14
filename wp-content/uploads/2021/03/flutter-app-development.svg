@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304.625" height="304.625" viewBox="0 0 304.625 304.625">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8ebeff"/>
+      <stop offset="1" stop-color="#d3adff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.007" x2="0.5" y2="1.017" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a6dff"/>
+      <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_31" data-name="Group 31" transform="translate(-1258 -3054)">
+    <path id="iconfinder_flutter_4691465" d="M77.391,0,2.3,75,25.426,98.129,123.455.075H77.472Zm.088,69.2L37.033,109.561,77.472,150h46.083L83.178,109.573,123.555,69.2H77.484Z" transform="translate(1347.7 3131)" fill="url(#linear-gradient)"/>
+    <path id="Path_67" data-name="Path 67" d="M232.422,311.625H86.2A79.294,79.294,0,0,1,7,232.422V86.2A79.294,79.294,0,0,1,86.2,7h146.22a79.294,79.294,0,0,1,79.2,79.2v146.22A79.294,79.294,0,0,1,232.422,311.625ZM86.2,19.185A67.1,67.1,0,0,0,19.185,86.2v146.22A67.1,67.1,0,0,0,86.2,299.44h146.22a67.1,67.1,0,0,0,67.017-67.017V86.2a67.1,67.1,0,0,0-67.017-67.017Z" transform="translate(1251 3047)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

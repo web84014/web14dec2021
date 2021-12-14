@@ -1,0 +1,26 @@
+{
+    "name": "droitlab/droit-elementor-addons-pro",
+    "description": "Droit Elementor Addons is a bundle of super useful widgets. This Elementor compatible plugin is easy to use and you can customize different features as you like. Just plug and play.",
+    "keywords": ["best elementor addons 2020", "Droit addons for elementor", "best free elementor addons 2020", "premium addons for elementor", "best elementor addons reddit", "the plus addons for elementor", "best elementor addons for woocommerce", "master addons for elementor", "elementor addon elements", "top elementor addons", "elementor addons free", "elementor addons plugin", "elementor addons wordpress"],
+    "homepage": "https://droitlab.com",
+    "type": "droitelementoraddons",
+    "time": "24-11-2020",
+    "license": "GPLv3",
+    "authors": [{
+        "name": "DroitLab",
+        "email": "inbox@droitthemes.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "support": {
+        "email": "inbox@droitthemes.com"
+    },
+    "autoload": {
+        "psr-4": {
+            "DROIT_ELEMENTOR_PRO\\": "includes/",
+            "DROIT_ELEMENTOR_PRO\\Core\\": "core/",
+            "DROIT_ELEMENTOR_PRO\\Admin\\": "admin/",
+            "DROIT_ELEMENTOR_PRO\\App\\": "app/"
+        }
+    }
+}

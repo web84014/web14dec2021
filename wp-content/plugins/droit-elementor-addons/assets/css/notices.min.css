@@ -1,0 +1,62 @@
+.notice.droit-addons-elementor-notice {
+    border-left-color: #574ff7 !important;
+    padding: 20px;
+}
+.rtl .notice.droit-addons-elementor-notice {
+    border-right-color: #574ff7 !important;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-notice-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-notice-inner .droit-addons-elementor-notice-icon,
+.notice.droit-addons-elementor-notice .droit-addons-elementor-notice-inner .droit-addons-elementor-notice-content,
+.notice.droit-addons-elementor-notice .droit-addons-elementor-notice-inner .droit-addons-elementor-install-now {
+    display: table-row;
+    align-items: center;
+    justify-content: space-between;        }
+.notice.droit-addons-elementor-notice .droit-addons-elementor-notice-icon {
+    color: #33ccff;
+    font-size: 50px;
+    width: 50px;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-notice-content {
+    padding: 0 0px;
+}
+.notice.droit-addons-elementor-notice p {
+    padding: 0;
+    margin: 0;
+}
+.notice.droit-addons-elementor-notice h3 {
+    margin: 0 0 5px;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-install-now {
+    text-align: center;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-install-now .droit-addons-elementor-install-button {
+    padding: 5px 30px;
+    height: auto;
+    line-height: 20px;
+    text-transform: capitalize;
+    border-color: #a533ff !important;
+    background-image: linear-gradient( 85.05deg, #574ff7 6.33%, #a533ff 102.21% )!important;
+    background-image: -moz-linear-gradient( 85.05deg, #574ff7 6.33%, #a533ff 102.21%)!important;
+    background-image: -webkit-linear-gradient( 85.05deg, #574ff7 6.33%, #a533ff 102.21%)!important;
+    background-image: -ms-linear-gradient( 85.05deg, #574ff7 6.33%, #a533ff 102.21%)!important;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-install-now .droit-addons-elementor-install-button i {
+    padding-right: 5px;
+}
+.rtl .notice.droit-addons-elementor-notice .droit-addons-elementor-install-now .droit-addons-elementor-install-button i {
+    padding-right: 0;
+    padding-left: 5px;
+}
+.notice.droit-addons-elementor-notice .droit-addons-elementor-install-now .droit-addons-elementor-install-button:active {
+    transform: translateY(1px);
+}
+@media (max-width: 767px) {
+    .notice.droit-addons-elementor-notice {
+        padding: 10px;
+    }
+}

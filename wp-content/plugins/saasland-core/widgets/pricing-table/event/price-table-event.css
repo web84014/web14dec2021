@@ -1,0 +1,116 @@
+/*================ event_price_area css ============== */
+.event_price_item {
+    padding: 46px 0px 36px;
+    border: 0px;
+    border-radius: 0px;
+    background-color: white;
+    -webkit-box-shadow: 0px 10px 40px 0px rgba(64, 1, 9, 0.06);
+    box-shadow: 0px 10px 40px 0px rgba(64, 1, 9, 0.06);
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.event_price_item:before {
+    content: "";
+    position: absolute;
+    bottom: -22px;
+    left: 0;
+    height: 22px;
+    width: 100%;
+    background-size: cover;
+}
+
+.event_price_item .p_head {
+    border: 0px;
+}
+
+.event_price_item .p_head h5 {
+    margin-bottom: 0;
+}
+
+.event_price_item .p_head .rate, .event_price_item .p_head .tag {
+    color: #fba820;
+}
+
+.event_price_item .p_body {
+    padding: 0px 40px 30px;
+    border-bottom: 0.5px dashed #cfcfdc;
+}
+
+.event_price_item .p_body li {
+    color: #7b7b93;
+}
+
+.event_price_item .p_body li .ti-check {
+    color: #26da15;
+}
+
+.event_price_item .p_body li .ti-close {
+    color: #fc314e;
+}
+
+.event_price_item .event_btn {
+    width: 100%;
+}
+
+.event_price_item .event_btn:hover {
+    -webkit-box-shadow: 0px 10px 40px 0px rgba(195, 33, 52, 0.3);
+    box-shadow: 0px 10px 40px 0px rgba(195, 33, 52, 0.3);
+}
+
+.event_price_item .text-center {
+    padding: 40px 40px 0px;
+}
+
+.event_price_item.active {
+    padding-top: 20px;
+    -webkit-box-shadow: 0px 50px 100px 0px rgba(64, 1, 9, 0.1);
+    box-shadow: 0px 50px 100px 0px rgba(64, 1, 9, 0.1);
+}
+
+.event_price_item.active .p_head .rate {
+    color: #fd475d;
+}
+
+.event_price_item.active .p_body li {
+    color: #7b7b93;
+}
+
+.event_price_item.active .event_btn:hover {
+    -webkit-box-shadow: 0px 10px 40px 0px rgba(195, 33, 52, 0.3);
+    box-shadow: 0px 10px 40px 0px rgba(195, 33, 52, 0.3);
+}
+
+.event_price_item:hover {
+    -webkit-box-shadow: 0px 50px 100px 0px rgba(64, 1, 9, 0.1);
+    box-shadow: 0px 50px 100px 0px rgba(64, 1, 9, 0.1);
+}
+.analytices_price_item .event_btn {
+    font-size: 16px;
+    padding: 11px 51px;
+    border-radius: 45px;
+    background: #fd475d;
+    border: 2px solid #fd475d;
+    color: #fff;
+}
+.analytices_price_item .event_btn_two {
+    padding: 11px 33px;
+    border-color: #fba820;
+    color: #fba820;
+    background: transparent;
+}
+.analytices_price_item .event_btn_two:hover {
+    color: #ffffff;
+    background-color: #fba820;
+    border-color: #fba820;
+    -webkit-box-shadow: 0px 10px 50px 0px rgba(194, 132, 33, 0.3);
+    box-shadow: 0px 10px 50px 0px rgba(194, 132, 33, 0.3);
+}
+
+/**=== Responsive ===**/
+
+@media (max-width: 991px) {
+    .event_price_item {
+        margin-bottom: 60px;
+    }
+}
